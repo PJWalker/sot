@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Strength of Thousands",
-    pageTitleSuffix: "Strength of Thousands",
+    pageTitle: "High or Lows",
+    pageTitleSuffix: " – High or Lows",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,

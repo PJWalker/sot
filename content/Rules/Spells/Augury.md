@@ -1,7 +1,5 @@
 https://2e.aonprd.com/Spells.aspx?ID=15&NoRedirect=1
 
-[[Okoro Obioyo|Okoro]] has a scroll.
-
 [Divination](https://2e.aonprd.com/Traits.aspx?ID=47) [Prediction](https://2e.aonprd.com/Traits.aspx?ID=132)   
 **Traditions** [divine](https://2e.aonprd.com/Spells.aspx?Tradition=2), [occult](https://2e.aonprd.com/Spells.aspx?Tradition=3)  
 **Bloodline** [harrow](https://2e.aonprd.com/Bloodlines.aspx?ID=18)  

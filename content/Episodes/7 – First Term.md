@@ -16,8 +16,10 @@
 * We signed up to [[Babysitters|Babysit]] at some point.
 * We help [[Haibram Thodja|Haybram]] launch his hang-glider
 
-## Sparring Tournament 
+## Sparring Tournament Prep
 * [[Sparring Tournament]] poster on the bulletin board
 * We form a team.
 * [[Esi Djana|Esi]], [[Haibram Thodja|Haybram]] & [[Mariama Keitana|Mariama]] form another team.
-* [[Ukku Kehehd|Ukku]] sends Rat Familiar to investigate [[Leshy Gardens]] .
+* [[Scrin Wildfang|Scrin]] sends his familiar to investigate [[Leshy Gardens]] - finds the [[Leshy Construct|Leshy Constructs]].
+* [[Finnick Bristle|Finnick]] + [[Scrin Wildfang|Scrin]] + [[Ukku Kehehd|Ukku]]  go to speak with the [[Leshy|Leshies]] and gets info from [[Copper Cloudrunner]].
+* 

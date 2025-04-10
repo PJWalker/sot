@@ -6,32 +6,13 @@ tags: []
 * Provided Elephant birds, a map, and a bunch
 
 ## Hate Mail
-* “To the stupid Magaambya parcel 
+* “To the stupid Magaambya parcel deliverers…” a lamp didn’t get to Ndide and their grandfather is mad
 
-3 - illegible.
-
-2 letters, dechiphers.
-
-4 - vague directions — gather information
-
-There are Shrines around.
-There people will get mad around midnight.
-
-Where is my package –
-
-Lamp not where my niece
-Stained glass lamp –
-Return address Nantambu
-
-–– Indidee – indide's address mentioned.
-
-3 More – those are
-
-Gozre – a god - deity of wind and weather — please tie to a kite, & once high in the air, release.
-
-✅ Nethis – sent when five spells cast on it simultaneously
-
-Mazludeh – imperial lord of stewards/snakes — 'new canal should be strong & reliable', transcribe on an egg,
+## God Mail
+* Nethys: sent when five spells cast on it simultaneously
+* Gozre: a god - deity of wind and weather — please tie to a kite, & once high in the air, release.
+	* [[Okori]] recommended getting help from [[Haibram Thodja|Haybram]]
+* Mazludeh: imperial lord of stewards/snakes — 'new canal should be strong & reliable', transcribe on an egg,
 
 # Raw Transcript
 

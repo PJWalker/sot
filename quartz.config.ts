@@ -59,11 +59,11 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
+      Plugin.FindSocialImage(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description({ allowFragment: true, descriptionLength: 340 }),
       Plugin.HardLineBreaks(),
-      Plugin.FindSocialImage(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
@@ -79,7 +79,6 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      Plugin.CustomOgImages(),
     ],
   },
 }

@@ -15,21 +15,12 @@ const defaultOptions = {
 export const FindSocialImage: QuartzTransformerPlugin = () => {
   return {
     name: "FindSocialImage",
-    markdownPlugins() {
+    markdownPlugins(ctx) {
       return [
-        (ctx) => {
-          console.log(ctx);
+        () => {
           return (tree: MdastRoot, file: VFile) => {
-            visit(tree, "image", (image) => {
-                // transformLink(
-                //     file.data.slug!,
-                //     image.url,
-                //   {
-                //     "strategy":
-                //     allSlugs: BuildCtx
-                //     }
-                //   )
-              return EXIT;
+            visit(tree, (image) => {
+                console.log(image)
             })
           }
         },

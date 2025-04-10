@@ -68,9 +68,9 @@ jobs:
       - name: Copy raw HTML folder
         run: |
           ls -la
-          cp -r raw_html/* public/ || true
+          cp -r raw_html/* static/ || true
           echo "Contents of public directory:"
-          ls -la public/
+          ls -la static/
         working-directory: ./
 
       - name: Setup GitHub Pages
@@ -79,7 +79,7 @@ jobs:
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./static
+          path: ./public
           retention-days: 1
 
       - name: Deploy to GitHub Pages

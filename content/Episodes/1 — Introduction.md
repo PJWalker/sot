@@ -13,10 +13,10 @@ OT asks us:
 > Is there something inside you that pulls at you, perhaps defying rational explanation?
 > Who are you, and how can that person best be guided to grow? #Followup
 
-## [[Spire Dormitory|Dormitory]]
+## Dormitory
 The players go to their [[Spire Dormitory|dorms]]. Esi leads a tour of the building.
-## [[Dining Hall]]
-After meeting back up, the group heads to the dining hall to meet Lumusi and eat. [[Lumusi Yao]] gives us a **mango-shaped [[Beads|Bead]]** & discusses opportunities.
+## Dining Hall
+After meeting back up, the group heads to the [[Dining Hall]] to meet Lumusi and eat. [[Lumusi Yao]] gives us a **mango-shaped [[Beads|Bead]]** & discusses opportunities.
 
 - [[Liana Salazar|Liana]] says "berries are my weakness" ^b96a2f
 ## [[Powderpile]] 

@@ -28,5 +28,5 @@ Had a 'whole lab' to unload into her dorm.
 - [[1 — Introduction#^money|Probably well off]]
 - [[7 – First Term#^-aab0|Figured out]] that the [[Special Divination Squad]] rules are a scroll of [[Augury]] 
 - Been to ‘many schools’
-- Highly literate
-- [[6 – Induction Ceremony#^b5bl4|Chose the red cravat]]
+- Highly literate; likes books
+- [[6 – Induction Ceremony?#^b5bl4|Chose the red cravat]]

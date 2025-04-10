@@ -1,8 +1,10 @@
-The adventurers explore a maze of tunnels beneath the school, discovering a dormitory and then a library. They decide to investigate the library, finding it filled with old technical manuals.
-
-The group then head back to the dormitory drop off their belongings and meet their new group member, [[Okori]]. Okori is a 6-foot tall woman with white hair, blue eyes, massive wings, and taloned feet, who is initially taken aback by the group’s appearance. After introductions, the group heads to the dining hall for lunch, discussing their previous task of dealing with gremlins and planning to explore the tunnels later.
-
-The group explores the tunnels, finding a library room with documents and maps. They decide to return to the dormitory, where they encounter Aory, who offers to help with the fifth trial. While cleaning up, they discover magical bandages in the abandoned laundry.
+* We noticed a trap door while fighting the [[Gremlin|Gremlins]], and go in
+* We find paths leading to [[Star Dormitory]], and then [[Archhorn Library]], 
+* We go back to our [[Spire Dormitory|dorms]] 
+* [[Okori]] has arrived!
+* [[Ukku Kehehd|Ukku]] looks for a tunnel entrance in the [[Dining Hall]].
+* [[Okori]] & [[Liana Salazar|Liana]] eat together.
+* 
 
 The student explore the academy dorms and find magical bandages.
 

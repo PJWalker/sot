@@ -20,13 +20,13 @@ tags:
 - Expressed interest in the [[Emerald Boughs]] and [[Cascade Bearers]]
 - Joining the [[Gamers]]
 
-# Academia
+## Academia
 L1 – [[Emerald Boughs]]
 
-# Stated Goal
+## Stated Goal
 [[Finnick Bristle|Finnick]] desires to learn from the Magaambya community and recreate its wonders worldwide. He wants to become a legendary figure known throughout the land after achieving their goals.
 
-# Background
+## Background
 
 Finnick was born in a small village on the outskirts of Nantambu. His parents were gnome herb traders who roamed far and wide, leaving him alone in their rural abode for much of his childhood. From a young age, Finnick was fascinated with nature, and the birds that flew through the forests near his home. He loved to listen to their songs. It was on one of his bird-watching adventures that Finnick first encountered [[Teacher Ot|Takulu Ot]] and Niana. Takulu played Finnick a song and Takulu was enraptured. He begin to take lute lessons under Takulu’s wing.
 

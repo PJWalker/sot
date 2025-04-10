@@ -9,7 +9,7 @@ tags:
 ![[Magaambya-1744254757374.webp]]
 
 The magic school everything’s taking place in.
-
+Only a handful of lore
 
 
 # Ranks

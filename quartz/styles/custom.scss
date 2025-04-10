@@ -12,3 +12,7 @@ h6 {
 p {
   text-wrap: pretty;
 }
+
+.page-title {
+  font-size: calc(clamp(0.5rem, 4vw, 1.75rem));
+}

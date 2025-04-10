@@ -144,6 +144,7 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       return {
         additionalHead: [
           (pageData) => {
+            console.log(pageData)
             const isRealFile = pageData.filePath !== undefined
             let userDefinedOgImagePath = pageData.frontmatter?.socialImage
 

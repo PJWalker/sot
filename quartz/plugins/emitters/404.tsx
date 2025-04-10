@@ -2,7 +2,6 @@ import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
-import { FullPageLayout } from "../../cfg"
 import { FullSlug } from "../../util/path"
 import { sharedPageComponents } from "../../../quartz.layout"
 import { NotFound } from "../../components"
@@ -11,8 +10,7 @@ import { write } from "./helpers"
 import { i18n } from "../../i18n"
 
 export const NotFoundPage: QuartzEmitterPlugin = () => {
-  const opts: FullPageLayout = {
-    left:[],
+  const opts = {
     ...sharedPageComponents,
     pageBody: NotFound(),
     beforeBody: [],

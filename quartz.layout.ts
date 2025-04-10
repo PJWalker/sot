@@ -4,16 +4,19 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.DesktopOnly(
+      Component.Explorer({
+        title: "Notes",
+      }),
+    ),
+  ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(
       Component.Explorer({
-        folderDefaultState: "collapsed",
-        folderClickBehavior: "link",
-        title: "",
+        title: "Notes",
       }),
     ),
     Component.Darkmode(),

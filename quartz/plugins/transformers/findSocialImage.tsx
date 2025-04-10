@@ -20,20 +20,13 @@ export const FindSocialImage: QuartzTransformerPlugin = () => {
         () => {
           return (tree: MdastRoot, file: VFile) => {
             visit(tree, (e) => e.tagName==="img", (image) => {
-              console.log(image);
-              return EXIT
+              file.data.frontmatter.socialImage = image.properties.src;
+              console.log(file.data)
+              return EXIT;
             })
           }
         },
       ]
     },
-  }
-}
-
-// tell typescript about our custom data fields we are adding
-// other plugins will then also be aware of this data field
-declare module "vfile" {
-  interface DataMap {
-    ogImage: string
   }
 }

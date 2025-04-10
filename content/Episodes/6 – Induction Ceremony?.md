@@ -6,4 +6,12 @@
 	* [[Okori]] & [[Scrin Wildfang|Scrin]] summarised other events
 	* [[Okori]] sung a moving song of the stars
 	* [[Ukku Kehehd|Ukku]] described his backstory ("We‘re all under the shadow of the [[Gallowspire]]’“)
+
+## Okori & Liana
+* Okori compliments Liana’s poetry.
+* Liana invites to pick outfit of
+
+## Finnick & Ukku 
+
+## Induction
 * We planned to go to our [[Induction Ceremony]], but instead got in a fight with [[Gremlin|Gremlins]]

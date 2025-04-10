@@ -13,3 +13,4 @@ tags:
 * Threatened to eat [[Scrin Wildfang|Scrin]] 
 * Doesn‘t drink at home
 * Wants to view the stars (religious?)
+* Outsider

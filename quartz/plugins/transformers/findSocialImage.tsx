@@ -1,6 +1,7 @@
 import { MdastRoot } from "mdast-util-to-hast/lib/handlers/root";
 import { QuartzTransformerPlugin } from "../types";
 import { VFile } from "vfile";
+import { visit } from "unist-util-visit";
 
 export const FindSocialImage: QuartzTransformerPlugin = () => {
   return {
@@ -9,9 +10,7 @@ export const FindSocialImage: QuartzTransformerPlugin = () => {
       return [
         () => {
           return (tree: MdastRoot, file: VFile) => {
-            tree.children.forEach(child => {
-              console.log(child.type)
-            })
+            visit(tree, "image", (image) => {console.log(image.url) })
           }
         },
       ]

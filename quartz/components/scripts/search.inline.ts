@@ -179,17 +179,22 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   function hideSearch() {
+    const search = document.getElementsByClassName("search")[0] as HTMLDivElement
+    searchBar.style.viewTransitionName = "search"
+    search.style.viewTransitionName = ""
     document.startViewTransition(async () => {
-      container.classList.remove("active");
-      searchBar.value = ""; // clear the input when we dismiss the search
-      if (sidebar) sidebar.style.zIndex = "";
-      removeAllChildren(results);
+      container.classList.remove("active")
+      searchBar.value = "" // clear the input when we dismiss the search
+      if (sidebar) sidebar.style.zIndex = ""
+      removeAllChildren(results)
       if (preview) {
-        removeAllChildren(preview);
+        removeAllChildren(preview)
       }
-      searchLayout.classList.remove("display-results");
-      searchType = "basic"; // reset search type after closing
-      searchButton.focus();
+      searchLayout.classList.remove("display-results")
+      searchType = "basic" // reset search type after closing
+      searchBar.style.viewTransitionName = ""
+      search.style.viewTransitionName = "search"
+      searchButton.focus()
     })
   }
 

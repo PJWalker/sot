@@ -8,13 +8,22 @@ export const FindSocialImage: QuartzTransformerPlugin = () => {
     name: "FindSocialImage",
     markdownPlugins() {
       return [
-        () => {
-          return (tree: MdastRoot, file: VFile) => {
-            visit(tree, "image", (image) => {console.log(image.url) })
-          }
-        },
+        // () => {
+        //   return (tree: MdastRoot, file: VFile) => {
+        //     visit(tree, "image", (image) => {console.log(image.url) })
+        //   }
+        // },
       ]
     },
+    htmlPlugins() {
+      return [
+        () => {
+          return (tree, file: VFile) => {
+            console.log(file.data.links)
+          }
+        }
+      ]
+    }
   }
 }
 

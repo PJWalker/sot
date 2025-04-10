@@ -13,13 +13,16 @@
 
 ## Finnick & Ukku 
 * Finnick finds Ukku in the [[Leshy Gardens]], asks him to help between two cravats
-* Ukku chooses Yellow
+* Ukku chooses the yellow cravat ^g8dtm
 * Ukku discusses desire to make a legacy
 
 ## Fashion Show
 * Finnick returns to the dorm & sees [[Ignaci Canterells|Ignaci]], [[Noxolo]], [[Tzeniwe]] making kids clothes
 * Finnick offers to help, but is not helpful at sewing
-* Puts on a fashion show instead 
+* Puts on a fashion show instead
+* Scrin avoids this
+* Liana meets Finnick, and chooses the red cravat. ^b5bl4
 
+We sleep
 ## Induction
-* We planned to go to our [[Induction Ceremony]], but instead got in a fight with [[Gremlin|Gremlins]]
+* We planned to go to our [[Induction Ceremony]], but were ambushed by [[Gremlin|Gremlins]]

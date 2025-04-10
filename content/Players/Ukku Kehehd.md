@@ -22,3 +22,4 @@ Looks like a farmer, wearing simple clothing
 - Says his greatest strength is his honour.
 - [[1 — Introduction#^money|Probably poor]]
 - Assigned a plot in the [[Leshy Gardens]] by [[Thema]] 
+- [[6 – Induction Ceremony?#^g8dtm|chose the yellow cravat]]

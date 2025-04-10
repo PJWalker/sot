@@ -1,4 +1,4 @@
-import { computePosition, flip, inline, shift } from "@floating-ui/dom"
+import { autoPlacement, computePosition, inline } from "@floating-ui/dom"
 import { normalizeRelativeURLs } from "../../util/path"
 import { fetchCanonical } from "./util"
 import { randomIdNonSecure } from "../../util/random"
@@ -20,8 +20,7 @@ async function mouseEnterHandler(
   async function setPosition(popoverElement: HTMLElement) {
     const { x, y } = await computePosition(link, popoverElement, {
       strategy: "fixed",
-      placement: "top",
-      middleware: [inline({ x: clientX, y: clientY }), shift(), flip()],
+      middleware: [inline({ x: clientX, y: clientY }), autoPlacement()],
     })
     Object.assign(popoverElement.style, {
       transform: `translate(${x.toFixed()}px, ${y.toFixed()}px)`,
@@ -126,7 +125,8 @@ function clearActivePopover() {
 }
 
 document.addEventListener("nav", () => {
-  const links = [...document.getElementsByClassName("internal")] as HTMLAnchorElement[]
+  const links = [...document.getElementsByClassName("internal")] as HTMLAnchorElement[];
+  links.concat()
   for (const link of links) {
     link.addEventListener("mouseleave", clearActivePopover)
     link.addEventListener("mouseenter", mouseEnterHandler)

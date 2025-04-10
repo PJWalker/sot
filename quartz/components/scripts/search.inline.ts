@@ -177,23 +177,29 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   function hideSearch() {
-    container.classList.remove("active")
-    searchBar.value = "" // clear the input when we dismiss the search
-    if (sidebar) sidebar.style.zIndex = ""
-    removeAllChildren(results)
-    if (preview) {
-      removeAllChildren(preview)
-    }
-    searchLayout.classList.remove("display-results")
-    searchType = "basic" // reset search type after closing
-    searchButton.focus()
+    document.startViewTransition(async () => {
+      container.classList.remove("active");
+      searchBar.value = ""; // clear the input when we dismiss the search
+      if (sidebar) sidebar.style.zIndex = "";
+      removeAllChildren(results);
+      if (preview) {
+        removeAllChildren(preview);
+      }
+      searchLayout.classList.remove("display-results");
+      searchType = "basic"; // reset search type after closing
+      searchButton.focus();
+    })
   }
 
   function showSearch(searchTypeNew: SearchType) {
     searchType = searchTypeNew
-    if (sidebar) sidebar.style.zIndex = "1"
-    container.classList.add("active")
-    searchBar.focus()
+
+    document.startViewTransition(async () => {
+      if (sidebar) sidebar.style.zIndex = "1"
+      container.classList.add("active")
+      searchBar.focus()
+    })
+
   }
 
   let currentHover: HTMLInputElement | null = null

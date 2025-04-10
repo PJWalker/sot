@@ -12,5 +12,6 @@ tags: []
 * Ukku & [[Scrin Wildfang|Scrin]] deliver larger packages
 * [[Okori]] got help from [[Haibram Thodja|Haybram]] to deliver Letter to [[Gozreh]]:  “please tie to a kite, & once high in the air, release.”
 * [[Mazludeh]]: "transcribe on an egg & feed to a snake.”
+	* Okori
 ## Hate Mail
 * “To the stupid Magaambya parcel deliverers…” a lamp didn’t get to Ndidi and their grandfather is mad.

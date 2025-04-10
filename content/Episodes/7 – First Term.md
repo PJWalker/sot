@@ -4,9 +4,6 @@
 	* [[Mafika Ayuwari]] introduces the [[Sparring Tournament]] 
 	* [[Zuma]] leaves a poor impression on me
 	* [[Korida]] arrives late
-
-* We all [[Study]] throughout the term.
-
 ## Groups
 * [[Gamers]]:
 	* We play [[Special Divination Squad]] – I win!
@@ -16,7 +13,6 @@
 *  [[Recorders]] introduced
 * We signed up to [[Babysitters|Babysit]] at some point.
 * We help [[Haibram Thodja|Haybram]] launch his hang-glider
-
 ## Sparring Tournament Prep
 * [[Sparring Tournament]] poster on the bulletin board
 * We form a team.
@@ -24,8 +20,18 @@
 * [[Scrin Wildfang|Scrin]] sends his familiar to investigate [[Leshy Gardens]] - finds the [[Leshy Construct|Leshy Constructs]].
 * [[Finnick Bristle|Finnick]] + [[Scrin Wildfang|Scrin]] + [[Ukku Kehehd|Ukku]]  go to speak with the [[Leshy|Leshies]] and gets info from [[Copper Cloudrunner]].
 * [[Leshy Construct|Leshy Constructs]] & weak to fire (and crits)
-
 ## Missing Chicken
 * [[Anchorroot]] lost Mr Clucks.
 * [[Ukku Kehehd|Ukku]] finds it in on the roof
 * [[Okori]] scares it off.
+## Secret Passage
+* [[Scrin Wildfang|Scrin]]  finds a secret entrance
+* everyone else already knew about it.
+* 
+## Study
+* We all [[Study|studied]] throughout the term.
+	* [[Liana Salazar|Liana]] gains a level of [[Uzunjati]] 
+	* [[Scrin Wildfang|Scrin]] gains a level [[Cascade Bearers]] 
+	* [[Finnick Bristle|Finnick]] gets a level on [[Emerald Boughs]]
+	* [[Okori]] is also here
+	* [[Ukku Kehehd|Ukku]] is also here

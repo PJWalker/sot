@@ -7,12 +7,14 @@ export interface Options {
   descriptionLength: number
   maxDescriptionLength: number
   replaceExternalLinks: boolean
+  allowFragment: boolean
 }
 
 const defaultOptions: Options = {
   descriptionLength: 150,
   maxDescriptionLength: 300,
   replaceExternalLinks: true,
+  allowFragment: false,
 }
 
 const urlRegex = new RegExp(
@@ -39,41 +41,41 @@ export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
               text = text.replace(urlRegex, "$<domain>" + "$<path>")
             }
 
-            if (frontMatterDescription) {
-              file.data.description = frontMatterDescription
-              file.data.text = text
-              return
-            }
+            const desc = frontMatterDescription ?? text
 
-            // otherwise, use the text content
-            const desc = text
-            const sentences = desc.replace(/\s+/g, " ").split(/\.\s/)
-            let finalDesc = ""
-            let sentenceIdx = 0
+            if (desc.length <= opts.descriptionLength) {
+              file.data.description = desc
+            } else if (opts.allowFragment) {
+              file.data.description = `${desc.substring(0, opts.descriptionLength - 1)}…`
+            } else {
+              const sentences = desc.replace(/\s+/g, " ").split(/\s/)
+              const finalDesc: string[] = []
+              const len = opts.descriptionLength
+              let sentenceIdx = 0
+              let currentDescriptionLength = 0
 
-            // Add full sentences until we exceed the guideline length
-            while (sentenceIdx < sentences.length) {
-              const sentence = sentences[sentenceIdx]
-              if (!sentence) break
-
-              const currentSentence = sentence.endsWith(".") ? sentence : sentence + "."
-              const nextLength = finalDesc.length + currentSentence.length + (finalDesc ? 1 : 0)
-
-              // Add the sentence if we're under the guideline length
-              // or if this is the first sentence (always include at least one)
-              if (nextLength <= opts.descriptionLength || sentenceIdx === 0) {
-                finalDesc += (finalDesc ? " " : "") + currentSentence
-                sentenceIdx++
+              if (sentences[0] !== undefined && sentences[0].length >= len) {
+                const firstSentence = sentences[0].split(" ")
+                while (currentDescriptionLength < len) {
+                  const sentence = firstSentence[sentenceIdx]
+                  if (!sentence) break
+                  finalDesc.push(sentence)
+                  currentDescriptionLength += sentence.length
+                  sentenceIdx++
+                }
+                finalDesc.push("…")
               } else {
-                break
+                while (currentDescriptionLength < len) {
+                  const sentence = sentences[sentenceIdx]
+                  if (!sentence) break
+                  const currentSentence = sentence.endsWith(".") ? sentence : sentence + "."
+                  finalDesc.push(currentSentence)
+                  currentDescriptionLength += currentSentence.length
+                  sentenceIdx++
+                }
               }
+              file.data.description = finalDesc.join(" ")
             }
-
-            // truncate to max length if necessary
-            file.data.description =
-              finalDesc.length > opts.maxDescriptionLength
-                ? finalDesc.slice(0, opts.maxDescriptionLength) + "..."
-                : finalDesc
             file.data.text = text
           }
         },

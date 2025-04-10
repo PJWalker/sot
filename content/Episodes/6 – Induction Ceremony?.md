@@ -16,5 +16,10 @@
 * Ukku chooses Yellow
 * Ukku discusses desire to make a legacy
 
+## Fashion Show
+* Finnick returns to the dorm & sees [[Ignaci Canterells|Ignaci]], [[Noxolo]], [[Tzeniwe]] making kids clothes
+* Finnick offers to help, but is not helpful at sewing
+* Puts on a fashion show instead 
+
 ## Induction
 * We planned to go to our [[Induction Ceremony]], but instead got in a fight with [[Gremlin|Gremlins]]

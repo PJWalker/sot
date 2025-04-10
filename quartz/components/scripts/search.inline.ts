@@ -195,12 +195,15 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   function showSearch(searchTypeNew: SearchType) {
     searchType = searchTypeNew
-
-    document.getElementsByClassName("search")[0].style.viewTransitionName = "search"
+    const search = document.getElementsByClassName("search")[0] as HTMLDivElement
+    searchBar.style.viewTransitionName = ""
+    search.style.viewTransitionName = "search"
     document.startViewTransition(async () => {
       if (sidebar) sidebar.style.zIndex = "1"
       container.classList.add("active")
       searchBar.style.viewTransitionName = "search"
+      search.style.viewTransitionName = ""
+      search.classList.add("hidden")
       searchBar.focus()
     })
 

@@ -26,12 +26,11 @@
 * [[Okori]] scares it off.
 ## Secret Passage
 * [[Scrin Wildfang|Scrin]]  finds a secret entrance
-* everyone else already knew about it.
-* 
+* everyone else already knew about it. 
 ## Study
 * We all [[Study|studied]] throughout the term.
-	* [[Liana Salazar|Liana]] gains a level of [[Uzunjati]] 
-	* [[Scrin Wildfang|Scrin]] gains a level [[Cascade Bearers]] 
-	* [[Finnick Bristle|Finnick]] gets a level on [[Emerald Boughs]]
-	* [[Okori]] is also here
-	* [[Ukku Kehehd|Ukku]] is also here
+	* [[Liana Salazar|Liana]] +1 [[Uzunjati]] 
+	* [[Scrin Wildfang|Scrin]] +1 [[Cascade Bearers]] 
+	* [[Finnick Bristle|Finnick]] +1 [[Emerald Boughs]]
+	* [[Okori]] +2 [[Tempest Sun-Mages]] 
+	* [[Ukku Kehehd|Ukku]] was also there

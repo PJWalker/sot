@@ -1,16 +1,17 @@
 import { MdastRoot } from "mdast-util-to-hast/lib/handlers/root";
 import { QuartzTransformerPlugin } from "../types";
 import { VFile } from "vfile";
-import { visit } from "unist-util-visit";
 
-export const findSocialImage: QuartzTransformerPlugin = () => {
+export const FindSocialImage: QuartzTransformerPlugin = () => {
   return {
     name: "FindSocialImage",
     markdownPlugins() {
       return [
         () => {
           return (tree: MdastRoot, file: VFile) => {
-            visit
+            tree.children.forEach(child => {
+              console.log(child.type)
+            })
           }
         },
       ]

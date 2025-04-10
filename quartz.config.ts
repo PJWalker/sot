@@ -1,3 +1,4 @@
+import { FindSocialImage } from "./quartz/plugins/transformers/findSocialImage";
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
@@ -79,6 +80,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.NotFoundPage(),
       Plugin.CustomOgImages(),
+      Plugin.FindSocialImage()
     ],
   },
 }

@@ -1,0 +1,1 @@
+ Contained 20 pieces of parchment, three quills, two ink bottles, and 40 gold.

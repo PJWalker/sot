@@ -1,6 +1,3 @@
----
-title: Welcome to Quartz
----
+Don't look here, Press control+K to search everything.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Or maybe check [these articles](https://pjwalker.github.io/StrengthOfThousands/tags/Followup)

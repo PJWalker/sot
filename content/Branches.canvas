@@ -1,0 +1,85 @@
+{
+	"edges":[],
+	"nodes":[
+		{
+			"file":"Groups/Rain-Scribes.md",
+			"height":340,
+			"id":"7fb9f7d289c2fb37",
+			"styleAttributes":{},
+			"type":"file",
+			"width":440,
+			"x":40,
+			"y":-340
+		},
+		{
+			"height":680,
+			"id":"6ddbcebeea25ea69",
+			"styleAttributes":{},
+			"type":"link",
+			"url":"https://2e.aonprd.com/Rules.aspx?ID=1467",
+			"width":1520,
+			"x":-920,
+			"y":40
+		},
+		{
+			"file":"Groups/Uzunjati.md",
+			"height":340,
+			"id":"990324e61f22d063",
+			"styleAttributes":{},
+			"type":"file",
+			"width":440,
+			"x":1000,
+			"y":-340
+		},
+		{
+			"file":"Groups/Tempest Sun-Mages.md",
+			"height":340,
+			"id":"95d5fd676876b049",
+			"styleAttributes":{},
+			"type":"file",
+			"width":440,
+			"x":520,
+			"y":-340
+		},
+		{
+			"height":680,
+			"id":"8880041b548a7040",
+			"styleAttributes":{},
+			"text":"\n|                   |                                                                                                                                                              |                                                    |                                                                  |\n| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ---------------------------------------------------------------- |\n| **Branch**        | **Skills**                                                                                                                                                   | **[Lore](https://2e.aonprd.com/Skills.aspx?ID=8)** | **General Feat**                                                 |\n| Cascade Bearers   | [Arcana](https://2e.aonprd.com/Skills.aspx?ID=2), [Occultism](https://2e.aonprd.com/Skills.aspx?ID=11), [Religion](https://2e.aonprd.com/Skills.aspx?ID=13)  | Academia Lore                                      | [Canny Acumen](https://2e.aonprd.com/Feats.aspx?ID=764)          |\n| Emerald Boughs    | [Deception](https://2e.aonprd.com/Skills.aspx?ID=5), [Diplomacy](https://2e.aonprd.com/Skills.aspx?ID=6), [Society](https://2e.aonprd.com/Skills.aspx?ID=14) | Specific settlement (such as Nantambu Lore)        | [Adopted Ancestry](https://2e.aonprd.com/Feats.aspx?ID=751)      |\n| Rain-Scribes      | [Medicine](https://2e.aonprd.com/Skills.aspx?ID=9), [Nature](https://2e.aonprd.com/Skills.aspx?ID=10), [Survival](https://2e.aonprd.com/Skills.aspx?ID=16)   | Specific terrain (such as Forest Lore)             | [Fleet](https://2e.aonprd.com/Feats.aspx?ID=784)                 |\n| Tempest-Sun Mages | [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=7), [Performance](https://2e.aonprd.com/Skills.aspx?ID=12)                                               | Warfare Lore                                       | [Toughness](https://2e.aonprd.com/Feats.aspx?ID=855)             |\n| Uzunjati          | [Crafting](https://2e.aonprd.com/Skills.aspx?ID=4), Lore                                                                                                     | Any Lore                                           | [Incredible Initiative](https://2e.aonprd.com/Feats.aspx?ID=794) |\n",
+			"type":"text",
+			"width":800,
+			"x":640,
+			"y":40
+		},
+		{
+			"height":400,
+			"id":"f2f33df6d4d46695",
+			"styleAttributes":{},
+			"text":"[[Magaambya]] divides its faculty and lessons into five branches, each emphasising one of the value of the school. Every student joins one primary branch to shape their academic understanding, and a secondary branch that influences the expression of your primary branch and supplements your education.\n\n",
+			"type":"text",
+			"width":440,
+			"x":-920,
+			"y":-800
+		},
+		{
+			"file":"Groups/Emerald Boughs.md",
+			"height":340,
+			"id":"a399b8adb15caec9",
+			"styleAttributes":{},
+			"type":"file",
+			"width":440,
+			"x":-440,
+			"y":-340
+		},
+		{
+			"file":"Groups/Cascade Bearers.md",
+			"height":340,
+			"id":"3f6ced4d480e9c76",
+			"styleAttributes":{},
+			"type":"file",
+			"width":440,
+			"x":-920,
+			"y":-340
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 560,
+      "id": "bbca8d26fac02159",
+      "styleAttributes": {
+      },
+      "text": "# [Advancing Your Branch Level](https://2e.aonprd.com/Rules.aspx?ID=1471)\nUnlike your character's level, your levels in your primary and secondary branches don't advance automatically when you gain Experience Points. Instead, you advance your branches through academic achievement; early in your career, this typically happens via bookwork and exams. As a student at the Magaambya, you can use either the Study downtime activity or the Cram downtime activity to represent your accomplishments in your studies and exams, with the timing based on the academic calendar (as noted for the GM in each volume of the Adventure Path).\n\nTruly accomplished scholars also might be able to use the Practical Research activity as a downtime activity in the field to gain additional new insights and academic advancements during adventures, as opposed to during the normal curriculum. Later volumes of the Adventure Path will note such opportunities for the GM, but if you have additional ideas for location-based research beyond those provided in the adventures themselves, the GM might reward your creativity with an additional opportunity to perform the Practical Research activity and raise your branch levels!\n\nEven with these extra opportunities, you can't advance your primary branch level above your character's level, or your secondary branch level above half your character's level (both with a minimum of 0). If the result of any of these activities would raise a branch level past those limits, put a star next to your branch's level. The next time your character gains a level, raise that branch's level to the new limit and erase the star. This way, if you have an opportunity to advance your branch level, you don't have to wait until your character level is high enough to pursue it.\n\nEach of these downtime activities takes a few months, as they occur over an academic semester. You might have encounters during or between these checks as the story requires.\n",
+      "type": "text",
+      "width": 1260,
+      "x": -880,
+      "y": -1260
+    },
+    {
+      "file": "Rules/Downtime Activities/Cram.md",
+      "height": 680,
+      "id": "5ed5655d341cf456",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 630,
+      "x": -250,
+      "y": -680
+    },
+    {
+      "file": "Rules/Downtime Activities/Study.md",
+      "height": 680,
+      "id": "e5ba158f086d53f7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 630,
+      "x": -880,
+      "y": -680
+    },
+    {
+      "file": "Rules/Downtime Activities/Practical Research.md",
+      "height": 400,
+      "id": "e18c27f574392466",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1260,
+      "x": -880,
+      "y": 20
+    }
+  ]
+}

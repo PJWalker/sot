@@ -1,0 +1,1 @@
+We planned to go to our [[Induction Ceremony]], but instead got in a fight with [[Gremlin|Gremlins]], 

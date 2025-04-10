@@ -2,7 +2,6 @@
 source: "https://2e.aonprd.com/Spells.aspx?ID=177"
 ---
 [Cantrip](https://2e.aonprd.com/Traits.aspx?ID=22) [Evocation](https://2e.aonprd.com/Traits.aspx?ID=65)   
-**Source** [*Core Rulebook pg. 349*](https://2e.aonprd.com/Sources.aspx?ID=1) <sup><a href="https://2e.aonprd.com/Sources.aspx?ID=1" class="external-link">4.0</a></sup>  
 **Traditions** [arcane](https://2e.aonprd.com/Spells.aspx?Tradition=1), [occult](https://2e.aonprd.com/Spells.aspx?Tradition=3)  
 **Spell List** [elemental](https://2e.aonprd.com/Spells.aspx?Tradition=5)  
 **Cast** \[two-actions\] [somatic](https://2e.aonprd.com/Rules.aspx?ID=283), [verbal](https://2e.aonprd.com/Rules.aspx?ID=284)  

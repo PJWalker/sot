@@ -2,7 +2,6 @@
 source: "https://2e.aonprd.com/Spells.aspx?ID=180"
 ---
 [Evocation](https://2e.aonprd.com/Traits.aspx?ID=65) [Force](https://2e.aonprd.com/Traits.aspx?ID=75)   
-**Source** [*Core Rulebook pg. 349*](https://2e.aonprd.com/Sources.aspx?ID=1) <sup><a href="https://2e.aonprd.com/Sources.aspx?ID=1" class="external-link">4.0</a></sup>  
 **Traditions** [arcane](https://2e.aonprd.com/Spells.aspx?Tradition=1), [occult](https://2e.aonprd.com/Spells.aspx?Tradition=3)  
 **Bloodline** [imperial](https://2e.aonprd.com/Bloodlines.aspx?ID=9)  
 **Catalysts** [Dragon Throat Scale](https://2e.aonprd.com/Equipment.aspx?ID=2022)  

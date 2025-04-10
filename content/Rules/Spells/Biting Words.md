@@ -2,7 +2,6 @@
 source: "https://2e.aonprd.com/Spells.aspx?ID=868"
 ---
 [Attack](https://2e.aonprd.com/Traits.aspx?ID=15) [Auditory](https://2e.aonprd.com/Traits.aspx?ID=16) [Evocation](https://2e.aonprd.com/Traits.aspx?ID=65) [Linguistic](https://2e.aonprd.com/Traits.aspx?ID=101) [Sonic](https://2e.aonprd.com/Traits.aspx?ID=147)   
-**Source** [*Secrets of Magic pg. 90*](https://2e.aonprd.com/Sources.aspx?ID=96) <sup><a href="https://2e.aonprd.com/Sources.aspx?ID=96" class="external-link">2.0</a></sup>  
 **Traditions** [occult](https://2e.aonprd.com/Spells.aspx?Tradition=3)  
 **Cast** \[two-actions\] [somatic](https://2e.aonprd.com/Rules.aspx?ID=283), [verbal](https://2e.aonprd.com/Rules.aspx?ID=284)  
 **Duration** 1 minute

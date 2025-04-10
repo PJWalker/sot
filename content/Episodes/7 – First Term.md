@@ -7,4 +7,4 @@
 * We all [[Study]] 
 * We happen on various activity groups:
 	* We play [[Special Divination Squad]] – I win!
-	* [[Okori]] figures out th
+	* [[Okori]] figures out that the rules double as a scroll ^y0c8d

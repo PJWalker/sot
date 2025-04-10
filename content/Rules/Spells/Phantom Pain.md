@@ -2,7 +2,6 @@
 source: "https://2e.aonprd.com/Spells.aspx?ID=220"
 ---
 [Illusion](https://2e.aonprd.com/Traits.aspx?ID=92) [Mental](https://2e.aonprd.com/Traits.aspx?ID=106) [Nonlethal](https://2e.aonprd.com/Traits.aspx?ID=188)   
-**Source** [*Core Rulebook pg. 357*](https://2e.aonprd.com/Sources.aspx?ID=1) <sup><a href="https://2e.aonprd.com/Sources.aspx?ID=1" class="external-link">4.0</a></sup>  
 **Traditions** [occult](https://2e.aonprd.com/Spells.aspx?Tradition=3)  
 **Lesson** [lesson of vengeance](https://2e.aonprd.com/Lessons.aspx?ID=5)  
 **Cast** \[two-actions\] [somatic](https://2e.aonprd.com/Rules.aspx?ID=283), [verbal](https://2e.aonprd.com/Rules.aspx?ID=284)  

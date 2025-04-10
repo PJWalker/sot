@@ -179,9 +179,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   function hideSearch() {
-    const search = document.getElementsByClassName("search")[0] as HTMLDivElement
+    const searchButton = document.getElementsByClassName("search-button")[0] as HTMLDivElement
     searchBar.style.viewTransitionName = "search"
-    search.style.viewTransitionName = ""
+    searchButton.style.viewTransitionName = ""
     document.startViewTransition(async () => {
       container.classList.remove("active")
       searchBar.value = "" // clear the input when we dismiss the search
@@ -193,25 +193,25 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       searchLayout.classList.remove("display-results")
       searchType = "basic" // reset search type after closing
       searchBar.style.viewTransitionName = ""
-      search.style.viewTransitionName = "search"
+      searchButton.style.viewTransitionName = "search"
+      searchButton.classList.remove("hidden")
       searchButton.focus()
     })
   }
 
   function showSearch(searchTypeNew: SearchType) {
     searchType = searchTypeNew
-    const search = document.getElementsByClassName("search")[0] as HTMLDivElement
+    const searchButton = document.getElementsByClassName("search-button")[0] as HTMLDivElement
     searchBar.style.viewTransitionName = ""
-    search.style.viewTransitionName = "search"
+    searchButton.style.viewTransitionName = "search"
     document.startViewTransition(async () => {
       if (sidebar) sidebar.style.zIndex = "1"
       container.classList.add("active")
       searchBar.style.viewTransitionName = "search"
-      search.style.viewTransitionName = ""
-      search.classList.add("hidden")
+      searchButton.style.viewTransitionName = ""
+      searchButton.classList.add("hidden")
       searchBar.focus()
     })
-
   }
 
   let currentHover: HTMLInputElement | null = null

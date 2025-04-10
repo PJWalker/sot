@@ -1,18 +1,16 @@
 ---
 tags: []
 ---
-* [[Liana Salazar|Liana]] & Ukku are poisoned
+* [[Liana Salazar|Liana]] & [[Ukku Kehehd|Ukku]] are still poisoned
 * [[Ignaci Canterells|Ignaci]] & [[Tzeniwe]] ask for help delivering the mail
-* Provided Elephant birds, a map, and a bunch
-
 ## Hate Mail
-* “To the stupid Magaambya parcel deliverers…” a lamp didn’t get to Ndide and their grandfather is mad
-
+* “To the stupid Magaambya parcel deliverers…” a lamp didn’t get to Ndidi and their grandfather is mad
 ## God Mail
-* Nethys: sent when five spells cast on it simultaneously
+* Nethys: sent when five spells cast on it simultaneously:
+	* [[Telekinetic Projectile]] + Gouging Claw + Guidance + Mage Hand + 
 * Gozre: a god - deity of wind and weather — please tie to a kite, & once high in the air, release.
-	* [[Okori]] recommended getting help from [[Haibram Thodja|Haybram]]
-* Mazludeh: imperial lord of stewards/snakes — 'new canal should be strong & reliable', transcribe on an egg,
+	* [[Okori]] got help from [[Haibram Thodja|Haybram]]
+* Mazludeh: imperial lord of stewards/snakes — transcribe on an egg & feed to a snake.
 
 # Raw Transcript
 

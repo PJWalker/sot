@@ -23,6 +23,7 @@
 * Scrin avoids this
 * Liana meets Finnick, and chooses the red cravat. ^b5bl4
 
-We sleep
+* We sleep.
 ## Induction
 * We planned to go to our [[Induction Ceremony]], but were ambushed by [[Gremlin|Gremlins]]
+* [[Scrin Wildfang|Scrin]] falls unconscious.

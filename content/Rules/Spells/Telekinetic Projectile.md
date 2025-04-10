@@ -3,7 +3,7 @@ https://2e.aonprd.com/Spells.aspx?ID=334
 [Attack](https://2e.aonprd.com/Traits.aspx?ID=15) [Cantrip](https://2e.aonprd.com/Traits.aspx?ID=22) [Evocation](https://2e.aonprd.com/Traits.aspx?ID=65)   
 
 **Traditions** [arcane](https://2e.aonprd.com/Spells.aspx?Tradition=1), [occult](https://2e.aonprd.com/Spells.aspx?Tradition=3)  
-**Cast**  [two-actions]  [somatic](https://2e.aonprd.com/Rules.aspx?ID=283), [verbal](https://2e.aonprd.com/Rules.aspx?ID=284)  
+**Cast**  ◆◆  [somatic](https://2e.aonprd.com/Rules.aspx?ID=283), [verbal](https://2e.aonprd.com/Rules.aspx?ID=284)  
 **Range** 30 feet; **Targets** 1 creature
 
 ---

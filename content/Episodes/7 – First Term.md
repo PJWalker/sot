@@ -5,8 +5,9 @@
 	* [[Zuma]] leaves a poor impression on me
 	* [[Korida]] arrives late
 * We all [[Study]] 
-* [[Gaming Group]]:
+* [[Gamers]]:
 	* We play [[Special Divination Squad]] – I win!
 	* [[Liana Salazar|Liana]] figures out that the rules double as a scroll ^-aab0
-* [[Okori]] drinks with [[Chizire]] & [[Haibram Thodja|Haybram]]
-* 
+* [[Okori]] drinks with [[Chizire]] & [[Haibram Thodja|Haybram]]. She vows to increase her tolerance
+*  No-one wants to [[Runners|Run]]
+*  [[Recorders]]

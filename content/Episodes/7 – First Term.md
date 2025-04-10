@@ -17,9 +17,9 @@
 * [[Sparring Tournament]] poster on the bulletin board
 * We form a team.
 * [[Esi Djana|Esi]], [[Haibram Thodja|Haybram]] & [[Mariama Keitana|Mariama]] form another team.
-* [[Scrin Wildfang|Scrin]] sends his familiar to investigate [[Leshy Gardens]] - finds the [[Leshy Construct|Leshy Constructs]].
-* [[Finnick Bristle|Finnick]] + [[Scrin Wildfang|Scrin]] + [[Ukku Kehehd|Ukku]]  go to speak with the [[Leshy|Leshies]] and gets info from [[Copper Cloudrunner]].
-* [[Leshy Construct|Leshy Constructs]] & weak to fire (and crits)
+* [[Scrin Wildfang|Scrin]] sends his familiar to investigate [[Leshy Gardens]]
+* [[Finnick Bristle|Finnick]] + [[Scrin Wildfang|Scrin]] + [[Ukku Kehehd|Ukku]]  go to speak with the [[Leshy|Leshies]] 
+*  [[Copper Cloudrunner]] tells us [[Leshy Construct|Leshy Constructs]] are weak to fire (and crits)
 ## Missing Chicken
 * [[Anchorroot]] lost Mr Clucks.
 * [[Ukku Kehehd|Ukku]] finds it in on the roof

@@ -4,21 +4,14 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.DesktopOnly(
-      Component.Explorer({
-        title: "Notes",
-      }),
-    ),
-  ],
+  afterBody: [],
   left: [
     Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(
-      Component.Explorer({
-        title: "Notes",
-      }),
-    ),
+    Component.Explorer({
+      title: "Notes",
+    }),
     Component.Darkmode(),
   ],
   footer: Component.Footer(),

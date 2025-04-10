@@ -197,7 +197,11 @@
             &:hover,
             &:focus,
             &.focus {
-              background: var(--lightgray);
+              background: var(--dark);
+              
+                &>h3 {
+                  color: var(--light)
+                }
             }
 
             & > h3 {

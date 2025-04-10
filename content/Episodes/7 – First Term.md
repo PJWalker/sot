@@ -1,10 +1,11 @@
  * Ukku heals Scrin.
 * [[Teacher Ot|Takulu Ot]] calls off the [[Induction Ceremony]]
-* We meet the teachers:
+* We meet teachers:
 	* [[Mafika Ayuwari]] introduces the [[Sparring Tournament]] 
 	* [[Zuma]] leaves a poor impression on me
 	* [[Korida]] arrives late
-* We all [[Study]] 
+
+* We all [[Study]] throughout the term.
 
 ## Groups
 * [[Gamers]]:
@@ -22,4 +23,9 @@
 * [[Esi Djana|Esi]], [[Haibram Thodja|Haybram]] & [[Mariama Keitana|Mariama]] form another team.
 * [[Scrin Wildfang|Scrin]] sends his familiar to investigate [[Leshy Gardens]] - finds the [[Leshy Construct|Leshy Constructs]].
 * [[Finnick Bristle|Finnick]] + [[Scrin Wildfang|Scrin]] + [[Ukku Kehehd|Ukku]]  go to speak with the [[Leshy|Leshies]] and gets info from [[Copper Cloudrunner]].
-* 
+* [[Leshy Construct|Leshy Constructs]] & weak to fire (and crits)
+
+## Missing Chicken
+* [[Anchorroot]] lost Mr Clucks.
+* [[Ukku Kehehd|Ukku]] finds it in on the roof
+* [[Okori]] scares it off.

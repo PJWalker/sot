@@ -9,7 +9,7 @@ Female Ant [[gnoll]]
 * living in [[Spire Dormitory|Spire Dormitory]]
 * [[Bone Scavengers|Bone Scavenger]]
 * [[Recorders|DJ]]
-* Has a chicken familiar
+* Has a chicken familiar – Mr Clucks
 	* Was feeding it ants?
 
 Seems Anxious

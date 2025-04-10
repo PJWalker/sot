@@ -6,4 +6,4 @@ tags: []
 
 [[Anchorroot]] , [[Esi Djana|Esi]] , [[Okori]] , [[Finnick Bristle|Finnick]]
 
-Group is experimen
+Group is experimenting with ways to record audio

@@ -10,4 +10,7 @@
 	* [[Liana Salazar|Liana]] figures out that the rules double as a scroll ^-aab0
 * [[Okori]] drinks with [[Chizire]] & [[Haibram Thodja|Haybram]]. She vows to increase her tolerance
 *  No-one wants to [[Runners|Run]]
-*  [[Recorders]]
+*  [[Recorders]] introduced
+* We signed up to [[Babysitters|Babysit]] at some point.
+* We help [[Haibram Thodja|Haybram]] launch his hang-glider
+* [[Sparring Tournament]]:

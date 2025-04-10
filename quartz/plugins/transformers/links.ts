@@ -152,7 +152,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                     dest,
                     transformOptions,
                   )
-                  node.properties.src = dest
+                  node.properties.src = dest;
                 }
               }
             })

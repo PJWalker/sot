@@ -5,7 +5,7 @@ tags: []
 
 ## Dinner
 * [[Esi Djana|Esi]]  introduced us to [[Haibram Thodja|Haybram]] & [[Mariama Keitana|Mariama]]
-## Dorms
+## Dorms ^sl01v
 - [[Finnick Bristle|I]] found a scrap of paper in the [[Spire Dormitory|dormitory]] bathrooms, that turned out to be a [[Spellskein]].
 - Scrin notices and went for help
 - We defeat one; the other gets away.

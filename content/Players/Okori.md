@@ -11,4 +11,3 @@ tags:
 * Lives in [[Spire Dormitory|Spire Dormitory]]
 * Used to eat bugs; doesn‘t like it.
 * Threatened to eat [[Scrin Wildfang|Scrin]] 
-* Figured out that the [[Special Divination Squad]] rules are a scroll of [[Augury]] 

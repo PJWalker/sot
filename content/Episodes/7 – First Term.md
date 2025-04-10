@@ -5,6 +5,8 @@
 	* [[Zuma]] leaves a poor impression on me
 	* [[Korida]] arrives late
 * We all [[Study]] 
-* We happen on various activity groups:
+* [[Gaming Group]]:
 	* We play [[Special Divination Squad]] – I win!
-	* [[Okori]] figures out that the rules double as a scroll ^y0c8d
+	* [[Liana Salazar|Liana]] figures out that the rules double as a scroll ^-aab0
+	* [[Okoro Obioyo|Okoro]] drinks with Ch
+* 

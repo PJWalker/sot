@@ -3,6 +3,8 @@ import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
 
+document.startViewTransition ??= (callback) => callback!()
+
 interface Item {
   id: number
   slug: FullSlug

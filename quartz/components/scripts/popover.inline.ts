@@ -125,8 +125,7 @@ function clearActivePopover() {
 }
 
 document.addEventListener("nav", () => {
-  const links = [...document.getElementsByClassName("internal")] as HTMLAnchorElement[];
-  links.concat()
+  const links = [...document.querySelectorAll(".explorer-ul a, .internal")] as HTMLAnchorElement[]
   for (const link of links) {
     link.addEventListener("mouseleave", clearActivePopover)
     link.addEventListener("mouseenter", mouseEnterHandler)

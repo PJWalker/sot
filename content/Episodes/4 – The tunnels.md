@@ -4,6 +4,14 @@
 * [[Okori]] has arrived!
 * [[Ukku Kehehd|Ukku]] looks for a tunnel entrance in the [[Dining Hall]].
 * [[Okori]] & [[Liana Salazar|Liana]] eat together.
+* We return to the library, looking for maps.
+
+# Dorms
+* We go back to the [[Spire Dormitory|dorms]] 
+* [[Anchorroot]] is talking to [[Okoro Obioyo|Okoro]]
+* Okoro invites us to a [[Gamers|Gamer]]
+* [[Finnick Bristle|I]] suggest Pathfinder
+* Okori finds a pair of magical [[bandages]] in a laundry pile.
 * 
 
 The student explore the academy dorms and find magical bandages.

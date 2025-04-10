@@ -14,7 +14,6 @@ tags:
 - Outgoing but naive
 - Can talk to animals
 - Described his greatest strength as 'bringing joy'
-- Lives in [[Spire Dormitory|Spire Dormitory]]
 - Chose the dorm near the common room, to be near the action
 - like comics & food
 - Wears his beads as a head band

@@ -8,11 +8,6 @@ tags:
 ---
 ![[Scrin Wildfang-1744160527165.png]]
 
-Lives in [[Spire Dormitory|Spire Dormitory]]
-
-# Appearance
-- #Ratfolk
-- Initially wearing a withered robe and carrying a rapier
 
 # Notes
 - Says his greatest strength is quickness & magic

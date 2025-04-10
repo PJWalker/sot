@@ -10,14 +10,13 @@ tags:
 ![[Liana Salazar-1744160515142.png]]
 
 Liana seeks knowledge to enhance her magic and aid her village, while
-
 # Appearance
-Short cropped dark green hair
-Serpentine eyes
-Subtle horns
-Wears her beads as a bracelet.
+* Short cropped dark green hair
+* Serpentine eyes
+* Subtle horns
+* Wears her beads as a bracelet.
+* Wears purples, greens, golds + Pants & a blouse.
 
-Lives in [[Spire Dormitory|Spire Dormitory]]
 
 Had a 'whole lab' to unload into her dorm.
 

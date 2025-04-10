@@ -2,7 +2,6 @@ import { MdastRoot } from "mdast-util-to-hast/lib/handlers/root";
 import { QuartzTransformerPlugin } from "../types";
 import { VFile } from "vfile";
 import { EXIT, visit } from "unist-util-visit";
-import { transformInternalLink, transformLink, TransformOptions } from "../../util/path";
 
 const defaultOptions = {
   markdownLinkResolution: "absolute",
@@ -15,13 +14,12 @@ const defaultOptions = {
 export const FindSocialImage: QuartzTransformerPlugin = () => {
   return {
     name: "FindSocialImage",
-    htmlPlugins(ctx) {
+    htmlPlugins() {
       return [
         () => {
           return (tree: MdastRoot, file: VFile) => {
-            visit(tree, (e) => e.tagName==="img", (image) => {
-              file.data.frontmatter.socialImage = image.properties.src;
-              console.log(file.data)
+            visit(tree, (e:any) => e.tagName==="img", (image:any) => {
+              file.data.frontmatter!.socialImage = image.properties.src;
               return EXIT;
             })
           }

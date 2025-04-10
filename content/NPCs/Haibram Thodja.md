@@ -9,7 +9,6 @@ tags:
 - Male #Dwarf
 - Looking to join the [[Rain-Scribes]]
 - Hang-glider
-- His accent changes wh
 
 # Interactions
 - Took us to the [[Ojofiri Chicken]] chicken quest

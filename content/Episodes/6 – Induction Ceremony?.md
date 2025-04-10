@@ -9,7 +9,7 @@
 
 ## Okori & Liana
 * Okori compliments Liana’s poetry.
-* Liana invites to pick outfit of
+* Liana invites to pick outfits out
 
 ## Finnick & Ukku 
 * Finnick finds Ukku in the [[Leshy Gardens]], asks him to help between two cravats
@@ -23,7 +23,7 @@
 * Scrin avoids this
 * Liana meets Finnick, and chooses the red cravat. ^b5bl4
 
-* We sleep.
 ## Induction
-* We planned to go to our [[Induction Ceremony]], but were ambushed by [[Gremlin|Gremlins]]
-* [[Scrin Wildfang|Scrin]] falls unconscious.
+* We go to our [[Induction Ceremony]], but are ambushed by [[Gremlin|Gremlins]]
+* [[Scrin Wildfang|Scrin]] falls unconscious
+* We defeat two gremlins, but one gets away

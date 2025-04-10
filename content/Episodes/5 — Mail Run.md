@@ -2,7 +2,6 @@
 tags: []
 ---
 * [[Liana Salazar|Liana]] & [[Ukku Kehehd|Ukku]] are still poisoned
-
 ## Mail Run
 * [[Ignaci Canterells|Ignaci]] & [[Tzeniwe]] ask for help delivering the mail
 * We deliver letter to [[Nethys]] by casting 5 spells at once

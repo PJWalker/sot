@@ -12,6 +12,9 @@
 * Liana invites to pick outfit of
 
 ## Finnick & Ukku 
+* Finnick finds Ukku in the [[Leshy Gardens]], asks him to help between two cravats
+* Ukku chooses Yellow
+* Ukku discusses desire to make a legacy
 
 ## Induction
 * We planned to go to our [[Induction Ceremony]], but instead got in a fight with [[Gremlin|Gremlins]]

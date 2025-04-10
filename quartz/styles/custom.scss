@@ -17,14 +17,4 @@ p {
   font-size: calc(clamp(0.5rem, 4vw, 1.75rem));
 }
 
-.search.hidden {
-  display: none;
-}
 
-.search:not(.hidden) {
-  view-transition-name: search;
-}
-
-.search-bar.active {
-  view-transition-name: search;
-}

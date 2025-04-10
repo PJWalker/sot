@@ -11,3 +11,5 @@ tags:
 * Lives in [[Spire Dormitory|Spire Dormitory]]
 * Used to eat bugs; doesn‘t like it.
 * Threatened to eat [[Scrin Wildfang|Scrin]] 
+* Doesn‘t drink at home
+* Wants to view the stars (religious?)

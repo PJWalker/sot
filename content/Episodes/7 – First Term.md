@@ -8,5 +8,5 @@
 * [[Gaming Group]]:
 	* We play [[Special Divination Squad]] – I win!
 	* [[Liana Salazar|Liana]] figures out that the rules double as a scroll ^-aab0
-	* [[Okoro Obioyo|Okoro]] drinks with Ch
+* [[Okori]] drinks with [[Chizire]] & [[Haibram Thodja|Haybram]]
 * 

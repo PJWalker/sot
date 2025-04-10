@@ -1,8 +1,12 @@
 ---
 tags: []
 ---
-# 
-# Letters
+* [[Liana Salazar|Liana]] & Ukku are poisoned
+* [[Ignaci Canterells|Ignaci]] & [[Tzeniwe]] ask for help delivering the mail
+* Provided Elephant birds, a map, and a bunch
+
+## Hate Mail
+* “To the stupid Magaambya parcel 
 
 3 - illegible.
 

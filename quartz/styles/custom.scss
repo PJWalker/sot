@@ -21,8 +21,10 @@ p {
   display: none;
 }
 
-.search {
+.search:not(.hidden) {
   view-transition-name: search;
 }
 
-
+.search-bar.active {
+  view-transition-name: search;
+}

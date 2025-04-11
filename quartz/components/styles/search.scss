@@ -198,7 +198,7 @@
             &:focus,
             &.focus {
               background: var(--dark);
-              
+
                 &>h3 {
                   color: var(--light)
                 }
@@ -235,4 +235,9 @@
       }
     }
   }
+}
+
+::view-transition-old(search),
+::view-transition-new(search) {
+  height: 100%
 }

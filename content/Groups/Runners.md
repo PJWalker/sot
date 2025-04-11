@@ -4,4 +4,6 @@ aliases:
 tags: []
 ---
 
-[[Esi Djana|Esi]] , Okoro, [[Scrin Wildfang|Scrin]]
+* [[Esi Djana|Esi]]
+* [[Okoro Obioyo|Okoro]]
+? [[Scrin Wildfang|Scrin]]

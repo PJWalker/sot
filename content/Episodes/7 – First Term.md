@@ -8,15 +8,15 @@
 * [[Gamers]]:
 	* We play [[Special Divination Squad]] – I win!
 	* [[Liana Salazar|Liana]] figures out that the rules double as a scroll ^-aab0
-* [[Okori]] drinks with [[Chizire]] & [[Haibram Thodja|Haybram]]. She vows to increase her tolerance
+* [[Okori]] drinks with [[Chizire]] & [[Haibram Thodja|Haibram]]. She vows to increase her tolerance
 *  No-one wants to [[Runners|Run]]
 *  [[Recorders]] introduced
 * We signed up to [[Babysitters|Babysit]] at some point.
-* We help [[Haibram Thodja|Haybram]] launch his hang-glider
+* We help [[Haibram Thodja|Haibram]] launch his hang-glider
 ## Sparring Tournament Prep
 * [[Sparring Tournament]] poster on the bulletin board
 * We form a team.
-* [[Esi Djana|Esi]], [[Haibram Thodja|Haybram]] & [[Mariama Keitana|Mariama]] form another team.
+* [[Esi Djana|Esi]], [[Haibram Thodja|Haibram]] & [[Mariama Keitana|Mariama]] form another team.
 * [[Scrin Wildfang|Scrin]] sends his familiar to investigate [[Leshy Gardens]]
 * [[Finnick Bristle|Finnick]] + [[Scrin Wildfang|Scrin]] + [[Ukku Kehehd|Ukku]]  go to speak with the [[Leshy|Leshies]] 
 *  [[Copper Cloudrunner]] tells us [[Leshy Construct|Leshy Constructs]] are weak to fire (and crits)

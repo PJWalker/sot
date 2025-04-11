@@ -14,7 +14,7 @@ tags: []
 	* [[Okori]] went to a shrine & found one there
 	* A snake ate the snake that was eating the egg.
 * Letter to [[Gozreh]]:  “please tie to a kite, & once high in the air, release.”
-	* [[Okori]] got help from [[Haibram Thodja|Haybram]] to deliver 
+	* [[Okori]] got help from [[Haibram Thodja|Haibram]] to deliver 
 ## Hate Mail
 * “To the stupid Magaambya parcel deliverers…” a lamp didn’t get to Ndidi and their grandfather is mad.
 * We learn the lamp went to their neighbour, who refuses to give it back

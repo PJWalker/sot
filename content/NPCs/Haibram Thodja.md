@@ -1,7 +1,6 @@
 ---
 aliases:
   - Haibram
-  - Haybram
 tags:
   - initiate
 ---

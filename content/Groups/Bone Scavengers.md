@@ -3,5 +3,6 @@ aliases:
   - Bone Scavenger
 tags: []
 ---
-
-[[Anchorroot]] , [[Noxolo]] , [[Scrin Wildfang|Scrin]]
+* [[Anchorroot]] 
+* [[Noxolo]] 
+* [[Scrin Wildfang|Scrin]]

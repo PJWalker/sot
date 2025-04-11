@@ -4,4 +4,8 @@ aliases:
 tags: []
 ---
 
-[[Tzeniwe|Tzeniwe]] , [[Esi Djana|Esi]] , [[Finnick Bristle|Finnick]] , [[Scrin Wildfang|Scrin]] , [[Okori]]
+* [[Tzeniwe|Tzeniwe]]
+* [[Esi Djana|Esi]] 
+?  [[Finnick Bristle|Finnick]] 
+? [[Scrin Wildfang|Scrin]] 
+? [[Okori]]

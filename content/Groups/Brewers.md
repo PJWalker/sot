@@ -1,9 +1,10 @@
 ---
 aliases:
-  - Sparring Partner
+  - Liquor Brewer
 tags: []
 ---
-* [[Esi Djana|Esi]]
+
+* [[Chizire]]
 * [[Haibram Thodja|Haibram]]
-* [[Mariama Keitana|Mariama]]
+* [[Finnick Bristle|Finnick]]
 * [[Scrin Wildfang|Scrin]]

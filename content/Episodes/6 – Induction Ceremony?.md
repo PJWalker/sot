@@ -1,3 +1,4 @@
+https://drive.google.com/open?id=1VzKIaxN6DgJaibYxgGoQN9KqWC2ybgtn&usp=drive_fs
 ## Story of Our Week
 * [[Okoro Obioyo|Okoro]] & [[Noxolo]] asked us to recount the story of our week, as part of the [[Uzunjati]] task.
 	* [[Liana Salazar|Liana]] recited a poem

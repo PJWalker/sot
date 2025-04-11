@@ -1,3 +1,5 @@
+https://drive.google.com/open?id=1Q6lmLefNmsg1UHbvPVK_j_7zwJMlfoPi&usp=drive_fs
+
 * We noticed a trap door while fighting the [[Gremlin|Gremlins]], and go in
 * We find paths leading to [[Star Dormitory]], and then [[Archhorn Library]], 
 * We go back to our [[Spire Dormitory|dorms]] 

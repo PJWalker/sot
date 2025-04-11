@@ -1,6 +1,8 @@
 ---
 tags: []
 ---
+https://drive.google.com/open?id=1QEaBMre132pMxeshhaWiOAy9RmMDneTM&usp=drive_fs
+
 * [[Liana Salazar|Liana]] & [[Ukku Kehehd|Ukku]] are still poisoned
 ## Mail Run
 * [[Ignaci Canterells|Ignaci]] & [[Tzeniwe]] ask for help delivering the mail

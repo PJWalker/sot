@@ -1,3 +1,5 @@
+https://drive.google.com/open?id=1VzCE4W5AeOuW10bJossmxeAop3MnfffX&usp=drive_fs
+ 
  * Ukku heals Scrin.
 * [[Teacher Ot|Takulu Ot]] calls off the [[Induction Ceremony]]
 * We meet teachers:

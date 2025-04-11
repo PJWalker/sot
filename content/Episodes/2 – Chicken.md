@@ -2,7 +2,7 @@
 modified: 
 tags: []
 ---
-
+https://drive.google.com/open?id=12Ac8lrlUkm_lctFHGvU7BDQ21VfMzkeK&usp=drive_fs
 ## Dinner
 * [[Esi Djana|Esi]]  introduced us to [[Haibram Thodja|Haibram]] & [[Mariama Keitana|Mariama]]
 ## Dorms ^sl01v

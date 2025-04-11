@@ -13,3 +13,4 @@ Female Ant [[gnoll]]
 	* Was feeding it ants?
 
 Seems Anxious
+“More comfortable with you small folk”

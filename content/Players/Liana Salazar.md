@@ -30,3 +30,4 @@ Had a 'whole lab' to unload into her dorm.
 - Been to ‘many schools’
 - Highly literate; likes books
 - [[6 – Induction Ceremony?#^b5bl4|Chose the red cravat]]
+- Has [Matilda], a pet cat.

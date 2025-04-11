@@ -12,10 +12,9 @@ tags:
 #gnome #bard
 
 - Outgoing but naive
-- Can talk to animals
 - Described his greatest strength as 'bringing joy'
 - Chose the dorm near the common room, to be near the action
-- like comics & food
+- Like comics & food
 - Wears his beads as a head band
 - Expressed interest in the [[Emerald Boughs]] and [[Cascade Bearers]]
 - Joining the [[Gamers]]

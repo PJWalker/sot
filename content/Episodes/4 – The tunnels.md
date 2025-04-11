@@ -7,25 +7,24 @@ https://drive.google.com/open?id=1Q6lmLefNmsg1UHbvPVK_j_7zwJMlfoPi&usp=drive_fs
 * [[Ukku Kehehd|Ukku]] looks for a tunnel entrance in the [[Dining Hall]].
 * [[Okori]] & [[Liana Salazar|Liana]] eat together.
 * We return to the library, looking for maps.
-
 # Dorms
 * We go back to the [[Spire Dormitory|dorms]] 
 * [[Anchorroot]] is talking to [[Okoro Obioyo|Okoro]]
 * Okoro invites us to the [[Gamers]]
-* [[Finnick Bristle|I]] suggest we play [[Pathfinder]]
+* [[Finnick Bristle|I]] suggest we play Pathfinder
 * Okori finds a pair of magical [[bandages]] in a laundry pile.
-
 # Oily Ritual
-
 The next day [[Anchorroot]], [[Mariama Keitana|Mariama]] & [[Chizire]] task us with finding ingredients for a ritual to deal with gremlins. 
 
 * Scarlet Cap Oil – growing in a place an hour out of town.
 * Bone Oil – lucky bones
 * Caterpillar Oil – - everywhere.
 
-The group searches for caterpillars and finds three, then heads towards a tree with mushrooms.
+* The group searches for caterpillars in the forest and collect three, 
+* We then head towards a tree with mushrooms.
 
-A giant mushroom creature falls from the tree and attacks. We defeat the [[Myceloids|myceloid]], but 
+* [[Umbo]] falls from the tree and attacks. We defeat it but [[Liana Salazar|Liana]] & [[Ukku Kehehd|Ukku]] get [[Purple Pox]].
+* Ukku tries to heal Umbo with an Apple
 
 ***
 

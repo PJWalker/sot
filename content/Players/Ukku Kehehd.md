@@ -21,3 +21,4 @@ Looks like a farmer, wearing simple clothing
 - [[1 — Introduction#^money|Probably poor]]
 - Assigned a plot in the [[Leshy Gardens]] by [[Thema]] 
 - [[6 – Induction Ceremony?#^g8dtm|Chose the yellow cravat]]
+- ‘has little interest in books, but admires the book*shelves*’

@@ -21,6 +21,9 @@ https://drive.google.com/open?id=1Vzv3Mji_rtvqHK_XQVjrMUpVsbrOWebD&usp=drive_fs
 * [[Mariama Keitana|Mariama]] encountered a [[Spellskein]] trying to communicate (?)
 
 ## [[Gremlin|Gremlins]] in the Storage room
-* Esi asks for help getting [[Pugwampi]] out of a storage room
+* Esi asks for help getting [[Pugwampi]] out of the [[Storage Barn]].
 * Ideally doesn’t want them killed
-* 
+* [[Finnick Bristle|Finnick]] asks [[Anchorroot]] for help, but is rebuffed.
+* We research Pugwampi at [[Archhorn Library]], learning their aversion to [[silver bells]].
+* We get some from the [[Powderpile]], we borrow one and I buy four more.
+* We drive the Pugwampi away, and find a [[4 – The Tunnels|trap door…]]

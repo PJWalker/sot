@@ -1,5 +1,7 @@
 ---
 tags: []
 ---
-A former student
-Callous – asked to deal with [[Pugwampi]], and was expelled for it.
+A former student:
+* Asked to deal with [[Pugwampi]]
+* Murdered them all
+* Was expelled for it.

@@ -16,4 +16,4 @@ Haibram and [[Anchorroot]] task us with finding [[Ojofiri chicken]] from the [[K
 We ask locals for directions & learn that the market is west of the city. 
 After some searching, we find the right place & buy 6 chickens from [[Makena]] for 20 gold & return them to [[Anchorroot]]
 
-We agree to return to return to the markets in the afternoon
+We agree to return to return to the markets in the afternoon.

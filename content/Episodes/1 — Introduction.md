@@ -1,3 +1,4 @@
+https://drive.google.com/open?id=1W0JFlZCXhH40mkDdMQXOLYmp1eRlCMOP&usp=drive_fs
 
 * [[Teacher Ot]] welcomes us to [[Magaambya|the Magaambya]] 
 * Gave us the  [[Induction Tests]]

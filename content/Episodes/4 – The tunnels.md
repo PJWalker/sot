@@ -12,11 +12,14 @@
 * Okoro invites us to a [[Gamers|Gamer]]
 * [[Finnick Bristle|I]] suggest Pathfinder
 * Okori finds a pair of magical [[bandages]] in a laundry pile.
-* 
 
-The student explore the academy dorms and find magical bandages.
+# Oily Ritual
 
-They later meet with the [[Cascade Bearers]], who task them with finding ingredients for a ritual to deal with gremlins. The group then sets out to find the ingredients, including caterpillars, mushrooms, and lucky bones, with the help of the Cascade Bearers and other students.
+The next day [[Anchorroot]], [[Mariama Keitana|Mariama]] & [[Chizire]] task us with finding ingredients for a ritual to deal with gremlins. 
+
+* Scarlet Cap Oil – growing in a place an hour out of town.
+* Bone Oil – lucky bones – 
+* Caterpillar Oil – - everywhere.
 
 The group searches for caterpillars and finds three, then heads towards a tree with mushrooms.
 
@@ -26,9 +29,6 @@ A giant mushroom creature falls from the tree and attacks the party. The creatur
 
 Quest
 
-Scarlet Cap Oil – growing in a place an hour out of town.
-Bone Oil – lucky bones – 
-Caterpillar Oil – - everywhere.
 
 # Raw Transcript
 

@@ -80,7 +80,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.NotFoundPage(),
       Plugin.CustomOgImages({
-        height: 1200,
+        autogenerate: false
       }),
     ],
   },

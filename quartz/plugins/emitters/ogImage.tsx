@@ -19,6 +19,7 @@ const defaultOptions: SocialImageOptions = {
   height: 630,
   imageStructure: defaultImage,
   excludeRoot: false,
+  autogenerate: true
 }
 
 /**
@@ -116,7 +117,7 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const fonts = await getSatoriFonts(headerFont, bodyFont)
 
       for (const [_tree, vfile] of content) {
-        if (vfile.data.frontmatter?.socialImage !== undefined) continue
+        if (!fullOptions.autogenerate || vfile.data.frontmatter?.socialImage !== undefined) continue
         yield processOgImage(ctx, vfile.data, fonts, fullOptions)
       }
     },

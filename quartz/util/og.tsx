@@ -117,6 +117,7 @@ export async function fetchTtf(
 }
 
 export type SocialImageOptions = {
+  autogenerate: boolean
   /**
    * What color scheme to use for image generation (uses colors from config theme)
    */

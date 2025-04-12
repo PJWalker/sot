@@ -19,7 +19,6 @@ tags:
 - Has a plot in the [[Leshy Gardens]]
 - [[6 – Induction Ceremony?#^g8dtm|Chose the yellow cravat]]
 - ‘has little interest in books, but admires the book*shelves*’
-## Appearance
-Looks like a farmer, wearing simple clothing
+- Very used to the rain
 ## History
 - Adopted by is a Knight of [[Lastwall]] who fought against the [[Whispering Tyrant]] #Followup 

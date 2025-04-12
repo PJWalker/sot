@@ -2,8 +2,6 @@
 aliases:
   - Finnick
   - Paul
-  - me
-  - I
 tags:
   - initiate
 ---

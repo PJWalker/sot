@@ -8,5 +8,6 @@ tags:
   - Staff
   - location
 ---
-![[Spire Dormitory.png]]
-Residents receive a sunburst shaped [[Beads|bead]].
+
+![[Spire Dormitory-1744431150657.png]]
+* Residents receive a sunburst shaped [[Beads|bead]].

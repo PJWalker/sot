@@ -5,4 +5,4 @@ tags:
 Elf
 Groundskeeper
 
-Assigned [[Ukku Kehehd|Ukku]] a plot in the [[Leshy Gardens]] 
+* Assigned [[Ukku Kehehd|Ukku]] a plot in the [[Leshy Gardens]] 

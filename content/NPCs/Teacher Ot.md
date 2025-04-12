@@ -7,8 +7,8 @@ tags:
 ---
 ![[Teacher Ot-1744160062511.png]]
 - Human [[[Lore-speaker]] with colourful clothing
+- Married to [[Niana Ot]] 
 
 # Events
 * Sponsored [[Finnick Bristle|me]] in the school
 * Inducted us into the school
-* Described [[Old-Mage Jatembe]]

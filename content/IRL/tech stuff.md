@@ -1,1 +1,0 @@
-* #Followup I‘m clipping craig

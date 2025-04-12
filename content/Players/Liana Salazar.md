@@ -11,14 +11,15 @@ tags:
 
 - Said her greatest strength was her brain
 	- “Probably more intelligent than you \[Teacher Ot\]”
-- Wants to aid village and improve her community’s health.
-- Has [Matilda], a pet cat.
-- Has a 'lab' in her dorm
+	- Been to ‘many schools’
+	- Highly literate; likes books & poetry
+- Lives in [[Spire Dormitory]] 
+	- Her room is a lab
+	- Has study plans for multiple years stuck on her wall
+	- Pet cat [Matilda]
+- Wants to make a healthcare plan
 - [[1 — Introduction#^b96a2f|"Berries are my weakness"]]
 - [[1 — Introduction#^money|Probably well off]]
-- [[7 – First Term#^-aab0|Figured out]] that the [[Special Divination Squad]] rules are a scroll of [[Augury]] 
-- Been to ‘many schools’
-- Highly literate; likes books & poetry
 - [[6 – Induction Ceremony?#^b5bl4|Chose the red cravat]]
 ## Appearance
 * Short cropped dark green hair

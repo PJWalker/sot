@@ -8,18 +8,18 @@ aliases:
 tags:
   - initiate
 ---
-Ukku aims to control his gift and learn about the undead.
-## Notes
+
 - “Just a farmer”
 - “Plants seem to go out of control around me”
-- “Unique magic” confuses the mages back home – seeks to control it
-- “Seeks knowledge of the undead”
+- Wants to be a knight 
+	- Aims to control his gift – “Unique magic” confuses the mages back home
+	- Seeks knowledge of the undead
+	- Follow in his adoptive father‘s footsteps.
 - [[1 — Introduction#^money|Probably poor]]
-- Assigned a plot in the [[Leshy Gardens]] by [[Thema]] 
+- Has a plot in the [[Leshy Gardens]]
 - [[6 – Induction Ceremony?#^g8dtm|Chose the yellow cravat]]
 - ‘has little interest in books, but admires the book*shelves*’
 ## Appearance
 Looks like a farmer, wearing simple clothing
 ## History
-- Adopted by is a Knight of [[Lastwall]] who fought against the [[Whispering Tyrant]] (?)
-- He wants to become a knight and protect the tyrant within the [[Gallowspire]].
+- Adopted by is a Knight of [[Lastwall]] who fought against the [[Whispering Tyrant]] #Followup 

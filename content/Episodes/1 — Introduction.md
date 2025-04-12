@@ -2,6 +2,8 @@ https://drive.google.com/open?id=1W0JFlZCXhH40mkDdMQXOLYmp1eRlCMOP&usp=drive_fs
 
 * [[Teacher Ot]] welcomes us to [[Magaambya|the Magaambya]] 
 * Gave us the  [[Induction Tests]]
+* Had us choose a symbol, which corresponded to a cantrip
+	* I chose the Scales
 * Gives us each a Yellow & Blue [[Beads|bead]]
 * Asks us:
 > What about you defines you, even if others rarely notice it?

@@ -1,0 +1,1 @@
+“Left-handed people are skilled in undoing spells” - [[Teacher Ot]], [[1 — Introduction]]

@@ -255,7 +255,7 @@ And I step forward and I say, well, teacher, you already know me, but I am Finni
 I've been in this town.
 I've been around here for my whole life.
 And well, you told me that this would be a great way to further my learnings and become a great person just like you, teacher.
-It's good to see you again, Phoenix..
+It's good to see you again, Finnick..
 You know, understand, I must go through the C's questions for, everyone.
 Of course, of course.
 Have to be fair, right? Of course, you understand.
@@ -423,7 +423,7 @@ We can come back to you.
 Thank you.
 Would anyone like to answer that question? What work have you done to bolster those in and around the Mambia before now? Nothing heroic myself, but I'm just growing up in my village, I've been always there to assist when I can and trying to stay out out of trouble.
 I'm a fairly young rat myself, so hopefully I can do more in the future.
-I think you're more humble than you perhaps need to be, the whistle Scrin, but his humbleness is is a good thing to be.
+I think you're more humble than you perhaps need to be, Scrin, but his humbleness is is a good thing to be. ^-50d0
 Humility is a useful trait.
 But sometimes you can be proud.
 I'm sure you've done more some things that have been quite useful.
@@ -802,7 +802,7 @@ Am have the best magic.
 Says so, says.
 Ei here is trying to run the entire school, even playing teachers for the new students, it looks like.
 SE blows out a sharp breath.
-Okori told me to get them settled, said that handling the new students was our job.
+Okoro told me to get them settled, said that handling the new students was our job.
 Do we look like the intendants to her? Not yet we aren't, Tis replies, turning his attention back to peeling the skin off another slice of mango.
 As hes for a moment before scuffing her foot at the cat's tail and then stepping over him to go inside.
 Come, come this way, as he says, and she shows you around by a dormitory.
@@ -1255,7 +1255,7 @@ I know you were saying something that resembles Chesire as the name of the cat, 
 Oh yeah.
 Cheisire, SE and Teacher O with the three people.
 Oh, and and the T and the cool teacher Odd.
-That was Okori.
+That was Okoro.
 But I feel like that wasn't important.
 Yeah.
 We didn't know anything about them yet.
@@ -1264,7 +1264,7 @@ I've got Isy, Shasiah Anasi, Akoru, Ignasi, Marinas, the Musi Leo.
 Oh, yeah.
 I railed off a punch of dis.
 She was just pointing at door and saying, that's their room, that's their room.
-Yeah, I wrote Okori before you were like, oh, no, these aren't I don't need to know this yet.
+Yeah, I wrote Okoro before you were like, oh, no, these aren't I don't need to know this yet.
 I did also write SE as Eay, but don't worry.
 Well, I was I probably like I could have been a bit more prepared.
 It's been a busy day, week month.

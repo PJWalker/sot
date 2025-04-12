@@ -582,7 +582,7 @@ I think we go this way.
 But yeah, you lead the way.
 Of course.
 And Okori's going to use dancing lights.
-Yeah, you set up the lights and Phoenix starts leading the way very confidently, and he does, and you make your way to a ladder.
+Yeah, you set up the lights and Finnick starts leading the way very confidently, and he does, and you make your way to a ladder.
 And you come up confidently and find yourself I still think we lost Phil.
 Yeah, I think we lost Phil.
 I was figuring out if we lost me or Phil just then.
@@ -1100,7 +1100,7 @@ Ooh, we're all a 17.
 And I have plus 5 totrum.
 That's fine.
 Yeah, you find one about the same time.
-So, yeah, Scrint finds one first and then Ukku and Finnick also find one.
+So, yeah, Scrin finds one first and then Ukku and Finnick also find one.
 So, yeah, you sort of all found one.
 And you's got three people trying to figure out how to pick them up, although Scrin goes first.
 How do you go about picking them up? Do they look, are they they like a bry like one, like one you probably shouldn't touch? Yeah, you were told that they can be quite painful to touch.
@@ -1871,10 +1871,6 @@ I've repeated grades and shit on a different schools.
 I'm just playing her as like the foreign exchange student.
 But I do think we need to get a little bit better.
 I feel bad.
-I remember, speaking of some of the thought here, but I feel like Mba was phoning in a little bit of his combat stuff.
-He's just got to be This is where everyone just like, remember that we're playing to a podcast.
-So describing what's on the Scrin doesn't help anything.
-Yeah.
 Oh, I'm trying, but I can do better.
 I think we're still learning, and we're still figuring it out.
 I'm still There's still a part of me that's like, I kind of don't want to use maps, but I also get like, like, they help you guys out.

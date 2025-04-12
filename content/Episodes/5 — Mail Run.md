@@ -875,8 +875,7 @@ You guys eat about a half a pound of jam each on your way home.
 And deal with that We'll have to deal with that later.
 But we will cut cut to.
 Let's cut to the Jungle Fellas.
-Scrin and Uk.
-Ku.
+Scrin and Ukku.
 How are you guys going about, like, yeah, you've got sort of general landmarks to look out for or to ask people about or to go about, if you have any other ideas of how to find them? Well, one was quite specific.
 Well, actually, two are fairly specific.
 I'm on that map that we had this were there any creeks drawn in? Right, there's many creeks.

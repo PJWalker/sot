@@ -833,7 +833,7 @@ The two dog ones have Bose, and the other one has like, it's like a big mo for h
 Yep.
 And so they start coming running out at you.
 So just kind of previous to this as we were approaching it, Okori's eyes just kind of flashed white and sheet sorry, Okori's eyes eyes just kind of flash white for a second, and she takes this kind of danger? Yeah, sweet.
-So, Phoenix, you are up first.
+So, Finnick, you are up first.
 What would you like to do? Does that No one has, like, well, if you haven't at the start of better, like things like Warcraft Cry, you don't have a lot of feet yet, so you probably don't.
 Yeah, I don't..
 So, where are we? So you're coming up this ramp.
@@ -976,7 +976,7 @@ So So you have to hit, I'm guessing.
 Yeah, so does a 24 hit? Yep, not a grip, but it does hit.
 Awesome.
 So the target is now stupefied.
-It's got 1 D 6, which is full pisscing damage and that plus one from Phoenix.
+It's got 1 D 6, which is full pisscing damage and that plus one from Finnick.
 So that's five damage, ortogether.
 What are you doing? I did my Pesh Pine grenade at the lesser level.
 It's a bomb.
@@ -1494,7 +1494,7 @@ You hit.
 Speed.
 Just.
 So it'll do the D 6.
-So, yeah, if you feel yourself about to glance, but then the music of a Phoenix song that redirects your mace.
+So, yeah, if you feel yourself about to glance, but then the music of a Finnick song that redirects your mace.
 Rapier.
 Rapier.
 So that's five damage, and then it also does the shocking grasp damage.
@@ -1718,7 +1718,7 @@ What we have on the outside? It's not screen, is it? It beef.
 It's.
 Phic.
 It's Phic.
-So everyone except Phoenix should be in range of bless at the moment.
+So everyone except Finnick should be in range of bless at the moment.
 Yeah, so you can say you could cast something like a shield or something in case you get attacked.
 Well, if I had a shield, that would be great.
 Or you can move a bit, position yourself.

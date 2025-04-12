@@ -1427,7 +1427,7 @@ So what's your total with that? 14.
 I get a 16 total.
 So you do not manage to grab one of the suckers.
 Oh, damn it..
-Now it is Phoenix turn because there was two actions to move, one action to try to grab.
+Now it is Finnick turn because there was two actions to move, one action to try to grab.
 Okay.
 In that case, I will enter.
 I I would like to move roughly, like to basically the centre left of the building.

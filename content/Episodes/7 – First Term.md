@@ -656,7 +656,7 @@ So with 13, you feel like you're struggling to understand the rules.
 Laurie, Scrin is struggling.
 Do you want to use a hero point? I think I'll save it from a study, just in case..
 You do feel like you got a pretty good grasp on the rules.
-Paul Phoenix does.
+Paul Finnick does.
 Paul.
 What about anyone else? Has anyone else trained in...
 Well, even if you're not trained in occultism or society, I would still allow a role.
@@ -1016,7 +1016,7 @@ Yeah, no.
 Thank you.
 I'd be tempted to the two.
 No.
-Maybe I can put you down as an asteris and like you're a bad influence.
+Maybe I can put you down as an asterisk and like you're a bad influence.
 We take the one, pr pranks with us? Yeah, so only when you're doing pranks.
 I'm putting Scrin with an asterisk.
 Yeah.
@@ -1027,7 +1027,7 @@ That's true.
 And Aora, you're also not up for babysitting.
 Okori had to steal away to the ladies.
 Okay, we'll come back to that, but okay, so just to recap sort of the clicks that you are joining.
-The gaming group,  Finnickhas wholeheartedly joined.
+The gaming group,  Finnick has wholeheartedly joined.
 Liana has limped into.
 Sparring partners.
 Sk has gone in full force.
@@ -1035,13 +1035,13 @@ The sewing group, Liana and Finnick have expressed interest.
 The drinking group, Finnick expressed interest, and Sk will be there sometimes.
 The brewing group brewing weird liquors, Liana and Uu were keen on as they were also keen on the experimental elqu elixirs, for the music recording and playback, that was Okori and Finnick that were interested in it.
 And for the exercise, I've got Scrin with an asterisk, like when he's up for it, he might go for a run.
-Bone scavenging, I've got Scrin, pranksters, I've got Scrin with an asterisk, and baby, I've got Scrin with an asteris.
+Bone scavenging, I've got Scrin, pranksters, I've got Scrin with an asterisk, and baby, I've got Scrin with an asterisk.
 So Scrin is probably the most involved, but a lot of that's like limping in.
 Ukku is probably the least involved.
 Although Okori.
 Could be more involved as well.
 Would you be up occasionally babysitting Okori? How well behaved are the children? They're rambunctious children.
-They're not badly backaved, but they're rambunctious.
+They're not badly behaved, but they're rambunctious.
 And they also have an ability to turn it into a spider.
 Yeah, they are id children.
 I mean, potentially cockroaches.

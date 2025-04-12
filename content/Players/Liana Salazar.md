@@ -16,7 +16,7 @@ tags:
 - Lives in [[Spire Dormitory]] 
 	- Her room is a lab
 	- Has study plans for multiple years stuck on her wall
-	- Pet cat [Matilda]
+	- Pet cat [[Matilda]] 
 - Wants to make a healthcare plan
 - [[1 — Introduction#^b96a2f|"Berries are my weakness"]]
 - [[1 — Introduction#^money|Probably well off]]

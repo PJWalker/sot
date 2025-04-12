@@ -70,7 +70,7 @@ So, yeah, kind of humourous, but in a good way.
 Yeah..
 I just actually, I've just remembered that there are a couple of gaps in my summary.
 We began last episode with a PCs recounting their story of their orientation week to Oora and O Solo for the Uzanjati assignment.
-They all took a different approach with theanna recounting a poem she'd written during the week to bring a tear to the other students.
+They all took a different approach with Liana recounting a poem she'd written during the week to bring a tear to the other students.
 Aquari sang a song to tell her story, which brought more tears to some of the students.
 It's.
 Very teary day.
@@ -80,7 +80,7 @@ Do you remember what you told your story? It's just directed at me, I just got m
 Yeah.
 Oh, yeah, Paul, it is directed to you.
 Do you remember how you told your story last session? I' I just had a couple of gaps in the recap.
-How? I talked about fighting the, uh, what's it called? The origami thing.
+How? I talked about fighting the, what's it called? The origami thing.
 About their life and death experience.
 Yeah.
 That your quote in quote heroics.
@@ -116,7 +116,7 @@ But don't you have fairly decent PC as well? Yeah, I'm yeah, once I have my armo
 Yeah.
 It is good phys level level one, two.
 Two.
-So the screen was able to advance them upon them with aid from Ukku Sum Trees, but this newly proved deadly for Skrin as he fell from repeated attacks.
+So the Scrin was able to advance them upon them with aid from Ukku Sum Trees, but this newly proved deadly for Scrin as he fell from repeated attacks.
 Repeated attacks, but through the use of their hero points.
 He revived himself.
 Eventually, they were able to flank the enemy and call to them enough damage to retreat.
@@ -188,7 +188,7 @@ So yeah, we began began last episode with the PCs recounting the story of their 
 They all began all took a different approach with the recounting a poem she'd written during the week, which brought a tear to the other students.
 Okori sang a song to tell her a story, which brought more tears to the eyes some of the students.
 Finnick talked about their life and death experience in the washroom, but was able to convince them of his bravery.
-Skrin, which basically recaps the rest of the week with Uku filling in a few blanks.
+Scrin, which basically recaps the rest of the week with Ukku filling in a few blanks.
 After telling their stories, they were told to be ready at dawn tomorrow if their induction ceremony before being given the rest of the afternoon off.
 In the morning, they went to the induction area just before dawn, but were attacked by several gremlins who had prepared an ambush at the ceremony site.
 The attackers appeared from below the ceremonial platform with two doglike gremins firing arrows.
@@ -196,10 +196,10 @@ They're called pagwampies, and one insecto which reserving a large hammer.
 It was a large hammer for it.
 It was really just a regular kind of just a big hammer, but large for it.
 And that was a havocks, I think.
-The fight nearly turned deadly for finick when he was peppered by arrows, been managed to retreat to a safer location.
+The fight nearly turned deadly for  Finnick when he was peppered by arrows, been managed to retreat to a safer location.
 The insected gremlin was dealt with first, as it was badly hurt, as an advancing towards the party.
 However, the two archer gremlins drew difficult, as the cover underneath the platform to their advantage.
-Screen was able to advance upon them with the aid from Ukku's summon trees and the rest of the party, but this nearly proved fatal for scr as he fell unconscious from repeated attacks.
+Scrin was able to advance upon them with the aid from Ukku's summon trees and the rest of the party, but this nearly proved fatal for scr as he fell unconscious from repeated attacks.
 But through the use of their hero points, he did revive himself.
 Eventually, they were able to flunk this enemies a bit and cause them enough damage to force the retreat.
 And But they were able to cut most of their retreat, except for their leader, who was able to escape after commanding the rest, the other unwilling to cover them.
@@ -217,7 +217,7 @@ Well, definitely the stab in the abdomen didn't help.
 Ouch.
 Yeah, let's try and not make a habit of it.
 Yeah.
-Those trees that you've summoned Duku, of great help.
+Those trees that you've summoned Ukku, of great help.
 Sorry, I did quite catch that.
 Move on.
 So, yeah, Venom 1 is trained in medicine, you could attempt to treat wounds.
@@ -261,7 +261,7 @@ I rolled a one.
 Okay.
 Do you want to use your hero point? I do want to use a hero point.
 Yeah.
-Probably a good idea, because otherwise you might knock screen back out. UH It would be somewhat funny.
+Probably a good idea, because otherwise you might knock Scrin back out. UH It would be somewhat funny.
 Yeah.
 11 th better.
 Plus six is 17.
@@ -279,11 +279,11 @@ So you can do that for 10 minutes.
 But as you're doing this, Takalu actually comes up and says, ah, what has happened here? Is everyone okay? You're hurt.
 It's just a brokenaking nail.
 I'm looking I wasn't so talking to you.
-You are hurt, Leanna.
-I was mostly talking to screen there.
+You are hurt, Liana.
+I was mostly talking to Scrin there.
 Gremlins, you say.
 Got the rat.
-I also give screen an apple, which heals for 1 d 4 plus one I don't.
+I also give Scrin an apple, which heals for 1 d 4 plus one I don't.
 Necessarily need it per se, but I will take it because they are delicious.
 They are very delicious, indeed.
 I think that's more immediate as well.
@@ -295,7 +295,7 @@ My apples actually keep the doctor away because they heal you.
 Perfect.
 But you're the doctor, so...
 Oh, is.
-Are you like Pugglyachu, the clon? Sad? Uh, Anyway, um.
+Are you like Pugglyachu, the clon? Sad? Anyway,
 Yeah, Taku says, oh, gremlins, you say, I think we'll need to call the ceremony off.
 That's terrible.
 Uh, You are formally inducted.
@@ -353,7 +353,7 @@ And Okori O Oori, you're also pretty good at healing.
 But mostly magical.
 Gemma, are you there? Yeah.
 You're also a bit of a healer with your oracle stuff.
-I am, but I think, if I remember correctly, I did use my magic to stabilise screen last session anyway.
+I am, but I think, if I remember correctly, I did use my magic to stabilise Scrin last session anyway.
 Yeah.
 Yeah, so you probably might be out of.
 Yeah, cool.
@@ -372,7 +372,7 @@ It says, ah, you must be the students.
 It's good to see you.
 What has happened to you? We got in a bit of a fight, but I think we're all doing good now, right? Guys? Yeah, no more bruises or cuts.
 Ah, you got in a bit of a scrap, eh? Good work on you.
-And he gives you like a good shoulder slap finick.
+And he gives you like a good shoulder slap  Finnick.
 The name is Mafika Ayuari.
 You guys can all give me history check.
 If you want to, if you think you might have heard about this guy.
@@ -526,7 +526,7 @@ Purely interested in insects? No, that's really my specialty.
 I wouldn't say it's for everyone.
 But you can learn a lot from looking at the small guys.
 Indeed.
-Well, Are you interested in insects? Corey kind of looks down at her robes, looks back up the teacher.
+Well, Are you interested in insects? Okori kind of looks down at her robes, looks back up the teacher.
 Not currently.
 But I'm sure if I have any burning questions, I shall be able to come to you and have them answered.
 Absolutely.
@@ -653,7 +653,7 @@ Yeah, a team society.
 And I rolled it on a culchism, if it matteratts.
 Okay, good to know.
 So with 13, you feel like you're struggling to understand the rules.
-Laurie, screen is struggling.
+Laurie, Scrin is struggling.
 Do you want to use a hero point? I think I'll save it from a study, just in case..
 You do feel like you got a pretty good grasp on the rules.
 Paul Phoenix does.
@@ -682,7 +682,7 @@ Totally.
 We'll come back to that as well.
 This is like happening sort of like week two.
 So this is all.'s it's all early days.
-But a lot of Mimbo, you said Uku was going, so would you like to give me a society or a cultism role? I am pretty horrible with both of those.
+But a lot of Mimbo, you said Ukku was going, so would you like to give me a society or a cultism role? I am pretty horrible with both of those.
 Still, are we supposed to also make a study role? That's going to happen sort of at the end of the session.
 We've got like a whole term of stuff that we've got to get through before we do that at the end.
 So I rolled a five and you're saying it's either a cultism or society of which I have either.
@@ -749,14 +749,14 @@ Fortunately, Laurie.
 Just.
 Yeah, yeah.
 I would have had to get a 28 or a trip.
-But Mimbo, do you want to roll for Uku? I will, yes.
+But Mimbo, do you want to roll for Ukku? I will, yes.
 You will need a 20.
 Nope.
 You do not understand this game.
 It is unfortunately beyond you.
 Yep.
 Yeah.
-But yeah, the winner is Fic.
+But yeah, the winner is Finnick.
 Okora also is a winner and says, ah, what, good game.
 Look, um As I said, easy game.
 I don't know what you guys are doing.
@@ -770,7 +770,7 @@ Yeah, alternate wind conditions, you know.
 I'm still not sure what wind condition I was going for.
 Me either.
 I think that's what tripped you up.
-Uku, better luck next time.
+Ukku, better luck next time.
 But if you want to like if any of you want to join the group with me, Cesiah, and Mariama, look, we try to meet once every two weeks.
 Yeah, I'd be up for that.
 Do you have another notice board in the dormitory or Just to keep us updated on what night? I mean, yeah, this is not a normal week.
@@ -823,12 +823,12 @@ Yeah, I see.
 It looks like 14.
 I think that's yeah, you don't fail.
 You get somewhat, you get like, you feel it, but you're not just thrown up.
-So Corey basically reaches for the big chunk of glass, taps it twice, shoots it back, and just feels it like almost burned out.
+So Okori basically reaches for the big chunk of glass, taps it twice, shoots it back, and just feels it like almost burned out.
 As it goes down.
 It's like.
 By the stars, that stuff would melt wallpaper.
 Yes, it's good stuff.
-So, uh, those wings, pardon me asking, but do do they work? Are you able to fly? Not precisely.
+So, those wings, pardon me asking, but do do they work? Are you able to fly? Not precisely.
 They're used mainly for getting extra height and jumping.
 Interesting.
 But it's also why I was very, well, partially also very interested in your tower, but also that it seems to be one of the very high places in this entire school.
@@ -874,7 +874,7 @@ Yes, bye, bye.
 So, yeah, Chisiah and Abram are the drinkers.
 Like, if anyone sort of wants to sort of become their drinking buddy, you can.
 They sort of meet semi-regularly.
-And then, and yeah, and Chizar would sort of, if you ever sort of hang out with him, he would, if anyone's interested in helping him brew things, so crafter's probably more looking at you, Leanna.
+And then, and yeah, and Chizar would sort of, if you ever sort of hang out with him, he would, if anyone's interested in helping him brew things, so crafter's probably more looking at you, Liana.
 Are you interested in working with Chiziah? Oh, you mentioned crafting, of course.
 Well, specifically, Chizaya likes to brew weird elixs with Mariama and brew experimental elixirs with Ignasi.
 No, sorry.
@@ -893,7 +893,7 @@ Well, basically lasts for that round.
 You've got to eat it straight away.
 Or it can't.
 Yeah, I'm sort of fast-tracking some of these because otherwise we're going to be role-playing a lot of different scenes as you join these little social groups.
-But yeah, so yeah, so we've got Leanna anduku doing the brewing squad.
+But yeah, so yeah, so we've got Liana and Ukku doing the brewing squad.
 We've got Finnick joining the drinkers.
 There's a good chance that I might end up joining the drinkers because I was looking to see, is there a cl clichhe kind of with the duelling and whatnot? Yes, I was going to get to that one.
 So yeah, like SEE, Habram, and Mariama are like the sparring partners Club.
@@ -904,7 +904,7 @@ We heard you almost went down in the fight.
 Oh, if you want to get better at sparring, join me in Abram sometime.
 Well, you should have seen the other guy, but yes, I'm very interested.
 This is for all of you.
-We just heard Skrin was a bit more on the front foot.
+We just heard Scrin was a bit more on the front foot.
 I'm a lofer, not a fighter.
 And if fighting's not fighting's not so much your style, I like to go running with Okoro.
 So if you're more just into high, still high impact, but less dangerous, I suppose.
@@ -921,7 +921,7 @@ Cool.
 The other group, which we sort of already established, is the sewing slashfashion group, which is Ignasi Noo and Senway.
 Is anyone, again, that's like looking at crafting, but it's just different to elixirs.
 Is anyone sort of interested in joining that? Or interested from a fashion point of view as well.
-Yeah, I think Corey probably have a bit of a try at getting her tolerance for alcohol up because two shots is embarrassing.
+Yeah, I think Okori probably have a bit of a try at getting her tolerance for alcohol up because two shots is embarrassing.
 I mean, two shots in short Succession can do a number on someone.
 I've seen I think I've done it.
 Do you think I I've done two shots in succession? Well, no, I felt bad about it.
@@ -929,7 +929,7 @@ Oh, okay.
 So is there anyone for the sewing slash fashion group? I mean'm interested.
 Yeah, me too.
 And the modelling and then, yeah, yeah.
-So the Anna and Finnick sort of joined.
+So Liana and Finnick sort of joined.
 That's, yeah, a lot of the time you're just making kids clothes.
 They're also just working on like, you know, making new stuff for yourselves.
 Cool.
@@ -951,7 +951,7 @@ I guess they could work as drumsticks, but I already got..
 Yeah, bones like they hold a memory.
 So I think I can use them to like imprint the music.
 Interesting..
-Yeah, so next time I meet with Essie, I'll come seek you, I' Corey and Finnne, and we can do do some try to try some things.
+Yeah, so next time I meet with Essie, I'll come seek you, I' Okori and Finnne, and we can do do some try to try some things.
 Absolutely, we can.
 I mean, yes., but no other musicians.
 If you're maybe not so on the music side, but if you do need a hand scavenging for bones, let me know.
@@ -1011,36 +1011,36 @@ Is anyone else offering to help with ABC? Sitting? Not for me.
 I've never really been good with little ones.
 That's absolutely fine.
 It doesn't sound like anyone really wants to get involved in babys.
-Not even you, Uku.
+Not even you, Ukku.
 Yeah, no.
 Thank you.
 I'd be tempted to the two.
 No.
 Maybe I can put you down as an asteris and like you're a bad influence.
 We take the one, pr pranks with us? Yeah, so only when you're doing pranks.
-I'm putting screen with an asterisk.
+I'm putting Scrin with an asterisk.
 Yeah.
 And they can climb Eu's trees.
-Uku.
+Ukku.
 Doesn't want anything to do with that you? No, but that's Ukku, not Ukku's trees.
 That's true.
 And Aora, you're also not up for babysitting.
-Akori had to steal away to the ladies.
+Okori had to steal away to the ladies.
 Okay, we'll come back to that, but okay, so just to recap sort of the clicks that you are joining.
-The gaming group, Vinick has wholeheartedly joined.
-Leanna has limped into.
+The gaming group,  Finnickhas wholeheartedly joined.
+Liana has limped into.
 Sparring partners.
 Sk has gone in full force.
-The sewing group, Leanna and Finnick have expressed interest.
+The sewing group, Liana and Finnick have expressed interest.
 The drinking group, Finnick expressed interest, and Sk will be there sometimes.
-The brewing group brewing weird liquors, Leanna and Uu were keen on as they were also keen on the experimental elqu elixirs, for the music recording and playback, that was Akori and Finnick that were interested in it.
-And for the exercise, I've got Skrin with an asterisk, like when he's up for it, he might go for a run.
-Bone scavenging, I've got Skry, pranksters, I've got screen with an asterisk, and baby, I've got screen with an asteris.
-So Skrin is probably the most involved, but a lot of that's like limping in.
+The brewing group brewing weird liquors, Liana and Uu were keen on as they were also keen on the experimental elqu elixirs, for the music recording and playback, that was Okori and Finnick that were interested in it.
+And for the exercise, I've got Scrin with an asterisk, like when he's up for it, he might go for a run.
+Bone scavenging, I've got Scrin, pranksters, I've got Scrin with an asterisk, and baby, I've got Scrin with an asteris.
+So Scrin is probably the most involved, but a lot of that's like limping in.
 Ukku is probably the least involved.
-Although Akori.
+Although Okori.
 Could be more involved as well.
-Would you be up occasionally babysitting a Corey? How well behaved are the children? They're rambunctious children.
+Would you be up occasionally babysitting Okori? How well behaved are the children? They're rambunctious children.
 They're not badly backaved, but they're rambunctious.
 And they also have an ability to turn it into a spider.
 Yeah, they are id children.
@@ -1065,7 +1065,7 @@ Sweet.
 And so that's essentially between the study, the perquisite, getting involved in all these clicks, that's essentially how your first sort of eight weeks of class go.
 We will, because we already sort of introduced it, at some point towards the end, Ababram approaches you.
 And he says, I've done it.
-I've done it to Corey, and the rest of you, I think I've finished my hand glider.
+I've done it to Okori, and the rest of you, I think I've finished my hand glider.
 But I need some help.
 I need someone that's got a good balance and athletic.
 I think I want you to hold me up.
@@ -1225,7 +1225,7 @@ Okori is the PC.
 It is going to be confusing.
 You have your chance to change this.
 Yeah, yeah, yeah.
-Akori.
+Okori.
 You're in.
 Yeah.
 So was that a fine, or Kri? Yes.
@@ -1330,7 +1330,7 @@ Okay.
 I'll come along, but I'll let you hear the talking.
 You seem better at that.
 Yeah, yeah.
-Yeah, so is it just you the go or are you bringing a couple of people with you? It sounds like screen is going.
+Yeah, so is it just you the go or are you bringing a couple of people with you? It sounds like Scrin is going.
 Yeah, Honest, okay.
 If anyone else wants to come, yeah.
 I think Wu would be very interested in this.
@@ -1518,9 +1518,9 @@ I automatically roll 10.
 What's your plus? Five.
 Yeah, if you have assurance in athletics, yeah, you can just get up there and do it.
 Yep.
-Kuku is a bossy boy.
+ bossy boy.
 Yeah.
-So Akori is getting ready to go up there all and getting into her intimidation pose.
+So Okori is getting ready to go up there all and getting into her intimidation pose.
 It's very scary.
 And then Goo just sort of like just gets up there and like from nowhere just just grabs the chicken.
 I like to think he's doing it in pure silence as well.
@@ -1622,7 +1622,7 @@ It could.
 With my brewing, it could.
 And that's why I say no, because it could, but I don't want to.
 Cool.
-So that's a success for Skry.
+So that's a success for Scrin.
 Who wants to go next? I'll just have to pick someone.
 I'm happy to go.
 I roll very badly.
@@ -1637,8 +1637,8 @@ You do not gain a bonus law, um, but you didn't, um, you don't lose, um, study t
 Basically, you're keeping up with the base level of studies, basically, but you're not advancing.
 Maybe you spent a little bit too much time working on the farm this time, but hopefully, like, it'll be a bit more established for the future and won't take as much time.
 All right.
-We'll let Skri die.
-I don't let Skri die.
+We'll let Scrin die.
+I don't let Scrin die.
 Yeah, because I get use my hero point to save him.
 Because otherwise he would have crit failed on the treat wounds and it would have couldn't die.
 Okay, so, I mean, Paul, you were talking, so why don't we have Finnix? Study role? All right.

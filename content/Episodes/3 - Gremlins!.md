@@ -496,7 +496,7 @@ Um, yeah.
 Cool.
 That's easy.
 Enough.
-Uku, is there anything you're looking for in the markets? Mimbo? Yes, apple seeds.
+Ukku, is there anything you're looking for in the markets? Mimbo? Yes, apple seeds.
 Apple seeds.
 Yeah, you're able, it takes you about half an hour to find them.
 Eventually you're able to find a seller of seeds.
@@ -511,7 +511,7 @@ So I'm happy with the one I've got right now.
 Okay, cool.
 Yeah.
 You can do that easy enough.
-And Leanna.
+And Liana.
 I tend to study better when I have a companion of the full-legged variety.
 So, yeah, I'd like to get a little pet.
 Yeah, you can find a little pet pet.
@@ -684,7 +684,7 @@ So it take but it does take.
 At this point, it's like mid to late afternoon, and it'll take an hour or a bit longer, really, to capture your likeness, at which point he'll be wrapping up the day.
 Yeah, yeah, yeah, yeah.
 And you guys can go back to Mambia.
-By the time that you get back, assuming you guys wait around for Fic by just looking around, it will essentially be night by the time that you get back.
+By the time that you get back, assuming you guys wait around for Finnick by just looking around, it will essentially be night by the time that you get back.
 As long as we don't miss dinner? Yeah.
 Well, it's like it's dusk.
 It's like encroaching night, that the insects are out.
@@ -712,7 +712,7 @@ It's a pleasure to meet you.
 I only put one hand out, obviously, to shake their hands.
 Yeah, they don't they don't stand up.
 They just stay seated to sit your hand.
-And Ignassi says, uh, so you are just here today? Or this is your, you just got here yesterday.
+And Ignassi says, so you are just here today? Or this is your, you just got here yesterday.
 Is that correct? Yesterday, yes, I did.
 Ah, well, man.
 In the rest of the phone.
@@ -815,7 +815,7 @@ I might, I might see you later, but I'll probably be dealing with them for the r
 Good luck.
 Yeah.
 And so it's anyway, heads off.
-Um, Nasi says, uh, I'd probably get better get back to studying as well.
+Um, Nasi says, I'd probably get better get back to studying as well.
 So I might just grab some food and take it back to my room.
 See you around.
 See you around.
@@ -880,7 +880,7 @@ I mean, the library is open for you if you want to begin your studies, but that'
 Well, that's what I thought we were here for to study.
 Well, you may find the library common useful for some of these challenges, depending on what the challenge is.
 Fair enough.
-Any clues for tomorrow? Uh, the only clue I will give you is it is me.
+Any clues for tomorrow? the only clue I will give you is it is me.
 Um, that will be running it and it relates to the Tempest Sun Majors.
 Okay.
 I hope that's enough.
@@ -1146,7 +1146,7 @@ Brass? Would brass be a semirecious metal? Maybe if we get a half gold, half alu
 Or maybe we just find a silver bell.
 I feel like silver bells are probably findable.
 I mean, technically, iron would work.
-Semmi-recious..
+semi-precious..
 Anyway, we'll just need to find some small bells.
 While I suppose in a way, the marketplace is an option, it would be somewhere completely different today.
 I mean, do you think they might have them at the powder pile? Yeah, we'd give it a shot.
@@ -1155,7 +1155,7 @@ Yeah, it's a bit of an easier.
 Yeah, yeah, sure.
 Let's it there.
 To the powder pile.
-While you're reading about this Pugwampies, um, Liz, Leanna discovers, it's basically like a note.
+While you're reading about this Pugwampies, um, Liz, Liana discovers, it's basically like a note.
 It's like it's in like the book, like the bit that you're in, like about Pug Wampies.
 It's a paragraph It's like a little handwritten note about a man named Oawak Bazni.
 The named Adttawak.
@@ -1174,16 +1174,16 @@ So just a question.
 I mean, like, if it was just one person in this particular group who performs that action, do we all get expelled for that one person's action? Yeah, it depends.
 I think it might happen because, I mean, you didn't stop them.
 In any case, I think it'd be best that none of us get expelled, so let's try not to go down that path.
-Well, actually, apparently, apparently it is semirecious metals such as silver or gold.
+Well, actually, apparently, apparently it is semiprecious metals such as silver or gold.
 So school all that other discussion and just found it written down somewhere.
 Silver or gold.
 That's the two examples they give.
-Semmirecious is vague in my mind, but it's probably very specific to other people.
-It's a specific thing, which I don't think gold is semirecious, but.
-N, Semmi-recious is like copper brass, all those kind of ones.
+Semi-precious is vague in my mind, but it's probably very specific to other people.
+It's a specific thing, which I don't think gold is semiprecious, but.
+N, semi-precious is like copper brass, all those kind of ones.
 Iron.
 But in this, it's gold and silver, so that's fine.
-Probably because there's also metthyl and andamantine in this world.
+Probably because there's also metthyl and adamantine in this world.
 Yeah, exactly.
 So that would be probably the more precious metals.
 Also, as far as I'm aware, I don't think metals are classified that way.
@@ -1220,7 +1220,7 @@ No, no, no.
 I was always going to bring it back in good condition.
 Or was he? Good.
 Very well.
-One bell lent to finick.
+One bell lent to  Finnick.
 Will be back by the end of the day.
 All right.
 We'll add one copper per day.
@@ -1357,7 +1357,7 @@ But it seems to see the bell and just throws a bottle on the ground, like at you
 And then it tries to run and hide.
 And again hides very badly.
 The rest, and then you just sort of hear murmuring.
-Okay, so then we'll go to Skrin.
+Okay, so then we'll go to Scrin.
 Yep.
 Okay, so we know where one is.
 Hide? Yeah, he's up in the shell.
@@ -1388,7 +1388,7 @@ I'd kind of go there, there, there.
 I suppose I's probably at the end of my turn.
 Okay, you start pointing them out.
 Sounds good.
-Leanna.
+Liana.
 I'm going to stay around the door and and like to do a perception check to see if I can see anymore.
 Sure.
 Give another se action.
@@ -1522,7 +1522,7 @@ I'm going to jingle the bell.
 Okay.
 In any particular way, like, what are you doing? Anything particular with them? Just a nice, soft little jingle, hopefully that entices them out a little bit more and Okay.
 Yep, that's what you do.
-And then we move to Uku.
+And then we move to Ukku.
 Yeah.
 Yep.
 Oh, this is a bit of a situation.
@@ -1540,10 +1540,10 @@ Got my bag on.
 Nope.
 I do not find a sack.
 IR two.
-Yeah, so like Skrin's got a bag because he said he got one.
+Yeah, so like Scrin's got a bag because he said he got one.
 That's fine, but you didn't have one.
 So, yeah, you're still looking around for a bag or a barrel or something that would fit this thing.
-I shove it in a screens bag? On your next turn, but that was your third action.
+I shove it in a Scrins bag? On your next turn, but that was your third action.
 Sure.
 Finnick.
 Yes.
@@ -1614,7 +1614,7 @@ So on its turn, that one fucking finds her or window.
 No, actually, no.
 There's no window.
 There's a storage bar.
-It just runs towards the door and squeezes past Leanna and gets the fuck out of there.
+It just runs towards the door and squeezes past Liana and gets the fuck out of there.
 It's gone.
 It just runs screaming.
 Wait, that's second.
@@ -1686,7 +1686,7 @@ We'll do with that next episode then.
 Yep.
 Cool.
 I'm just making my notes about what happened.
-So the afternoon of downtime, I've got for screen seeds for Ukku, Cat Filiana, Mask for Fic..
+So the afternoon of downtime, I've got for Scrin seeds for Ukku, Cat Filiana, Mask for Finnick..
 The downtime evening, you met Ignasi and Senway.
 Talked about challenges more.
 Oh, you got to know, got to know a bit more.

@@ -52,7 +52,7 @@ Good to get into this? Everyone is on.
 We've got Craig here.
 Um.
 So more or less we just got back to the hall, didn't we? Yeah, the dining hall, yeah.
-I think you're with Ezzy or like is he not far away at least? Um..
+I think you're with Ezzy or like is he not far away at least?
 Okay, I'm just texting a place in this one out there.
 I roll a 17 for no particular reason.
 Okay, change that Okay, cool.
@@ -168,7 +168,7 @@ So you'll be getting to know the ways of the school then.
 I think I I'm giving you the trial tomorrow.
 Didn't we go through the troll rate? The trial? Well, the trial, not so much a trial, trial.
 Service work, service projects for the school to get to know what it's like to be students in the Gambia.
-Oh, what's involved? Uh, well, um, basically, uh, it's one for every of the each of the standard bearers, the cascade birds, the five branches of the Gambia, the cascade bearers, the rain grabes, the tempest sun mages, the emerald bows and the Uzoi.
+Oh, what's involved? well, um, basically, it's one for every of the each of the standard bearers, the cascade birds, the five branches of the Gambia, the cascade bearers, the rain grabes, the tempest sun mages, the emerald bows and the Uzoi.
 Emer bs.
 What I mean, if you're not allowed to say, don't spoil it, but what do you have installed for the emerald Bs? Oh, I think that one will be...
 That one, who's running that one? Oh, no, no.
@@ -185,7 +185,7 @@ Anyway, I'll go get some food.
 I'll be back in a second.
 All right, see you around there.
 They come back in a second with food and sit down and you guys can talk a little bit more about the trial.
-But so have you all thought about what branch you want to represent already or are you looking to learn more about them? Well, I introduce myself as Leanna and everything.
+But so have you all thought about what branch you want to represent already or are you looking to learn more about them? Well, I introduce myself as Liana and everything.
 And I say, well, I want to learn a bit about each of the branches before I make a final decision.
 Well, I suppose that's all what part of these tests are about.
 Well, I think.
@@ -201,7 +201,7 @@ What about you, big guy? Looking at you, bo.
 May want to learn more.
 I'm kind of new to all of this, and I'm only a simple apple farmer.
 Plenty of farmers come through this place.
-Really? Uh, yeah, lots of people with an interest in nature.
+Really? yeah, lots of people with an interest in nature.
 Yeah, I certainly have an interest in nature.
 I'm wondering, you might get along well with Anchor route.
 And who is he, or she? She.
@@ -294,12 +294,12 @@ Ukku is my name.
 It's been man.
 We't changed that long.
 Ku screened.
-Leanna.
+Liana.
 I' changed a mad display name on roll 2 to my name.
 My character name.
 Yeah, that does help.
 Or at least if you change the role as.
-Okay, so what was initiatives? Fick? 20.
+Okay, so what was initiatives? Finnick? 20.
 Tal? Yeah.
 Lori? 12.
 Ku? Nine.
@@ -434,7 +434,7 @@ He's still up? Still up.
 I am on five.
 Okay, but one of these things isn't that you hit is also hurt.
 So like, okay, that's their turn, though.
-Next up, we have Skrin.
+Next up, we have Scrin.
 Laurie.
 So I guess first I'll start with a perception because I'm kind of pretty far away, like around a corner and kind of shit.
 I'll give it to you for free.
@@ -460,7 +460,7 @@ I think it would be like your con plus your level, probably.
 Okay.
 Yeah, it's definitely my con.
 I just don't know if I what the proficienc is.
-So what Uku is going to do is he is going to first use channel elements, which basically taps my elemental gate and then like you start seeing vine start floating into the air, sort of like growing from the ground.
+So what Ukku is going to do is he is going to first use channel elements, which basically taps my elemental gate and then like you start seeing vine start floating into the air, sort of like growing from the ground.
 And it's part of channel elements, I can use a one action elemental thing, which I will use elemental blast, which basically, it's like a blast of wood.
 But I also have weapon infusion, which allows me to, as a free action, to turn it into a weapon and apply a property.
 So I guess I need to first know how far away this enemy is from me.
@@ -596,14 +596,14 @@ Ukku.
 Okay.
 So.
 So the moment the fight is basically happening in the doorway, with Finnick running out with a bunch of scratches bleeding, like not functionally bleeding, but you see a lot of blood.
-And and Leanna is not to hold them off in the doorway.
+And and Liana is not to hold them off in the doorway.
 You can sort of just see who are moving around.
 I'm assuming I can get to the doorway without with one move, right?.
 Which your speed? Probably only 25.
 Yeah.
 Normal, 25.
 So I think it would take two movements to get to them.
-Well, what if I just moved there? Um.
+Well, what if I just moved there?
 Yeah, you can move to within, like, yeah, you can move to within, to see them with only one movement.
 Okay.
 Just remember that we are podcasting, so like, you think, what do I move there isn't good for a podcast.
@@ -618,7 +618,7 @@ So I will do what I was going to do last round, but couldn't because I was movin
 Channel elements, vines start to grow from the ground.
 I use that same action to do an elemental blast.
 And I am going to, is the creature behind, what's her name? What's the.
-Leanna.
+Liana.
 Yeah, we' give them a little bit of a booster AC.
 Liana that is behind her.
 That's in within 20 feet, right? Yeah, absolutely.
@@ -805,7 +805,7 @@ It's just started to runaway.
 The lizard see that's Bud right run away, I mean the frog and is going to still try to bite Liz and after 12.
 And then it will hop away towards the water.
 And that is their turn.
-And then we move to Skrin.
+And then we move to Scrin.
 Yes, that make sense, but you've ruined my turn.
 God, I's going to use all my shit.
 No, I'm going to just go after the frog., I mean, why not? And then I'm going to.
@@ -824,10 +824,10 @@ Okay.
 Then that's a miss.
 Then that's me, because that's two actions.
 Okay.
-Kuku.
-Next up is Uku.
+Ukku.
+Next up is Ukku.
 Ah, yes.
-Uku will...
+Ukku will...
 So each of these squares is 10 feet, right? No, it's five.
 It's five, I hope.
 Oh, okay.
@@ -872,7 +872,7 @@ Attack H.
 Oh, no, sorry.
 The paper..
 Oh, yeah.
-Leanna's having a moment.
+Liana's having a moment.
 It's the first day and she's a little stressed.
 So, they're at the dagger at the people construct that isn't the frog and as it's 17 hit.
 Yeah, that hits.
@@ -922,7 +922,7 @@ Cool.
 So on its turn, after you, it moves, runs away, runs away, and attemptss to hide and getting a pretty good role.
 So you're get sort of dancing into a crack and like dis disappears, you'll have to try to see if you can find it.
 Okay.
-Next up is Skrin.
+Next up is Scrin.
 So, has this commotion brought anyone else over or are we like the only ones who get on? I's said at this point there are probably a few people looking around like, what's going on.
 It running in there, I don't think it's much of a dangerous to us at the moment.
 So I would probably approach the door and just poke my head out and go, oh, there's some weird ass people animals in here.
@@ -955,7 +955,7 @@ Let me see whether SE can heal.
 We've got to check a different section of the numbers.
 I from an apple.
 Are they like an unlimited Apple resource? Yeah, pretty much.
-Uku can make as many apples as he wants.
+Ukku can make as many apples as he wants.
 I accept the apple I did, and I.
 Thank you, thank you for the apple.
 One D 4 like this HP.
@@ -986,7 +986,7 @@ Well, I go to use the other washroom, wash my face and patty up and go back to m
 Yeah, and I just retire back to my room and go to bed immediately.
 Okay.
 You all retire? Well, I actually haven't heard from Laurie.
-What does screen do? Oh, yeah, he would have just been walking back to his room already.
+What does Scrin do? Oh, yeah, he would have just been walking back to his room already.
 That's over.
 I'm not going to go wash up.
 I'm fine.
@@ -1024,7 +1024,7 @@ Yeah.
 Yeah, hard to find.
 Can be a bit fragile sometimes.
 How's the soup? I wouldn't know, personally.
-Essie says, uh, yeah, uh, the soup is irrelevant.
+Essie says, yeah, the soup is irrelevant.
 We'll need four four to get.
 I We'll hopefully ensure that we have at least one male and one female.
 The more the better, though, as many as you can get.

@@ -50,7 +50,7 @@ Cool.
 All right.
 Well, it's in the past now, anyway? We'll move on.
 Within a minute of being exposed to the poisonous spores, Ukuiana took some poison damage and become suffering some ongoing effects from the poison.
-Our resident alchemist Leanna, identified the poison as purple pox, and in another 24 hours, the next stage would begin, which would involve them being compelled to seek out a myceloid colony.
+Our resident alchemist Liana, identified the poison as purple pox, and in another 24 hours, the next stage would begin, which would involve them being compelled to seek out a myceloid colony.
 Got it right that time.
 With this knowledge, curing the poison became the top priority for our student crew, so they immediately made their way back to the school after gathering into the quiet mushrooms.
 And after finding a few loose treasures stashed in the tree, well, I said say loose treasures, they were stashed.
@@ -65,12 +65,12 @@ So with nothing else better to do, you went back to your task and started lookin
 I think you went to the kitchens first and you were put onto a nearby butcher where you went and were told you could have some bones after about an hour's wait.
 During this time, you made use of the, you decided to squeeze the mushrooms to get your scarlet cap oil.
 And after an hour, you got your bones, had a brack to campus to finish making your oils.
-Leanna had been preparing her alchemist tools while you've been getting the bones.
+Liana had been preparing her alchemist tools while you've been getting the bones.
 So you were able to successfully make that oil.
 The caterpillars, you just crushed them up in to make a nice oil out of them.
-And with all three oils, you met with the other students to complete the ritual where Uku served as the primary caster, with the rest of the group lending their skills to aid the ritual with a solid success.
+And with all three oils, you met with the other students to complete the ritual where Ukku served as the primary caster, with the rest of the group lending their skills to aid the ritual with a solid success.
 But you're basically taking the full day to complete, so you have a short evening and then your rest, and then it's back to your next task tomorrow..
-One thing I probably forgot, like Uku and the anna, I wonder if you were rolling with your stupefied conditions affecting you yesterday.
+One thing I probably forgot, like Ukku and Liana, I wonder if you were rolling with your stupefied conditions affecting you yesterday.
 Because I think that does affect your casting.
 Yeah, I think it's like a minus one or something like that.
 And Yeah, it's not the end of the world.
@@ -125,7 +125,7 @@ I'd just be wearing common clothes, maybe maybe loose fitting so I can move arou
 And then while while at venturing, I've got an explorers outffit that I'd be wearing, which is kind of just like a nice jacket, gold trim blue jacket.
 And, yeah, just kind of fancy looking, but not terribly crazy.
 Yeah.
-Do you I mean, I think I heard you say you had an idea? Yeah, so Corey tends to get around in blues and whites with a little bit of bronze accenting to it.
+Do you I mean, I think I heard you say you had an idea? Yeah, so Okori tends to get around in blues and whites with a little bit of bronze accenting to it.
 If she's adventuring, it's a light armour, you know, something more leathery.
 Not very fond of shoes, given that, you know, she has wicked talons on her feet.
 Partial to the odd caldron, but very much more practical and easy to move around in most of the time.
@@ -149,9 +149,9 @@ This is practical for adventuring and going to church.
 Whereas you're a different, like you, Laurie, grin is like it's a nice jacket, but it's probably well worn.
 Yeah, like, there's probably a few signides of obvious repairs.
 Like, I try and keep it in good nick, but it's not new.
-Corey is very clean, very fastidious, does not like getting her clothes dirty..
+Okori is very clean, very fastidious, does not like getting her clothes dirty..
 Yeah.
-And then finally, Paul, how is Finn looking this morning? I think Finn this morning, he's chosen his yellow T-shirt with a..
+And then finally, Paul, how is Finnicklooking this morning? I think Finnickthis morning, he's chosen his yellow T-shirt with a..
 I'm not t-shirt.
 Sorry, his yellow shirt with a a bright red vest on top and then his purple overcoat.
 So that's kind of the normal vibe.
@@ -336,10 +336,10 @@ And then there is a third letter which is addressed to Masluda.
 I'm probably butchering this pronunciation.
 It's M-A-Z-L- UD EH.
 They're the imperial, with that religious date, again, you know, they're the imperial Lord of St stewardship, community, and snakes.
-Maybe you know that, Leanna, you'd probably have a bit of a connection to snakes as well.
+Maybe you know that, Liana, you'd probably have a bit of a connection to snakes as well.
 And in the instructions are on the enclosed message, you must transcribe, it's basically a short message that a new canal should be strong and reliable, basically in proty of the asking the God, but it must be transcribed onto an egg then fed to a snake.
 And it says, if the snake refuses to eat, this is a bad omen.
-Agori's going to look at Leanna and go, do you count as a snake? I have an affinity.
+Agori's going to look at Liana and go, do you count as a snake? I have an affinity.
 For snakes.
 Not And uncertainty.
 I missed that bit, sorry? So not precisely serpantine.
@@ -364,7 +364,7 @@ I mean, I feel with maybe maybe goes through it is telling us maybe the deity of
 Maybe that should take priority.
 Doesn't seem that hard..
 You said you had an idea about that one, didn't you? Not me.
-Oh, Corey, that was sorry.
+Okori, that was sorry.
 There was that small gentleman who likes to jump off of the tower.
 Aha.
 I would suggest that we enlist his aid in such a matter.
@@ -507,13 +507,13 @@ L 12.
 12 total.
 Yeah, so there's two that Laurie has not been able to decipher, but.
 Yeah, if this or.
-Paul want to try, sorry, Leanna or Finnick.
+Paul want to try, sorry, Liana or Finnick.
 I got.
 An 11.
 Total? Yeah.
 Cool.
 You don't know.
-So, Leanna, you can be the last person trying on this one.
+So, Liana, you can be the last person trying on this one.
 Again, you have a heroo point.
 You are welcome to.
 No, I didn't enter it right.
@@ -527,7 +527,7 @@ That is not enough to pass.
 Do you want to use a hero point?? Yes.
 T what you need a 12 plus 7 minus 1, so you need a 12.
 On the d a 10..
-Is anyone else tryinged in society, Ukiri, or Uku? Probably not.
+Is anyone else tryinged in society, Ukiri, or Ukku? Probably not.
 I'm not, unfortunately.
 I'm trained in perception, astrology, strict law, nature, and religion.
 I will allow any one of the others you guys to use a hero point to have one last crack.
@@ -635,7 +635,7 @@ So I might stick with that team then.
 Yeah, I mean, plans are kind of my thing.
 I'll probably go as long as well.
 Yeah, so the two of you, are you going to stick around, like, are you going to help Gemma with her kite first and then do, then head out and then..
-Sort of leave the rest to Finnick and Leanna to do? I guess it's up to them.
+Sort of leave the rest to Finnick and Liana to do? I guess it's up to them.
 If they want some help, I'm happy to assist, but otherwise I'm very much for getting back into nature.
 Yeah, I mean, it seems you go.
 I was just going to ask Akari which team she wants to be a part of because whichever team it is, they can just stay and help.
@@ -660,9 +660,9 @@ I can also spend my time searching for a cure for our friends of looked with the
 Well, I think I think that those two were just going to go to Billy Zupo and see if they could just get cured or at least reset.
 So I guess we should do that first.
 Yeah, or that's the grip that sticks around here for a while while we ignore them.
-Well, it sounded like you'll go to do that, and then maybe it was Ori just working on her own on the two dayic letters where while Finnick and Leanna go into town to do the general deliveries and the unclear directions that have been translated, the one that hasn't been translated to stick that with Okira as well.
+Well, it sounded like you'll go to do that, and then maybe it was Ori just working on her own on the two dayic letters where while Finnick and Liana go into town to do the general deliveries and the unclear directions that have been translated, the one that hasn't been translated to stick that with Okira as well.
 That'll be her.
-Then the four parcels that are going into the descriptive ones, they'll be with Uku, and Skrin, and then you'll meet back up and figure out the one that went to the wrong street address.
+Then the four parcels that are going into the descriptive ones, they'll be with Ukku, and Scrin, and then you'll meet back up and figure out the one that went to the wrong street address.
 Is that about right? Yeah.
 Sounds.
 All right.
@@ -705,8 +705,8 @@ Dodo is a very friendly one thing.
 It doesn't matter.
 They'rel dead? Okay, so...
 Okay, so let's cut to Billy's Zuffer.
-Like, you guys will say that Ukku and Leanna go to Billy' Zupu while the rest of you are sort of bundling up and then it packages into the respective groups..
-And you guys, what do you guys do when you get there? This is just Liz and Mimbo, the Leanna and Uku who were poisoned.
+Like, you guys will say that Ukku and Liana go to Billy' Zupu while the rest of you are sort of bundling up and then it packages into the respective groups..
+And you guys, what do you guys do when you get there? This is just Liz and Mimbo, the Liana and Ukku who were poisoned.
 Yep.? W.member being muted, so probably.
 No, sorry.
 My connection went funny then.
@@ -745,7 +745,7 @@ Oh, thank you so much.
 How long until, like, I'm completely back with it? You should be fine now.
 It should be to transit the system now.
 And step over here.
-Uku was it? Indeed.
+Ukku was it? Indeed.
 You're the one with the apples? Yes.
 Would you like one? Ah, sure.
 Bump one in his hand.
@@ -753,7 +753,7 @@ I mean, I feel like we could talk.
 I'll be interested about your journey as a student.
 But for now, let me see if I can cure this poison.
 We want to keep you with us.
-Uh, Yes, it wasn't quite as strong as last time as the one one for Leanna, but I think that will do the trick.
+Uh, Yes, it wasn't quite as strong as last time as the one one for Liana, but I think that will do the trick.
 Okay.
 Well, if you need any more healing, but hopefully you don't get poisoned again.
 What's your task for today? I believe we' delivery.
@@ -781,19 +781,19 @@ Sucking crunch.
 That's my favourite cereal.
 It comes with a choking warning.
 Anyway, so yeah, you got a cured of your poison with a successful counteract checks and sent back on your way.
-So we have Finnick and Leanna mounting up on their elephant birds with the bulk of the letters and packages, but these are just are just for around town.
+So we have Finnick and Liana mounting up on their elephant birds with the bulk of the letters and packages, but these are just are just for around town.
 They shouldn't be too hard to leave.
 Iver.
 They'll just take time to go through the streets.
 And you think it'll take about four hours to do all of these? However long it takes.
 Yeah.
-And yeah, ku and Skrin, you have four bigger packages with a variety of haphazard packaging to make them up.
+And yeah,Ukku and Scrin, you have four bigger packages with a variety of haphazard packaging to make them up.
 The rural packages so that you think that you're hoping that you can get each done in about an hour, but you might have to ask around and figure out where they are.
 And then we've got, we have uh Oiri with just three letters.
 One that she can't no one has been able to decipher., and two, with address the gods, one involving a kite.
 Food we want to do first.
 I'm I'm sorry to say this.
-Fin and Finn and the Anna, you just do your deliveries.
+Fin and Finnickand Liana, you just do your deliveries.
 It's not particularly exciting.
 Mostly it's just popping letter and.
 Yeah.
@@ -875,7 +875,7 @@ You guys eat about a half a pound of jam each on your way home.
 And deal with that We'll have to deal with that later.
 But we will cut cut to.
 Let's cut to the Jungle Fellas.
-Skrin and Uk.
+Scrin and Uk.
 Ku.
 How are you guys going about, like, yeah, you've got sort of general landmarks to look out for or to ask people about or to go about, if you have any other ideas of how to find them? Well, one was quite specific.
 Well, actually, two are fairly specific.
@@ -919,7 +919,7 @@ So, yeah, give me a survival.
 Give me three survival checks.
 Each, I suppose.
 11, 15, 10.
-Okay, and Uku, you give me three.
+Okay, and Ukku, you give me three.
 You can give me three survival checks.
 Three survival checks.
 Only only two, to be fair.
@@ -1029,7 +1029,7 @@ Hold it in my hand, take a few steps back.
 Okay, we're doing this.
 We're doing this in a rainstorm.
 Fantastic.
-Does's no help me, and I Corey takes a running leap off the tower.
+Does's no help me, and Okori takes a running leap off the tower.
 Well, first, I'm going to need you to make me a crafting check, because you just crafted a thing.
 14 on the dice.
 What do? It's straight 14.
@@ -1108,7 +1108,7 @@ Oh, excellent.
 Might I have some directions? I think they're in the northwest northe somewhere, actually, northeast.
 Thank you very much for your time.
 No worries.
-And Akori will head off to Ms Luda's triang.
+And Okori will head off to Ms Luda's triang.
 Yeah, easy.
 It takes you there.
 It takes you about 20 minutes or so to get there.
@@ -1118,7 +1118,7 @@ And yeah, what do you do when you get in there? I look for a priest or a worship
 Yes, I.
 I tuck my hands behind my back, I bow respectfully.
 Well met.
-Can I help you, child? Uh, I believe so.
+Can I help you, child? I believe so.
 I have been sent to deliver a letter on behalf of a petitioner.
 To me, no one has sent a letter to me in many years.
 It's from a petitioner, Your Grace.
@@ -1133,7 +1133,7 @@ But if we might might at least try.
 V, very straight back, very, you know, very pretty prim, very proper.
 Wings head.
 He's walking around.
-Yes, she's very, very proper, is a Corey.
+Yes, she's very, very proper, is Okori.
 She sends somebody else's temple.
 This is not her goddess's temple.
 She is going to be on her best behaviour and represent the destines very well.
@@ -1175,7 +1175,7 @@ So, you know omens, and this is one hell of an omen.
 Like the snake ended up.
 I'll it's like the snakes ended up sort of eating each other's tails in like a weird thing.
 And it's like, this is like a hell of an omen.
-I Corey kind of sees this happen and looks around her and sees the sympology of Musludar around and goes, "kay, I'll take that as a yes.
+Okori kind of sees this happen and looks around her and sees the sympology of Musludar around and goes, "kay, I'll take that as a yes.
 But you also know that you also, like, this could have been a freak occurrence, because these were two hungry snakes in a sea of welfare snakes that were really trying to find their next meal.
 And they were starting I'll eat snakes anyway.
 So, but I amm oracle and I am not going to pass up on omen.
@@ -1495,12 +1495,12 @@ So I think basically if you really wanted it, yeah, you could find extra.
 Oh, that's true.
 But yeah, well, you get a chance to wash up, sleep.
 When you get back, Sway gives you some more hot ginger beer if you want it as like a nightcap.
-Ignasi thanks you and says, uh, yeah, I know that must have been a hard day, but you actually did really well well.
+Ignasi thanks you and says, yeah, I know that must have been a hard day, but you actually did really well well.
 So next to come back tomorrow morning and we'll give you the next assignment, which will be with the Uzenjati.
 Have a good sleep.
 You guys all do have a good sleep.
 Sorry, what were you saying, Paul? I just said yes.
-And then in the morning, uh, you again, you do your morning preparations.
+And then in the morning, you again, you do your morning preparations.
 Do you have like a light breakfast.
 And do you find Ooro and Noolo? I think you met these guys earlier.
 Yes In the morning.
@@ -1616,7 +1616,7 @@ That's just....
 I think you forced an issue, but...
 Fair enough.
 I felt maybe I just would have felt rude if I was.
-He complimented everyone except for Uku.
+He complimented everyone except for Ukku.
 That's okay.
-Uku really does doesn't mind.
+Ukku really does doesn't mind.
 He's not that kind of person.

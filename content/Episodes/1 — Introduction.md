@@ -226,7 +226,7 @@ If that's what you believe, then perhaps you are.
 Perhaps not.
 I'm sure there are things you could teach me and I'm sure there's many things I could teach you.
 But I do know your name.
-You are you are Leanna Salazar? Yes.
+You are you are Liana Salazar? Yes.
 Very well.
 Interesting answer.
 Who would like to to go next? My character would step forward.
@@ -261,7 +261,7 @@ Of course, of course.
 Have to be fair, right? Of course, you understand.
 But it's good to have you finally entering here as a fool initiative.
 Well, we may as well keep in order.
-So my next question is, what most interests you? Leanna, perhaps we should start with you.
+So my next question is, what most interests you? Liana, perhaps we should start with you.
 Expanding my knowledge on all things in regards to alche and potience.
 Wilmir kind of left the last institute I was at because because I might have been a part of a.
 Well, they say I was a part of it, but I wasn't.
@@ -274,7 +274,7 @@ You can see like a little subtle horn on both sides of her head.
 And she's wearing like this golden purple matching a V-neck top in pants.
 But she is 5'7, so she might be a little bit taller than a couple of the people that have previously spoken.
 I'd say you're definitely taller than two of us.
-My screen is literally a small character.
+My Scrin is literally a small character.
 Yeah, me too.
 Have you guys decided how small? Like, you like, we generally go in feet? If you want to go centimetres, that's fine.
 Or, you know, just small.
@@ -290,7 +290,7 @@ Well, sometimes it's just, yeah, like how tall you can reach things.
 I don't know.
 It does come up every now and then, but probably not for a little while.
 Okay, so we'll go back to the conversation.
-Who was next? Who was next? I believe that that was you, Skrin.
+Who was next? Who was next? I believe that that was you, Scrin.
 Yes, that would be right.
 I just want to do my village well, my family and represent them with as much honour and learn a bunch of stuff that I can bring back to them to better the village itself.
 What most interests you, though? I'm quite interested in the learning of both improving my blade and magic.
@@ -329,7 +329,7 @@ You don't have to solve all of these with magic.
 You have other ways to solve them.
 That is fine.
 If you have to work as a team, you are more than allowed, you are absolutely allowed to do that.
-But lovely work screen.
+But lovely work Scrin.
 Are we alone here or are there other people around us? It is just I can talk to you.
 It's just the four of you and this guy.
 There are sort of, it is like the entrance.
@@ -361,7 +361,7 @@ And so you're basically just around here.
 There's a little table where he put the candle down.
 Okay, well, very well done on the first test.
 Well, on that, perhaps this is a good time in the next question.
-What do you consider your greatest strength? We can stick to the same order if nothing else? Leanna? I can produce a little bit of magic, but it's one of the things that I want to learn and enhance while at your university.
+What do you consider your greatest strength? We can stick to the same order if nothing else? Liana? I can produce a little bit of magic, but it's one of the things that I want to learn and enhance while at your university.
 So what do you consider your strength, though? My brain.
 I'm not very good when it comes to weaponry.
 Of course.
@@ -369,12 +369,12 @@ That is what we are most interested in.
 Wapons.
 Weapons are very useful, but many here are not particularly skilled with weapons.
 Oh, that puts my mind at pace.
-He nods and smiles and then turns to Skry and says, what have you, Skry? What do you consider your greatest strength? So besides the camaraderie of my village and family, I would say I'm quite confidence with my quickness in my hands and I also want to get more confident with my magic, so that's why I'm here.
+He nods and smiles and then turns to Scrin and says, what have you, Scrin? What do you consider your greatest strength? So besides the camaraderie of my village and family, I would say I'm quite confidence with my quickness in my hands and I also want to get more confident with my magic, so that's why I'm here.
 Very good.
 Strength of many is what we are here.
 The strength of thousands that have come before you is how this place exists and without the strength of many behind you, life is much harder, yes.
 Be nodding at that for sure? Yes, we we exist in the context of, etc.
-What about you, Uku? What do you consider your greatest strength? My adopted father says, honour is our greatest strength in life.
+What about you, Ukku? What do you consider your greatest strength? My adopted father says, honour is our greatest strength in life.
 Oh, Honour is important.
 So you come from a very honourable family then? My adopted family, maybe.
 Who are you were adopted by? A Knight of last war.
@@ -382,7 +382,7 @@ Interesting.
 Defender against the whispering tyrant.
 Two, no.
 I will take note of that.
-And finally, you, Finnic, what do you consider your greatest strength? Fick? Ah, yes.
+And finally, you, Finnic, what do you consider your greatest strength? Finnick? Ah, yes.
 I think my greatest strength is that I can find light in the darkest places and I can wring a smile to anyone's face.
 And you can at that.
 I think you'll have a pleasant effect.
@@ -400,7 +400,7 @@ Let's do it, plus seven diplomacy.
 Pretty good, plus.
 Total of 13.
 That is exactly what you needed.
-It says, uh, very well and shakes himself, shakes himself until a feather comes loose and says, tooodleoo then.
+It says, very well and shakes himself, shakes himself until a feather comes loose and says, tooodleoo then.
 Thank you.
 Come back later and I'll get you something in her tun.
 Perhaps some honey.
@@ -409,7 +409,7 @@ Yeah, you successfully have a fear and teacher Ot says, excellent, excellent, Fi
 I should have known you'd be well prepared for that one.
 Well, of course.
 Well, to our next question.
-Leanna, what work have you done to bolster those in in and around the Mambia before now? Next question.
+Liana, what work have you done to bolster those in in and around the Mambia before now? Next question.
 Take your time.
 If that's.
 I am absolutely happy to come back to you.
@@ -423,11 +423,11 @@ We can come back to you.
 Thank you.
 Would anyone like to answer that question? What work have you done to bolster those in and around the Mambia before now? Nothing heroic myself, but I'm just growing up in my village, I've been always there to assist when I can and trying to stay out out of trouble.
 I'm a fairly young rat myself, so hopefully I can do more in the future.
-I think you're more humble than you perhaps need to be, the whistle screen, but his humbleness is is a good thing to be.
+I think you're more humble than you perhaps need to be, the whistle Scrin, but his humbleness is is a good thing to be.
 Humility is a useful trait.
 But sometimes you can be proud.
 I'm sure you've done more some things that have been quite useful.
-Who would like to get? Uku, Finnick? Would either of you like to answer this this question? It's the first time I've been here, so I don't know that I have made any contributions to this place, but I hope to.
+Who would like to get? Ukku, Finnick? Would either of you like to answer this this question? It's the first time I've been here, so I don't know that I have made any contributions to this place, but I hope to.
 I mean, the magic that I have is something that confuses the majors back home.
 It's perhaps not even something that the old man knew about.
 I hope to bring knowledge of that to the school.
@@ -521,12 +521,12 @@ Indeed.
 A rare rarity amongst the Girundi and it is hidden, so he counts as a secret.
 Very well.
 Let's move on to the next question.
-What do you seek at the Mambia? Rihanna? Some of you have already answered this, but we will ask ask it again for clarity.
+What do you seek at the Mambia? Liana? Some of you have already answered this, but we will ask ask it again for clarity.
 To enhance my knowledge and to enhance my mind.
 Very good.
-Screen, I mentioned earlier to gain greater magic symbols some ways to help my village.
+Scrin, I mentioned earlier to gain greater magic symbols some ways to help my village.
 Excellent.
-And Uku? Well, I think to control this gift, but I also wish knowledge of the undead.
+And Ukku? Well, I think to control this gift, but I also wish knowledge of the undead.
 That is the greatest threat that we face.
 That would have been a perfect segue into my next aptitude test, but Finnick, before we get in, what do you seek here at the Mambia? Well, I seek the great community of people that are here.
 I want to just learn everything there is to know from all the amazing people that you guys have let come come together.
@@ -538,8 +538,8 @@ Yes.
 Well, as we go back to your mention of the dead, we shall start the next test, and he produces a bone.
 It looks humanoid, and he says, can you soothe the soul of this bone? What does that involve? I can cast the soothe spell.
 It't It's not appropriateriate at all, but...
-That is up to your interpretation, Uku.
-Where is the rest of this? Did you say that? Did you say that out loud, Fic? Uh, No.
+That is up to your interpretation, Ukku.
+Where is the rest of this? Did you say that? Did you say that out loud, Finnick? No.
 We'll say all I say out loud.
 I'll say, I'm not sure a bone has a soul.
 Surely the soul is more than just the bone.
@@ -599,7 +599,7 @@ I personally believe in mind, body duality.
 I just imagine you were doing like yoga poses while that was being said.
 Very well.
 This is the second to last question, I assure you.
-Once you have detained that which you seek, what goals do you wish to achieve? Leanna, would you like me to come back to you? No, like I said before, I haven't really contributed much to the community, but I want to be able to enhance my knowledge to establish a health plan for the sick and the orderly in the community.
+Once you have detained that which you seek, what goals do you wish to achieve? Liana, would you like me to come back to you? No, like I said before, I haven't really contributed much to the community, but I want to be able to enhance my knowledge to establish a health plan for the sick and the orderly in the community.
 Very good.
 I mean, that is definitely a virtuous endeavour.
 I try.
@@ -642,10 +642,10 @@ Give me a thievery check.
 Would anyone else like to try try? So kinetysis have this like ability called bass kinesis, which basically allows you to do a lot of things with your element, including move your element, right? So if I like am able to move a leaf, can I also sustain a rock on top of it? Yeah, you can find a leaf that's as big as this rock that would be able to at least move this thing.
 Then I shall use that.
 I will channel elements and then use base caninesis to try and move the leaf, which will move the rock on top of it.
-Ah, Excellent work, Uku.
+Ah, Excellent work, Ukku.
 Yes.
 This is one that requires, depending if you don't have access to, the specific spell and I did not expect any of you to have access to the animate object spell, but there are other ways to make it move.
-Screen, I feel like yours was a valiant effort, but I just needed it to be a little bit more, a little bit more of a spin.
+Scrin, I feel like yours was a valiant effort, but I just needed it to be a little bit more, a little bit more of a spin.
 Ah, if it's fine, you needed a 17 on that one.
 Okay, you passed all the tests.
 You get 150 experience each.
@@ -679,7 +679,7 @@ Yeah, totally.
 Very well.
 Your selections have been taken.
 And as he sort of conjures again, the symbols all go into you and you feel a surge of magic.
-So, Skrim, you picked the owlglass.
+So, Scrin, you picked the owlglass.
 Do you have the stabilised cantrip? I do not.
 You gain stabilise as a primal in? Nate spell..
 Who knows next? Scale.
@@ -697,7 +697,7 @@ You gain shield as an arcane innate spell, unless you already have had it.
 I don't.
 Cool.
 So shield is your new spell.
-And Mimbo uku picked the multi-pronged key.
+And Mimbo Ukku picked the multi-pronged key.
 So you gain mage hand as an arcane inate spell.
 Useful.
 Mage Hand is a bit different here on 5 B.
@@ -745,7 +745,7 @@ Would any of you care to answer the question or would you prefer to answer me at
 I mean to have a faint.
 Yeah, I think same here.
 I guess I would respond in so far as I would I'd be like, I'd say, thank you for giving me something to think about.
-And Uku? That's me to find out.
+And Ukku? That's me to find out.
 Very well.
 Perhaps I will ask this question again and each of you at a later date to know we can get to the bottom of who you are.
 Excuse me? Well, now, I had to each of you the first, your first two beads, a yellow and a blue bead made of durable glass.
@@ -802,7 +802,7 @@ Am have the best magic.
 Says so, says.
 Ei here is trying to run the entire school, even playing teachers for the new students, it looks like.
 SE blows out a sharp breath.
-Corey told me to get them settled, said that handling the new students was our job.
+Okori told me to get them settled, said that handling the new students was our job.
 Do we look like the intendants to her? Not yet we aren't, Tis replies, turning his attention back to peeling the skin off another slice of mango.
 As hes for a moment before scuffing her foot at the cat's tail and then stepping over him to go inside.
 Come, come this way, as he says, and she shows you around by a dormitory.
@@ -828,7 +828,7 @@ And she says, yeah, we just you can come here to relax, socialise as the one ano
 We'll simply just take a nap.
 If you need to have a break from your room.
 Sorry, I' lost my page.
-Um and she says, uh, let's, where should we go? Let's go, let's go this way.
+Um and she says, let's, where should we go? Let's go, let's go this way.
 Um, that's Ignati's room.
 You'll meet him later.
 Um, that's, um, well, I'm sorry, from the common room, there is Ooro's room and Chisiah's room.
@@ -919,7 +919,7 @@ What about you, Liz and Mimbo? Well, Firstly, I'm going to fasten a quick bracel
 And then my next move is like bang down on the bed, my pocket, pull it out, and there's a piece of paper with my already planned out study for the next few years.
 Sorry, stick that up on the wall and well, I start working on that until until my time's out.
 Cool.
-What about you, ku? Yeah, I mean, he's not really one for study, so you'll probably go out and check out the garden, to be honest.
+What about you,Ukku? Yeah, I mean, he's not really one for study, so you'll probably go out and check out the garden, to be honest.
 It's raining very heavily.
 Yeah.
 It's fine.
@@ -999,7 +999,7 @@ What are all your names? I amm in Finnick.
 Well, I'm at Finnick, I amm Sked.
 Are seeing you on a lot.
 Ukku the farmer.
-Uku the farmer.
+Ukku the farmer.
 That might be useful.
 To haven't another farmer around.
 You're a farmer.
@@ -1112,7 +1112,7 @@ And I take the thing and I also am like, oh, okay.
 Hi, I'm Finnick.
 What was your name? I am Zokhan.
 Hi, Zokhan.
-This is Leanna and Skrin.
+This is Liana and Scrin.
 They're my friends.
 Ukku is not your friend? I missed one.
 And I am sad, Ukku says..
@@ -1178,7 +1178,7 @@ No worries.
 I have string if you need it, but you're welcome to use your v.
 Like a friendship baset.
 Pretty much.
-The Skrin.
+The Scrin.
 From put all the beads on and put it around my wrist.
 Yeah.
 Around his neck.
@@ -1255,7 +1255,7 @@ I know you were saying something that resembles Chesire as the name of the cat, 
 Oh yeah.
 Cheisire, SE and Teacher O with the three people.
 Oh, and and the T and the cool teacher Odd.
-That was a Corey.
+That was Okori.
 But I feel like that wasn't important.
 Yeah.
 We didn't know anything about them yet.
@@ -1264,7 +1264,7 @@ I've got Isy, Shasiah Anasi, Akoru, Ignasi, Marinas, the Musi Leo.
 Oh, yeah.
 I railed off a punch of dis.
 She was just pointing at door and saying, that's their room, that's their room.
-Yeah, I wrote Corey before you were like, oh, no, these aren't I don't need to know this yet.
+Yeah, I wrote Okori before you were like, oh, no, these aren't I don't need to know this yet.
 I did also write SE as Eay, but don't worry.
 Well, I was I probably like I could have been a bit more prepared.
 It's been a busy day, week month.

@@ -12,4 +12,4 @@ tags: []
 
 Not really single elimination brackets(?); each team faces waves of [[Leshy Construct|Leshy Constructs]]
 
-Learnt about it in [[7 – First Term]], happening in [[8]]
+Learnt about it in [[7 – First Term]], happening in [[8 – Sparring Tournament]]

@@ -96,7 +96,7 @@ The first thought that ran through my brain was, well, something had to kick you
 To be fair, I've said the same thing to Sam, so...
 How is the yellow wiggle? I saw him last night.
 Oh, nice.
-So, um...
+So,
 Because his show opens on Friday, which is my actual birthday, I had a small party for my theatre buddies last night.
 Like they were just like a handful of us who'd all done shows with and a worst.
 And, yeah, just had a quiet one here.
@@ -166,9 +166,9 @@ So, last episode, the party started by being tasked with delivering the mail aro
 They spent some sorting the mail as a group and realised most of was pretty simple deliveries, but a handful would be a bit trickier.
 A handful of the letters just had unclear directions, but thanks to a few of the grouping training in society, the Modjority of these were able to be deciphered.
 And another handful of packages just had vague descriptions that would require rural deliveries and another few would require additional care, as they were addressed to deities that would deities, deities, and would require a unique method of delivery.
-So the group decided to split up with Finnick and Leanna, taking the the simple deliveries of our N Tamu, Ukku and Skr heading out to find the rural locations, and Ori staying at the Mambia to handle the dayific missives.
-Skr anduku were successful in making all their deliveries, but they took time as they wandered across the nearby countryside and waterways of the city.
-They also happened upon a tea place, and Skrin procured some chai to take back home with him, Finnick and the Leanna had no real difficulties making their deliveries and got to know a few people around town upon particular, they were given a large jar of mulberry jam, which they greedly devoured for returned to the school.
+So the group decided to split up with Finnick and Liana, taking the the simple deliveries of our N Tamu, Ukku and Scrin heading out to find the rural locations, and Ori staying at the Mambia to handle the dayific missives.
+Scrin and Ukku were successful in making all their deliveries, but they took time as they wandered across the nearby countryside and waterways of the city.
+They also happened upon a tea place, and Scrin procured some chai to take back home with him, Finnick and the Liana had no real difficulties making their deliveries and got to know a few people around town upon particular, they were given a large jar of mulberry jam, which they greedly devoured for returned to the school.
 And Ori was able to figure out methods of deliveries for the remaining two de missives after the group worked together to blast the first with their combined magics.
 The other other two involved a very odd kite flying task and getting a snake to eat an egg at a nearby temple.
 After successfully doing all the bulk of the all the other is, they just had one task left, which was correcting a mistake made by some of the previous mail deliveries, which involved heading to a nearby community and convincing a woman woman to give up a fine lamp, which he had considered hers.
@@ -190,7 +190,7 @@ Oh, you have to let the most intelligent go forward, then everyone else can feel
 Huh.
 All right.
 It's always good to let them put their foot in their mouth.
-Corey just kind of tilts her head to look headly on his feet, and let's add a little trill on her naked breath.
+Okori just kind of tilts her head to look headly on his feet, and let's add a little trill on her naked breath.
 I'm too busy getting my piece of paper out that I don't really notice this.
 Okay.
 At Megamba's Gate, New Scholar Stand, with Osw's words, a guiding hand.
@@ -235,7 +235,7 @@ Well, I wasn't aware that we were going to have story time today, so I don't hav
 And obviously we've been doing a lot of the same things together, so I might.
 Try and give a bit of my own perspective on one particular event.
 So this happened my first night here.
-I'd had a wonderful name, a wonderful morning meeting, well, these guys, aside from you or Corey, and was practising my loot.
+I'd had a wonderful name, a wonderful morning meeting, well, these guys, aside from you or Okori, and was practising my loot.
 But then, you know, before going to bed, I had to get cleaned up.
 So I was getting undressed to go and have a shower.
 I'll spare you all the handsome details of that.
@@ -329,7 +329,7 @@ And Okoro goes, well, who would like to go next then? No one wishes to tell me t
 The three of you can tell it together, if you wish.
 Okay, I suppose I could go.
 Next.
-Would Would you like to work with these other two or would you like to tell your own series of events? Corey looks around at the other two.
+Would Would you like to work with these other two or would you like to tell your own series of events? Okori looks around at the other two.
 I would not be at first working with the two of you if you so desire assistance? Sure.
 Well, I suppose we weren't here for the first couple days.
 Indeed.
@@ -345,11 +345,11 @@ After doing that, of course, we had another task the next day, which was, I beli
 And then after finding that the gremlins were they didn't like bells, essentially.
 We were able to rid them from the warehouse.
 And after doing that, our new friend here joined us us.
-Do you want to give you your perspective? Corey just kind of taps at chin for a couple of moments.
+Do you want to give you your perspective? Okori just kind of taps at chin for a couple of moments.
 Aside from dispatching of a very uncouth mushroom creature, and I attaining flight in the most unusual circumstances.
 Perhaps my tale is better told through the movements of the stars.
 Would it be possible to make a performance check Yeah, if you want.
-So the idea behind this is that Akori is going to basically sing the song of the stars in their movements over the last couple of days..
+So the idea behind this is that Okori is going to basically sing the song of the stars in their movements over the last couple of days..
 Cool.
 Plosmos oracle St.
 So I've got a plus seven.
@@ -392,7 +392,7 @@ Yeah, I think the DZ is 15.
 So not quite a crit success, but very impressive and they think that you are pretty badass.
 Yeah.
 Um..
-And so, yeah, so they'd turn to Ukku and they say, uh, Uku, is it? You are more silent than the rest of them? That is understandable.
+And so, yeah, so they'd turn to Ukku and they say, Ukku, is it? You are more silent than the rest of them? That is understandable.
 Do you have anything you would like to add? I don't really have much to say.
 I'm a simple man, a farmer of apples, raised by the Knights of the Last Wall.
 I mean, traditionally, they're the enemies of the dra, but yeah, we all live in the shadow of the gallows fire, so perhaps sometimes I feel like we should put out differences aside.
@@ -466,7 +466,7 @@ I think you basically heard the same because you have a role model.
 I think you just basically succeeded with that level of knowledge.
 Cool.
 If you rolled the same, though, you would have learned a little bit more.
-Leanna, did you roll as well? Yeah, I rolled a 22.
+Liana, did you roll as well? Yeah, I rolled a 22.
 Yeah, I think you know the same.
 You've heard of them.
 Famous martial artist slash wizard guy.
@@ -481,7 +481,7 @@ Thank you for your time.
 So with that, like, that would have taken about with the singing, the poem, that would have taken like not even an hour, I don't think.
 Probably like 30, 40 minutes.
 So you basically got a full day of downtime if you wish to use it for anything, you want to go to find the market, you want to do some shopping, or we can just fast track to tomorrow morning.
-If we've got some time, aey would like to speak with Leiana, if that's possible., that's definitely a question for Leanna.
+If we've got some time, aey would like to speak with Leiana, if that's possible., that's definitely a question for Liana.
 But yeah, you'd have like the whole day to be able to talk to her.
 Sure.
 Yeah, so, um, Aey will just kind of catch up and, um, if you have a moment, I would quite like a word.
@@ -513,7 +513,7 @@ And, well, I haven't met a Strix before.
 So I am quite curious about your homeland.
 The first thing that you should know about Strix is that we are an uncommonly private people.
 The second thing you should know about Stx is that I am a very uncommon Stx.
-How are you uncommon? And to this, Akori just kind of gives her a very small smile.
+How are you uncommon? And to this, Okori just kind of gives her a very small smile.
 I'm here.
 I think I'm just going to kind of leave it at that.
 Right, okay.
@@ -524,13 +524,13 @@ Make it look decent.
 By the heavens that.
 Oh, my.
 She just goes a little bit.
-Yeah, so to get Akey thanks and efforts to bond a little bit with Leanna.
+Yeah, so to get Akey thanks and efforts to bond a little bit with Liana.
 No, it was nice.
 And that's kind of where that's all I really wanted to do.
 Yeah, yeah, if that's not getting picked up, I fault to move it somewhere else, I will like to do it something now as well.
 Yeah.
 Cool.
-Well, it's kind of similar vibe, but uku.
+Well, it's kind of similar vibe, but Ukku.
 So let's presume that we've gone back to the dorms.
 I'm just going to knock on Ukku's dorm ring, and I've got two cravats that I can't decide between, but I'm going to ask forukku's opinion, but I'm going to knock on his door.
 He might not be there.
@@ -603,7 +603,7 @@ Cool.
 Yeah, I will clarify that your patch in the left your guns is kind of on like the outskirts.
 It's in like kind of the leshies are a little bit deeper in and you've got like, there's already a little bit of a windy path in here, but this feels like the most foresty parts of the Mambi.
 It feels like an alive.
-But there's also carefully cultivated like picnic spots and green space and even some sparring fields that you've noticed when you've been sort of me entering around the space, uku And yeah, and you like I'm assuming at this point, yeah, you would have been assigned this place by the chief groundskeeper TheEma.
+But there's also carefully cultivated like picnic spots and green space and even some sparring fields that you've noticed when you've been sort of me entering around the space, Ukku And yeah, and you like I'm assuming at this point, yeah, you would have been assigned this place by the chief groundskeeper TheEma.
 She is a Wood elf gardener to just sort of works.
 She's the head groundskeeper.
 And yeah, you might have, you know that there are leshies deeper in it and I'm assuming you've had at least at least waved at them and sort of gotten to know, yeah, like they've come by and sort of, yeah, they probably keep to their own area, but you know that they're there.
@@ -673,7 +673,7 @@ But yeah, you can spend some time helping to figure out these children's outfits
 Yeah, yeah, yeah, yeah.
 Strike some poses.
 Yeah, you put on a fat little fashion show.
-They say you screen and they say, the screen, would you like to get in in on this? I think I hear someone calling my name.
+They say you Scrin and they say, the Scrin, would you like to get in in on this? I think I hear someone calling my name.
 I'll be back in a bit.
 And I kind of slaughterter off.
 Did you guys hear that? I didn't hear anyone calling his name.
@@ -694,7 +694,7 @@ Oh.
 Hmm.
 Now, I' got to find...
 I'll try them both.
-I've got to find Eku and I've got to find screen and see what they're wearing.
+I've got to find Eku and I've got to find Scrin and see what they're wearing.
 Yes, yes.
 I mean, we have to look our best.
 We sure do.
@@ -709,7 +709,7 @@ It's Pride Monk.
 No, it's not.
 Yeah, you can go seek out those guys in the garden or whatever.
 And yeah, you' going to go figure out your fashion.
-Skrin, is there anything in particular you'd like to do? Not particularly.
+Scrin, is there anything in particular you'd like to do? Not particularly.
 I'm still kind of modifying to see if we can get there's a tunnel entrance in the the dorm.
 Yeah, absolutely.
 Give me a perception check or an investigate.
@@ -732,9 +732,9 @@ Yeah.
 And if people help, like it'll go down, by one person per day, if that makes sense.
 Right.
 If anyone else wants to help.
-Okay, so Uku's out there gardening.
+Okay, so Ukku's out there gardening.
 Finnick is helping with the sewing in the fashion.
-Got Leanna going to go making sure everyone's coordinated.
+Got Liana going to go making sure everyone's coordinated.
 Is there anything else you wanted to do? Anyone? O'ori's going to head back to her room and take out her oracle robes, hang them up and and sort of dust them off they're just like very heavy.
 It's almost like priestess kind of robes, but slightly more plainer.
 Cool.
@@ -761,7 +761,7 @@ We can sort of skip over to next morning, so you guys would all be getting up be
 Sounds good.
 Is there any specific preparations you guys do in the morning? Poor stressed hair, wake up, and that type of thing for me.
 And I'm praying that the other guys are wearing something decent.
-Corey would have, you know, dressed in her oracle robes, and some pretty intricate braid work in her hair with put the beads in that way and made her way down.
+Okori would have, you know, dressed in her oracle robes, and some pretty intricate braid work in her hair with put the beads in that way and made her way down.
 Excellent.
 So yeah, you guys have been told and probably shown where the induction ceremony is as you're going there, the paths are like a little bit dewy, but they're firm.
 If you guys do walk on the grass, you know, it's just a bit dewy and a little bit slippy.
@@ -796,7 +796,7 @@ What's the bonus again? Plus Plus two.
 The 23.
 Okay, 23.
 For me.
-For Leanna, it's 22 total.
+For Liana, it's 22 total.
 Yep.
 And Sk, what was yours again? Sorry? Live.
 Nine total? Ooh.
@@ -822,7 +822,7 @@ But he's still like second or third, so it doesn't make any difference.
 You get a plus two on top of that? Yeah.
 Oh, that's including.
 Not very perceptive.
-So that puts Ariri and Leanna at the same turn.
+So that puts Ariri and Liana at the same turn.
 This sort of works pretty well, actually.
 So you guys are sort of walking up the path, up the ramp, and these three gremlins have attacked.
 Two of them look like the little tiny gnarly looking dog kind.
@@ -832,7 +832,7 @@ They sort of start running out.
 The two dog ones have Bose, and the other one has like, it's like a big mo for him, but it's just like a slightly like a slightly larger than regular hammer.
 Yep.
 And so they start coming running out at you.
-So just kind of previous to this as we were approaching it, AKri's eyes just kind of flashed white and sheet sorry, Corey's eyes eyes just kind of flash white for a second, and she takes this kind of danger? Yeah, sweet.
+So just kind of previous to this as we were approaching it, Okori's eyes just kind of flashed white and sheet sorry, Okori's eyes eyes just kind of flash white for a second, and she takes this kind of danger? Yeah, sweet.
 So, Phoenix, you are up first.
 What would you like to do? Does that No one has, like, well, if you haven't at the start of better, like things like Warcraft Cry, you don't have a lot of feet yet, so you probably don't.
 Yeah, I don't..
@@ -900,7 +900,7 @@ So four damage now.
 That's what the form was the outcome of 2 d 4.
 And that's my turn.
 That's your three actions.
-Uku.
+Ukku.
 Hmm.
 I will suit up my armour.
 Yeah? You suited up your arm.
@@ -922,11 +922,11 @@ I think it's still running.
 Rounded down stuff.
 Okay, well, then there's no point to that.
 I guess it just looked cool.
-I threw it like a wooden dagger, uh, conjure a wooden dagger and I threw it as the guy.
+I threw it like a wooden dagger, conjure a wooden dagger and I threw it as the guy.
 Um Are they're just a bit too far away? No, 30 feet.
 It's the propulsive thing is 30 feet.
 So 12.
-And I'm adding, what am I adding? Um.
+And I'm adding, what am I adding?
 Should be like on your car you set up like a character sheet and stuff? I did, but it doesn't say on my character sheet.
 You might have to like add the weapon in like you using Path Builder.
 I am, but I printed out a sheet.
@@ -954,20 +954,20 @@ So, yeah.
 Yes.
 Right, sorry.
 Yeah.
-So, uh, yes, 13.
+So, yes, 13.
 Okay.
 He is not looking good after that max damage.
 Okay.
 Is that your three actions, yeah? Yes, correct.
 Okay.
-The next up is Leanna and Okiiri.
+The next up is Liana and Okiiri.
 I don't care who goes first.
 I's up to you guys.
 I think Leah should go first.
 Cool.
 That's how it is alphabetically.
 So that's how it is.
-So, Leanna, what get to do.
+So, Liana, what get to do.
 I got my hands in my pockets, and I think, okay, which one do you think will be more useful at this moment? And I pull out my Pesh Pine grenade at the lesser level.
 And I'm going to try and throw it at the individual that Eku just damaged.
 Okay.
@@ -1033,7 +1033,7 @@ Perfect.
 Okay.
 After that turn, oh, it is security turn.
 Yes.
-So having used a oracular ability, the Corey is now at level one cursebound.
+So having used a oracular ability, Okori is now at level one cursebound.
 Yeah, cursepound.
 So she looks a little bit more.
 Hereal than she did before.
@@ -1046,7 +1046,7 @@ I think that's 20 feet away if I'm right there, Phil.
 Yeah, so the ind one with the hammer is about 20 feet away, and the other one's about 40 feet away.
 One of them is under the platform.
 That parks well for me.
-Under that circumstances, the Corey's going to sort of draw and arm out to the side form a divine lance in her hand and like fuck it towards in like a very smooth kind of motion.
+Under that circumstances, Okori's going to sort of draw and arm out to the side form a divine lance in her hand and like fuck it towards in like a very smooth kind of motion.
 That is a plus four to attack.
 The cursebound condition only applies to strength rather than spell attack, essentially.
 Cool.
@@ -1148,7 +1148,7 @@ You're up on one HP.
 Yeah, yeah.
 Fair enough.
 And then they both run under the thing.
-And then that takes us to screen.
+And then that takes us to Scrin.
 Yeah.
 Stupid.
 Guys running under the thing.
@@ -1200,17 +1200,17 @@ Theoretically, like the top of the platform is pretty good cover at the moment, 
 Oh, okay.
 Well, in that case also all behind the pillar where either pillar, to be fair, it's depending on what distance you want to be at.
 How far can I walk? Let's see.
-But, like, Leanna has pretty good cover where she is behind that pillar.
+But, like, Liana has pretty good cover where she is behind that pillar.
 Yeah, let's go over to where is more or less.
 At least the grass is difficult to rain, you might not get as far as you think.
 Oh, yeah, it's all difficult terrain.
 Yeah, it's really dewy and slippery.
-Leanna probably shouldn't be there, but that's fine.
+Liana probably shouldn't be there, but that's fine.
 It's in the past.
 She used two movements to get there, so.
 So I think it was fine.
 Well, then.
-That's, um....
+That's,
 I don't want to do that.
 You see, is the thing.
 Because I'd like to self-soothe.
@@ -1236,20 +1236,20 @@ Yeah, I'm still in range for everyone to get my stuff..
 Yeah.
 That's a 60 foot thing, is it? Yeah.
 Cool.
-Next up is Uku.
+Next up is Ukku.
 Okay, so it looks like.
 If I wanted.
-So let's see, what's Laura's character called? Skry.
-So Skry has run and gone under the platform to engage the archers who du back under the platform.
+So let's see, what's Laura's character called? Scrin.
+So Scrin has run and gone under the platform to engage the archers who du back under the platform.
 Yeah, so can I put a tree next to him? How tall is the tree? Because it's only an eight foot high platform.
 It's a medium tree.
 So I'm assuming that means five feet.
 Yeah, I suppose it's like, I would say five to seven feet.
 It probably just fits.
-Okay, so I put a tree right next adjacent to screen.
-And basically, what it does is it proposes itself against any attack against screen.
+Okay, so I put a tree right next adjacent to Scrin.
+And basically, what it does is it proposes itself against any attack against Scrin.
 So it has 10 hit points.
-So basically, it's like a 10 hit point bup or screen.
+So basically, it's like a 10 hit point bup or Scrin.
 Okay.
 Is that two actions or one action? That is two action.
 Two.
@@ -1261,14 +1261,14 @@ Well, it looks like you're on the ramp and they're under the platform.
 So without moving, you have got total cover from you right now.
 Oh, okay.
 Well, that's fine.
-Can I see any other guys? Yeah, I would I would say you, you know where screen is and that's what you were able to put the tree like on their edge of the thing, but there's just two of them under the platform, so you can't see any right now.
+Can I see any other guys? Yeah, I would I would say you, you know where Scrin is and that's what you were able to put the tree like on their edge of the thing, but there's just two of them under the platform, so you can't see any right now.
 So yeah, you have to move to be able to get an angle on them.
-All right, so where do I need to move? I mean, you can either go towards the pillar on the left side where Leanna went.
+All right, so where do I need to move? I mean, you can either go towards the pillar on the left side where Liana went.
 You could go up the up on top of the platform and then you'd be able to jump out and get to them later or something like that.
-I'll go next to L Leanna.
+I'll go next to L Liana.
 That's fine.
 Yep, so you got you're behind the pillow, getting ready for your next round of Pat.
-And that's a good segue to Leanna, who is up next.
+And that's a good segue to Liana, who is up next.
 I'm kind ofemplating whether I channel my inner lawn bowling and maybe do like the lawn bowling thing with a bomb to kind of get them.
 Oh, I said, teachers and professors, who are going to be discusseded in me if I do it right through the platform so we can actually get to them a little bit easier.
 So.
@@ -1298,12 +1298,12 @@ Yeah, you will be exposed.
 Fuck.
 As a group, you've already killed one of these players.
 Yeah, I know, but still, that's just me.
-Okay, I'm going to use that peshpin grenade again, and I'm going to do lawnball it right under there and I'm going for the one that's in melee with Skrin.
+Okay, I'm going to use that peshpin grenade again, and I'm going to do lawnball it right under there and I'm going for the one that's in melee with Scrin.
 Yeah, are you doing a second movement? Um, I don't think I need to do a second movement to get to..
 There's a tree in the way.
 They have three-quarter cover from you if you go forward.
 I didn't know what side the tree was on.
-Um of screen.
+Um of Scrin.
 So.
 All right, I'll move a bit closer.
 And I should, it'd be a bit of a diagonal, but I should be able to get it off.
@@ -1318,10 +1318,10 @@ I'll say that adjust yet.
 Okay, cool.
 He's now stupied.
 And I'm going to roll a D 6, the damage.
-Is this an AOE effect? If it's a bomb? Yes, screen might get a little tarred.
-So that's six piercing damage to the id that's in combat with melee in combat with screen, and that's an extra plus one piercing splash damage.
-So that might hit screen.
-Yeah, screen, you take one damage.
+Is this an AOE effect? If it's a bomb? Yes, Scrin might get a little tarred.
+So that's six piercing damage to the id that's in combat with melee in combat with Scrin, and that's an extra plus one piercing splash damage.
+So that might hit Scrin.
+Yeah, Scrin, you take one damage.
 Yeah.
 Take off the temporary.
 And that's my turn down.
@@ -1339,7 +1339,7 @@ Okay.
 Cool.
 So I can't see these guys up here, can I? No, you're on the ramp and they're under the platform.
 Ontimes.
-But I can see, is that screen there? Greens's under the platform as well.
+But I can see, is that Scrin there? Greens's under the platform as well.
 Oh, okay.
 You can see you can probably see the tree next to them.
 Okay.
@@ -1364,7 +1364,7 @@ As far as I can tell, I can get there with the full 25 feet, which is one action
 Yeah, you'd be able to go to get just off the ramp.
 Yeah..
 I'm making up just of the ramp.
-So I've put Leanna up here to the north.
+So I've put Liana up here to the north.
 Northwest of me, and then who do I have down here? It's.kku.
 So.
 Okay.
@@ -1389,14 +1389,14 @@ It's an eination.
 You's that, right? From where I am, if I get the measuring tool out.
 So remember, the Pathfinder is every second diagonal is 15, so the maps might not be in the right setting.
 But yeah.
-So Leanna is not quite in the range.
+So Liana is not quite in the range.
 Okay.
 All right, well, then look who is.
 Yeah.
 All right, that's me then.
 Cool.
 Cool.
-Oh, actually, Leanna, I need you to roll a wisdom save.
+Oh, actually, Liana, I need you to roll a wisdom save.
 You are just within 20 feet of the, so you are in the unlucky aura.
 Oh, balls.
 What's wisdom in..
@@ -1415,7 +1415,7 @@ Cool.
 So after ari is the fancy gremlin, who is going to drop their they put their bowl away.
 They don't want to lose it.
 But then they pull out a short sword and try to stab you with it.
-16 to hit you, screen? That would miss.
+16 to hit you, Scrin? That would miss.
 So the first attack misses, they will try a second time.
 That is a 28 minus 523.
 That'll hit, but I think, what does the tree do now, Mimbo? 10 hit points takes it.
@@ -1442,7 +1442,7 @@ I was thinking.
 Okay, you take three damage from a bow shot.
 And then this one gets in just a little bit further under, just to get away from shenanigans because you guys are getting close up.
 And that is their turn.
-And we go to Skri.
+And we go to Scrin.
 Yep, yep..
 I think it' covers both.
 It's a strike.
@@ -1540,7 +1540,7 @@ So what I'm gonna do is get closer to it so that I'm close to being in range for
 Cool..
 Which I believe that ends up being underneath, but like at the side of the thing, ends up being two movements.
 And I will use my last action to..
-I suppose, um..
+I suppose,
 Can I do with my lost action? I can try and recall knowledge about this dude.
 I think they're Fay.
 So I think that's kindnor?? Yeah, I think Oknor.
@@ -1576,7 +1576,7 @@ And it's like my Apple.
 I can just.
 I am just a nigle, Phil.
 Yeah, I mean, if you want to do that, it's support.
-I mean, it sort of does help out with screen to tank this spite.
+I mean, it sort of does help out with Scrin to tank this spite.
 So yeah.
 You can do that.
 Yeah.
@@ -1606,7 +1606,7 @@ Like, I think if you tried to hit the tree specifically, maybe you'd be in that 
 I just got to do 60 damage if it was affected by the aura, but it's not.
 It's a tree.
 That's okay.
-Leanna, you are affected by the aura.
+Liana, you are affected by the aura.
 What would you like to do? I want to get out of the aura.
 It sucks.
 You feel like you're on the edge of it, so yeah, you could get out of it.
@@ -1615,11 +1615,11 @@ Exactly.
 I've got to roll twice, don't I? Unfortunately, yes.
 All right.
 And I'm going to say you're going to have to move again because the tree is kind of giving three quarter cover.
-Okay, on what side is the tray? On the left or the right of screen? The tree is on the left.
+Okay, on what side is the tray? On the left or the right of Scrin? The tree is on the left.
 Right in between you and the enemy.
 Well done, tree.
 All right.
-The the tree is doing a bang up job of protecting his screen.
+The the tree is doing a bang up job of protecting his Scrin.
 Oh, Oh, it is.
 It is frustrating for me.
 So I guess I'll go up to here for movement.
@@ -1679,7 +1679,7 @@ Does that make it bigger? Yes, by t 10 feet.
 Yeah, so now we're viewing 25 feet.
 So that's basically going to replace the plus one that they were getting from the song.
 Okay.
-From where I am, can I see this fellow? Yes, but with the tree and screen, it's and the platform is three quarter cover.
+From where I am, can I see this fellow? Yes, but with the tree and Scrin, it's and the platform is three quarter cover.
 That's inconvenient.
 But understandable.
 Inconvenient.
@@ -1695,7 +1695,7 @@ Smells strange to touch.
 This might not work.
 Ah! Oh, this is delightful.
 Um.
-Yeah, no, you've bucking into a corner, haven't you, Phil? Um.
+Yeah, no, you've bucking into a corner, haven't you, Phil?
 Alright, so I'm just going to have to reposition.
 Can you tell me that there seems to be two gear like things either side? They're 8 foot tall pillars.
 They're eight foot tall wooden pillars.
@@ -1711,8 +1711,8 @@ It's difficult to rain.
 I don't remember that., I'm gonna shift to here.
 So that's probably about as far as I can go, really.
 Yes.
-Yeah, you can move a little bit, and then you've got one action left, right? Uh, yes, I'll.
-It's true, but that then should mean in theory that Neanna has now got the benefitit of bliss.
+Yeah, you can move a little bit, and then you've got one action left, right? yes, I'll.
+It's true, but that then should mean in theory that Liana has now got the benefitit of bliss.
 Especially that all of my allies around me at the moment, have access to bless, except four..
 What we have on the outside? It's not screen, is it? It beef.
 It's.
@@ -1770,16 +1770,16 @@ They're dogs.
 Yeah, it's only a five to hit, so they miss.
 They try to stab you and miss.
 But they are, she is out for blood.
-The other one is going, you seem in hand, so they're going to take out their short bow and try to shoot at Leanna, who does have half cover because of the positioning.
+The other one is going, you seem in hand, so they're going to take out their short bow and try to shoot at Liana, who does have half cover because of the positioning.
 Eight.
 But it will be three attacks.
-So 16, does that hit Leanna? Misses.
+So 16, does that hit Liana? Misses.
 Does a 20 hit? Yes.
 It takes six damage and then the last one is definitely going to miss.
 Cool.
 But yeah, you're doing a lot of damage at the moment, so.
 But that is their turn.
-Screen.
+Scrin.
 You've got to make like a death save.
 Yeah, what's the check for it? I think you're dying you're dying one.
 So I think it's a flat check and I think you have to beat 11.
@@ -1853,8 +1853,8 @@ Will say, I suppose before that happened, my anthem has expired, so it's not up 
 The blessed essentially replaced it.
 Yeah.
 Great.
-Uku.
-Um, how does my friend look? Screen is down and unconscious.
+Ukku.
+Um, how does my friend look? Scrin is down and unconscious.
 Got stabbed real bad and fell down.
 Okay.
 And your tree is gone as well.
@@ -1895,7 +1895,7 @@ So that was two actions, right? That's two actions, yeah.
 And then I'm going to probably run up part of the way.
 Yeah, so you get half your movement closer.
 Yeah.
-And then we move on to the anna.
+And then we move on to Liana.
 I'm going to throw it up a minute.
 Or try to.
 So just remember that you're going to do damage to your unconscious friend because of the splash damage.
@@ -1912,7 +1912,7 @@ Yep.
 Wait, well, let me..
 Picking up the rockses in actions, so you've got up.
 Sweet.
-There's a 17 hit? Uh, no.
+There's a 17 hit? no.
 They still have platforms because you're not under the platform.
 Okay.
 I'll move out a bit.
@@ -1938,10 +1938,10 @@ Um, I should have Aheory, enough movement to get up.
 Fivech.
 Should have enough movement to get.
 Well, I suppose this will be your call, Phil.
-Do I have enough movement in one action to get behind screen.
-Yeah, with your movement, you can get behind screen easy.
+Do I have enough movement in one action to get behind Scrin.
+Yeah, with your movement, you can get behind Scrin easy.
 Okay, cool.
-I'm gonna move up behind screen, one movement.
+I'm gonna move up behind Scrin, one movement.
 Now, I've got heel.
 Yeah, so you can do a one, two, or three action version.
 Of heel.
@@ -1955,8 +1955,8 @@ Uh, that is five on the dice.
 Green gets 583.
 Thank you.
 Mm hmm.
-So that's your full turn, right, when you got a sustained bl? Uh, Correct.
-As sort of Corey sort of leans down, like gently touches, screens shoulder, and says, and it's kind of like very, very ethereal, echoey voice, arise, my companion.
+So that's your full turn, right, when you got a sustained bl? Correct.
+As sort of Okori sort of leans down, like gently touches, Scrins shoulder, and says, and it's kind of like very, very ethereal, echoey voice, arise, my companion.
 Cool, cool.
 And that's been done., great.
 So after your turn, a gremlin that's very badly hurt runs away and says to the other one, Kill them! In under comment, so you guys probably don't know what they're saying.
@@ -1977,7 +1977,7 @@ Two more damage, and that's a miss.
 That is a zero.
 Okay.
 So now one run away, and you know where the direction they've run, but they don''t know where they are in the bushes, but you could try to find them.
-But it is Skrin's turn.
+But it is Scrin's turn.
 Yes, so I'd be prone to take an action to stand.
 Yeah.
 And then.
@@ -2088,7 +2088,7 @@ I will get a.
 I can't speak to the guy right at the moment.
 You can't see that guy, They'.
 You could try to look for them, but they are pretty well hidden.
-And what's screen status at the moment? Screen is oh, is up.
+And what's Scrin status at the moment? Scrin is oh, is up.
 They look pretty bad.
 They look pretty bloodied.
 Well, then I will create another thing.
@@ -2098,7 +2098,7 @@ And then you've got one action left.
 You can get a big clos.
 I have to move a little bit closer to do the tree.
 Too easy.
-So that's your full turn, and then it's Leanna.
+So that's your full turn, and then it's Liana.
 Can I do like some type of check to find where the gremlin went went in the..
 Yeah, to be fair, you're the person to do it, so it's going to be a perception check.
 Okay.
@@ -2147,7 +2147,7 @@ Cool.
 I'm frustrated with myself, so I'm just going to think about it, how to scan him out in between turns.
 So, yeah, I'm done.
 Ary, you are up.
-Okay, so screen has screened.
+Okay, so Scrin has Scrined.
 Yeah, there is a tree again up in the way, but because you're kind of under the platform that now, it's kind of half cover.
 The green's just a little guy.
 They're a tiny gremlin.
@@ -2172,7 +2172,7 @@ I mean the preachers in me.
 That's not going to work either..
 All right.
 We'll keep it simple.
-How much we've been to climb up onto the platform to see the little dude facing off against screen? That's all under the platform.
+How much we've been to climb up onto the platform to see the little dude facing off against Scrin? That's all under the platform.
 This is all on the platform so I can see that? And you were also under the platform.
 Most of this fight has been taking place under the platform.
 That's fine.
@@ -2209,7 +2209,7 @@ This other one also starts running away into the bushes.
 I'm going to say, basically they don't get a chance to hide because of the difficulty difficult to rain.
 They just get to the bushes and they are like, fuck, they need you to miss for a whole turn.
 I don't think you will, though.
-Screen.
+Scrin.
 Yes.
 Um..
 Because I'm assuming you don't have an opportunity attack, right? So they run away.

@@ -57,7 +57,7 @@ It's good to be back.
 Yeah, so, you know, our last episode, we began with an afternoon of downtime for our students, so they made their way back to the market for some shopping.
 Sk purchased a basic, simple, magical run.
 Ukku bought some seeds for a gardening project.
-Leanna bought a fancy pussycat, and Finnick bought a magical mask of a bit of an odd trader.
+Liana bought a fancy pussycat, and Finnick bought a magical mask of a bit of an odd trader.
 They met Ignasi and Senway at dinnerime and got to know their fellow students a bit better.
 In the morning, they were tasked with the Tempest Sun maid assignment and told to clear some gremlins out of a storeroom.
 On their initial knowledge check about gremlins, they learned that they had a reverence for Knowles, so went to Anchorut to ask for assistance, but they weren't able to convince her to help.
@@ -117,7 +117,7 @@ You guys could see over them ahead fairly easily.
 Oh, wait, no, not you.
 Yeah, cool.
 So you turn left.
-What is the marching order, just so we've got an idea of it? So it sounds like it's screen in the front? I'll go next.
+What is the marching order, just so we've got an idea of it? So it sounds like it's Scrin in the front? I'll go next.
 Yeah, what about Ukku and Finnick? Is Finnick in the back or Ukku in the back? I'll go next.
 I think I was in the front until I was like that.
 And then they're all going past me.
@@ -134,7 +134,7 @@ It just forms.
 Any sh trees like me.
 Awesome.
 Oh, yeah, so you go left.
-Why don't you give me a screen? Give me a perception check.
+Why don't you give me a Scrin? Give me a perception check.
 Okay.
 Uh, pretty bad and eight.
 Uh Yeah, that's fair enough.
@@ -148,7 +148,7 @@ A 12.
 Perceptions.
 Okay, so you two and the front are going through, and you quickly realise that this is like a maze of tunnels and it sort of starts to become overwhelming.
 You don't get lost per se, but you don't find anything interesting.
-But as you're going through, you're not able soon you're not able to find anything interesting, you hear from Uku, you in the back, look at one of these paths down the right and you just look up and you see like a little crack of light and you think that that's another way out.
+But as you're going through, you're not able soon you're not able to find anything interesting, you hear from Ukku, you in the back, look at one of these paths down the right and you just look up and you see like a little crack of light and you think that that's another way out.
 Do these tunnels just seem to just be, well, black? Different routes between something? Or is that some sort of purpose to them? Like a sewer or something? They don't seem to be a sewer.
 They just seem to be like hidden passageways.
 Like this school, as you know, is quite old.
@@ -219,7 +219,7 @@ Rorn.
 That makes more sense.
 Oh, sorry.
 The Arcorn.
-Leanna, this this is what you wanted, right? Yes, it is.
+Liana, this this is what you wanted, right? Yes, it is.
 Wow.
 You're welcome.
 Let's start having a little bit of a peek around and yes, what books are nearby before we have to continue on.
@@ -341,15 +341,15 @@ And then.
 I'm like, Hey, yes.
 It's me.
 I'm finished.
-You're Akri? A.
-Is that right? Corey? A Corey? Oh, Corey.
+You're Okori? A.
+Is that right? Corey? Okori? Okori.
 And I go in for a hug, but I'm probably mostly hugging the leg if this works.
 She kind of takes sort of a half step back, is this normal costume for your species? Oh, oh, sorry, it's just really nice to meet new people, you know.
 But we don't have to do anything.
 We just.
 You do you.
 Slap Fenic on the back and say, this is very much a Phoenic thing.
-But oh, pleasure to meet you one screen.
+But oh, pleasure to meet you one Scrin.
 I just do a little bow.
 She tucks one hand behind her back and gives you a very low preverent bow.
 I mean, I'm still probably shorter than your bow.
@@ -399,7 +399,7 @@ Fascinating.
 I would be..
 Honoured into a assist you with your investigation.
 Well, it sounded like you were having a good look around your room while before we entered.
-Did you find anything in there? Did you find any secret doors, secret trap doors, anything like that? There's a bit of a bashful look of on a Corey's face.
+Did you find anything in there? Did you find any secret doors, secret trap doors, anything like that? There's a bit of a bashful look of on Okori's face.
 Could I have like, shuffles her wings a little bit.
 In truth, I was seeking to elevate my sleeping area, and I fell off the bed.
 I stifle a lot, but..
@@ -483,8 +483,8 @@ I'm going to say that they had breakfast, but because you guys are starting thes
 Yeah.
 Yeah.
 Well, it sounded like from what was happening before.
-Is Arekori and Leanna sitting with us or are they going to screw off on their own? I envisioned they were sitting off to the side, but, like, yeah, of your, like, overall group, but if they' like actually, like, sitting off on a separate table, they can say that.
-It's more that a quarey had only spoken very briefly to Leanna.
+Is Arekori and Liana sitting with us or are they going to screw off on their own? I envisioned they were sitting off to the side, but, like, yeah, of your, like, overall group, but if they' like actually, like, sitting off on a separate table, they can say that.
+It's more that a quarey had only spoken very briefly to Liana.
 Yeah, yeah.
 And was formally asking her to sit with them for lunch.
 But yeah, you guys can role play, getting to know each other, or we can just say that you did.
@@ -517,7 +517,7 @@ Yeah, and we will say that you will be able to, in downtime when you've got a bi
 But you might be able to expand your formulas and crafting stuff..
 I'd like to, like, if we have the time, maybe go into a library and see, we can find a map of the tunnels.
 Yeah, that's also something you could do with your downtime.
-Yeah, what do you guys want to do with the downtime now? Like, there was mention of giving a Corey a tour, a bit more of an extensive one.
+Yeah, what do you guys want to do with the downtime now? Like, there was mention of giving Okori a tour, a bit more of an extensive one.
 You could go back to the markets, you could exploreore the tunnels, you could go to the library, you could just chill and unwind.
 Or you could even like go out and seek out other students and just have chats with them and it'd just be like getting to know them a bit more.
 Like you can seek out specific people to try to become chummier with them.
@@ -581,7 +581,7 @@ I think I've got it, though.
 I think we go this way.
 But yeah, you lead the way.
 Of course.
-And the Corey's going to use dancing lights.
+And Okori's going to use dancing lights.
 Yeah, you set up the lights and Phoenix starts leading the way very confidently, and he does, and you make your way to a ladder.
 And you come up confidently and find yourself I still think we lost Phil.
 Yeah, I think we lost Phil.
@@ -637,20 +637,20 @@ Because you roll pretty bad.
 Yeah.
 What happens when people look at the people with both bad survival? Anyone else feels more confident in their ability to find this? I'll give it a go.
 Yeah, at this point, you're a little bit lost as well.
-I think Rianna's..
+I think Liana's..
 Go..
-I think Leanna wants to try and like.
+I think Liana wants to try and like.
 Take a leap of faith and try and get us back on track.
 Yeah.
 Sorry.
 Have we gone through any surprisingly damp sections? High or those? Highs? No? Good.
 I rolled a 47.
-Roll a survival check if you're going to lead the way, Leanna.
+Roll a survival check if you're going to lead the way, Liana.
 Okay.
 22.
 With a 22, you are able to steer the group back on track, you know you first go go back to the storage barn and you clock, yep, that's the storage barn.
 I know that.
-And then say, you find it we haven't gone down this way, but and you go down this way and you see just a little bit of light coming from a ladder and you go up there and you find yourself in some sign of some sort of vib room, but it's instead of books, it's more like, there are books, but there's a lot of a lot of like documents and there seems to be big uh, two fans orger sheets of things and maps.
+And then say, you find it we haven't gone down this way, but and you go down this way and you see just a little bit of light coming from a ladder and you go up there and you find yourself in some sign of some sort of vib room, but it's instead of books, it's more like, there are books, but there's a lot of a lot of like documents and there seems to be big two fans orger sheets of things and maps.
 Maybe.
 But it does appear that you found some sort of art.
 Awesome sauce.
@@ -665,7 +665,7 @@ We might get in trouble if we're caught here.
 Yeah, we got to keep it quiet.
 Do we want to spend time trying to find the maps or do we want to just head straight back? Well, we know where this place is.
 Maybe when it's a little bit quieter, like a time where it isn't so busy, maybe we could check it out.
-So could you mark? Well, was that sorry, Akori? Are we not meant to be here?.
+So could you mark? Well, was that sorry, Okori? Are we not meant to be here?.
 We't be found upon a little bit.
 I don't think there's any rules.
 I can' against being under it.
@@ -689,7 +689,7 @@ Not the cafeteria, but the actual kitchen itself.
 Yeah, get the good stuff.
 Exactly.
 Yeah, well, I suspect that the trap door will be either in the storage or in the actual kitchen itself.
-Of a way, I think that we'd have a very happy Fic..
+Of a way, I think that we'd have a very happy Finnick..
 Yeah, when you get back to the dormitory, are assuming all of you are going back to the dormitory or are you splitting off to go to other things? No, I'll go back there too.
 I'll go back.
 It'll be good to clean up a little bit, I'm guessing we're a bit dirty.
@@ -741,7 +741,7 @@ A coro? A kory.
 A coro.
 Are you guys you guys like..
 Oh, that is funny, though.
-Your name is a Corey? Indeed..
+Your name is Okori? Indeed..
 That is funny.
 It did not appear to be stricts.
 No, I am pretty much assuming as they come.
@@ -766,7 +766,7 @@ So does any do you all clean up? Yes.
 And for you all can at the same time, but yeah.
 Well, there's two bars and then there's separate washing and then washingrooms as well.
 I think I feel like you can, to be honest.
-How close are we? Well, how about me and Akori go to the one that you boys aren't going to use? All right.
+How close are we? Well, how about me and Okori go to the one that you boys aren't going to use? All right.
 I'm going to go to the uh...
 I believe it's the north one.
 Map left.
@@ -848,7 +848,7 @@ Yeah, why don't you give me a perception, Joe? Just an 11, unfortunately.
 Yeah, you start stumping around, looking around, but you can't find anything.
 You're trying to hear the hollows behind the areas and knocking on things and everything seems pretty solid to you.
 I'd have to get one of my friends to help later.
-But you were definitely, as you're doing this, you come across Leanna and I suppose are Corey carrying these bandages.
+But you were definitely, as you're doing this, you come across Liana and I suppose Okori carrying these bandages.
 Doing some cleaning or something.
 Yeah, we found these in the bathroom.
 They look magical.
@@ -884,7 +884,7 @@ I haven't found any in this side.
 I just heading to the other side to have a look.
 I mean, I'll be more than happy if you give me a hand.
 I'm not faring so well with this so far.
-Well, Akori, did you want to join us or did you want to hang out with Finnick and the Apple bearer? If you so believe that my assistance would be needed, I would, of course, be glad to help.
+Well, Okori, did you want to join us or did you want to hang out with Finnick and the Apple bearer? If you so believe that my assistance would be needed, I would, of course, be glad to help.
 Well, an apple...
 Well, I feel you.
 You look like you might be a bit more perceptive than I.
@@ -918,7 +918,7 @@ I mean, it is the spice of life.
 Let's go.
 Grab Fen Canopu and head over.
 Okay.
-Yeah, so you guys grab Finnean Noco, head over to dinner.
+Yeah, so you guys grab Finnick and Noco, head over to dinner.
 And when you get there, you see Essie and Abram are also having dinner.
 We want to sit with them, we'll find a table for ourselves.
 We might as well sit with them..
@@ -1038,14 +1038,14 @@ Anything, anything you can find.
 Just a note.
 Don't commit crimes, please.
 No, no, we won't.
-I'd probably say that while looking at Leanna.
+I'd probably say that while looking at Liana.
 I think there's that a pet cemetery around here.
 That would work if there is one.
 Let's start with the kitchen first.
 Okay.
 You go to the kitchen, and it's still morning.
 We see, it's still breakfast.
-And wheni says,, will you find her cooking? And she says, uh, bones, you want bones.
+And wheni says,, will you find her cooking? And she says, bones, you want bones.
 Uh, I don't have any at the moment.
 They all went to the dogs.
 You could go speak to the butcher.
@@ -1056,7 +1056,7 @@ Oh, thank you.
 That's a good place to start.
 Sounds like we've got to go out of the academy no matter, so we want to start looking for the bones or do the mushrooms or caterpillars? Well, we got to figure out where we can find these categoriesaterpillars.
 So this is quite specific about these.
-Could always go to Leanna's favourite place.
+Could always go to Liana's favourite place.
 There might be a book on them.
 So she basically said, Budd have said, that the mushrooms grow at a specific area of the jungle, about an hour outside of town.
 The caterpillars are everywhere, but will just take time to find them because they're small and the jungle is.
@@ -1100,9 +1100,9 @@ Ooh, we're all a 17.
 And I have plus 5 totrum.
 That's fine.
 Yeah, you find one about the same time.
-So, yeah, Skrint finds one first and then Uku and Finnick also find one.
+So, yeah, Scrint finds one first and then Ukku and Finnick also find one.
 So, yeah, you sort of all found one.
-And you's got three people trying to figure out how to pick them up, although screen goes first.
+And you's got three people trying to figure out how to pick them up, although Scrin goes first.
 How do you go about picking them up? Do they look, are they they like a bry like one, like one you probably shouldn't touch? Yeah, you were told that they can be quite painful to touch.
 Okay.
 I am going to...
@@ -1121,8 +1121,8 @@ Yes, yeah, you're definitely able to do it.
 It's quite seamless, and you have a caterpillar.
 You''ve got a couple you found a couple more.
 Other people are going to try to get extras.
-I think we're supposed if we'll go to Uku next.
-Uku, are you trying to capture your caterpillar as well? Why not? What am I rolling? Describe to me how you're doing it first.
+I think we're supposed if we'll go to Ukku next.
+Ukku, are you trying to capture your caterpillar as well? Why not? What am I rolling? Describe to me how you're doing it first.
 You know that touching it will be painful.
 I do not touch it.
 I use a little bit of piece of wood.
@@ -1169,7 +1169,7 @@ You see some like lots of some big several, like these big wide leaves dripping 
 And we see mushrooms attached to it? Yeah, there's mushrooms up and down this tree, and you were told to get ones from up high.
 Well, I'm going to go over to it and just have a look at some of the ones that are down low and like, well, these look like the ones are probably not the ones to get the ones up there, though.
 Anyone.
-Corey, want to reach up? Fly up.
+Okori, want to reach up? Fly up.
 Yeah, is anyone good with climbing? I'm good with jumping.
 Well, you don't need to climb if you can jump the whole way up.
 Uh, Bill, would I be able to make the jump? It's 20 feet high up.
@@ -1217,7 +1217,7 @@ I guess I'm in initiative.
 Yeah.
 I'm really hoping we don't because I' pre-rolled it and they got eight.
 I got a n one on it, but 16 is not too bad 20.
-What was yours, Fick? You said eight? Eight.
+What was yours, Finnick? You said eight? Eight.
 Yeah.
 Oiri and Ukku.
 Ori, I've got a 16.
@@ -1238,8 +1238,8 @@ So, here this guy, this mushroom humanoid person, they were hidden in the top of
 So I.
 I'm going to need a Forttitude save.
 I've just sort of randomly put people in in places from Ukku.
-Leanna and Sk.
-Finick, you're not in this.
+Liana and Sk.
+ Finnick, you're not in this.
 Yeah.
 Ooh, pretty good.
 Anything.
@@ -1259,19 +1259,19 @@ I never got found that accuracy.
 This makes way more sense.
 Okay, I just organically succeed on all the favoriteals.
 Yeah.
-So, I think I've got this right, Nothing immediately happens, but you start coughing and you feel like probably if you feel exposed to this thing, where a screen, you feel kind of okay about it like you wear weren't so exposed.
+So, I think I've got this right, Nothing immediately happens, but you start coughing and you feel like probably if you feel exposed to this thing, where a Scrin, you feel kind of okay about it like you wear weren't so exposed.
 Um.
 Yeah, I should actually, let me double check something really quick.
 Poison Yeah, so nothing happens immediately, but you feel like this purple spores have gotten into your lungs a little bit.
-And then they're going to move and they're going to make a punch attack against Skrin and it is a 21 to hit.
+And then they're going to move and they're going to make a punch attack against Scrin and it is a 21 to hit.
 Double hit.
 You take nine bludgeging damage.
 Ooh, it's a big one.
-And that is the end of his turn, and we'll start in the top with Uku.
+And that is the end of his turn, and we'll start in the top with Ukku.
 Okay.
-This thing's just punched your little rat folks screen.
+This thing's just punched your little rat folks Scrin.
 He's about 10 feet away from you.
-Yeah, you're close to it with Leanna as well.
+Yeah, you're close to it with Liana as well.
 I will.
 Sorry, I not curtting.
 I'm not really getting what you're saying.
@@ -1322,7 +1322,7 @@ Okay.
 Okay.
 So the tree has AC 10, hit points of 10, and if it tries to strike an adjacent line, it takes it damage first.
 Okay.
-Next up is Leanna.
+Next up is Liana.
 Okay, are there any, like pebbles or small rocks on the ground near me? Sure.
 I'm going to grab a few.
 I'm going to put my sling out, and I'm going to try and hit him.
@@ -1344,7 +1344,7 @@ Yep, you're no longer within five feet of the mushroom man.
 I like that.
 Awesome.
 Thank you.
-Next up is Skry.
+Next up is Scrin.
 Okay.
 So I'm going to.
 Use my spell st strike, but I will put in my levelled spell shocking grasp, so it will hopefully hit and do lots of damage.
@@ -1414,7 +1414,7 @@ Yes, I think shield might be a good idea.
 Cool.
 At the end of Stay up there and cast shield on yourself.
 At the end of his turn, at the end of your turn, right? It's his turn.
-He is going to attempt a sport domination against we'll say Leanna, because you failed against the purple pock.
+He is going to attempt a sport domination against we'll say Liana, because you failed against the purple pock.
 I need a will save.
 A will save.
 Hopefully that's better than It's not.
@@ -1424,8 +1424,8 @@ That is a success.
 Until the end of its next turn, you are helpful to my soloids and can't take hostile actions against them.
 If attacked by one, you are freed from this effect.
 But it's only until the end of next time.
-And then he is going to try to hit screen again.
-But that's only a four on the dice, so that's a 15 to hit you screen.
+And then he is going to try to hit Scrin again.
+But that's only a four on the dice, so that's a 15 to hit you Scrin.
 That would miss.
 That is a miss.
 I'm at 17., like a league.
@@ -1506,8 +1506,8 @@ Perfect.
 Sounds good.
 Okay.
 Sounds good.
-Liz, it's Leanna's turn next, and just in your hand, in your head, telepathically you hear you feel the words friend.
-No attack umbo as he's smashing your new friend's screen.
+Liz, it's Liana's turn next, and just in your hand, in your head, telepathically you hear you feel the words friend.
+No attack umbo as he's smashing your new friend's Scrin.
 Yeah, I'm not buying it.
 So.
 You are unable to take hostile actions against him.
@@ -1516,9 +1516,9 @@ It's F.
 Sounds like you're telling me.
 I.
 Can I..
-Instead of attacking him, but attack his tree? That's Uku's tree, but you're absolutely welcome.
+Instead of attacking him, but attack his tree? That's Ukku's tree, but you're absolutely welcome.
 Oh, no, no.
-No, not Uku's tree, but the tree in the middle.
+No, not Ukku's tree, but the tree in the middle.
 I thought that was Mr.
 Naughty's.
 You can attack a tree if you'd like.
@@ -1576,7 +1576,7 @@ Because you can't..
 Yeah, yeah, yeah.
 No, I'm done..
 Okay.
-Screen.
+Scrin.
 Oh, back to me.
 Um.
 Okay, so I will, as an action, eat that delicious look an apple.
@@ -1616,7 +1616,7 @@ Okay, so for the next minute, you think that this creature is a friend and you c
 But they are looking hurt.
 Your friend is looking hurt.
 That's.
-But they are attacking your other friend and they're try to punch Skrin because they get 15 again.
+But they are attacking your other friend and they're try to punch Scrin because they get 15 again.
 Good.
 That'll miss again.
 So I'm guessing that the trium intervenes if it hits me?? Yes, correct.
@@ -1677,7 +1677,7 @@ We might be getting some of these rules, right, but I think we're doing it okay.
 Cool.
 So that is your turn.
 And then we go back up to the top two Ukku, who thinks that this guy is a friend.
-But you can still still make apples and things for screen? I can that only works every like 10 minutes, I think.
+But you can still still make apples and things for Scrin? I can that only works every like 10 minutes, I think.
 Okay, what would you like? Otherwise, it's just unlimited hearing, killing for the ring.
 What would you like to do then, with your turn? Just scream as if to stop fighting.
 Okay.
@@ -1691,7 +1691,7 @@ But because they don't, unless you're speaking and undercommon.
 But I imagine Sk feels a little bit bad about hitting your friend.
 Or maybe not.
 It's up to Sk.
-We'll move on to Leanna.
+We'll move on to Liana.
 You are able to make hostile action against it now.
 Oh, thank gosh.
 I'm going to try...
@@ -1713,8 +1713,8 @@ Okay, cool.
 Okay.
 Great.
 Thank you.
-That was Leanna.
-And then we move on to Skrin.
+That was Liana.
+And then we move on to Scrin.
 Try and hit him again? Where we all seem to be rolling.
 Great, I suppose you could say.
 We could just leave.
@@ -1761,7 +1761,7 @@ So, yeah, while everyone else is kind of like keeping it keeping its attention a
 And then with a fear splitting screech sends this bolt of light, and it just spears this thing from the back of the head through the forehead.
 Great.
 And as he does though, you do this and you hear a pop sound as he pops and another spore explosion happens.
-I'm going to need another fortitude save from screen Laurie.
+I'm going to need another fortitude save from Scrin Laurie.
 Sorry.
 It's so good.
 We had no idea that was going to happen.
@@ -1773,7 +1773,7 @@ Yeah, yeah.
 You passed.
 Okay, so we are out of initiative and you guys can start looking around after about another.
 42 seconds.
-Does the effect end on me as it dies or does it continue? No, well, after about 42 seconds, Ukku and Leanna take two poison damage and are stupefied one as you cop up a little bit of purple looking blood.
+Does the effect end on me as it dies or does it continue? No, well, after about 42 seconds, Ukku and Liana take two poison damage and are stupefied one as you cop up a little bit of purple looking blood.
 But does the I cannot attack, I think he's a friend and when he dies?.
 No, it doesn't.
 Okay, so I literally like rush to him and go, no, my friend.
@@ -1834,7 +1834,7 @@ Yeah, but you guys have to figure out what's going on with the poison effect.
 You guys might have to do some knowledge checks after all.
 Yeah.
 Now that we're superified.
-Oh, screen, why did you kill my friend? Yeah, I thought.
+Oh, Scrin, why did you kill my friend? Yeah, I thought.
 Yeah, you.
 Oh, wow.
 It was the new girl.
@@ -1873,7 +1873,7 @@ But I do think we need to get a little bit better.
 I feel bad.
 I remember, speaking of some of the thought here, but I feel like Mba was phoning in a little bit of his combat stuff.
 He's just got to be This is where everyone just like, remember that we're playing to a podcast.
-So describing what's on the screen doesn't help anything.
+So describing what's on the Scrin doesn't help anything.
 Yeah.
 Oh, I'm trying, but I can do better.
 I think we're still learning, and we're still figuring it out.
@@ -2017,6 +2017,6 @@ I think even after edits, it'll still be an hour and a half long episode.
 But I suppose we covered a lot.
 We did.
 But you kind of have to because we haven't like.
-We had a Corey in the party now.
+We had Okori in the party now.
 Well that Does it makes sense.
 That's why I wanted her Jemma to be here, because it was going to be your first big fight and it'll be your first.

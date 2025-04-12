@@ -2,7 +2,6 @@
 modified: 
 tags: []
 ---
-
 ## Dinner
 * [[Esi Djana|Esi]]  introduced us to [[Haibram Thodja|Haibram]] & [[Mariama Keitana|Mariama]]
 ## Dorms ^sl01v
@@ -23,4 +22,1634 @@ We agree to return to return to the markets in the afternoon.
 https://drive.google.com/open?id=12Ac8lrlUkm_lctFHGvU7BDQ21VfMzkeK&usp=drive_fs
 
 # Transcript
-Oh, that's why they don't sync up. I understand what happens now. What's you doing? When you start recording with Craig, people don't join until they make a sound. So that's why there's an offset. Like, not everyone sinks off because... It should sync up. I mean, I found them to be like like they do. Like, you just have to offset the thing slightly, but I found them essentially offset by a facist and that would explain it. Oh. Because like, remember, like, it's got Bill joining at zero, me joining at three was 16 hbo. 17, correct. 24. Yeah, that makes sense. Yeah, but I mean, generally the ones that download have that amount of light space at the start. At least that's how it was for me. I saw, like, another file that sort of mentioned the same thing, but it hasn't been the case for me. It's not a big dealer. Which one ones do you download? Like the.. Now I forget what the human is. It's like the zip file, the flak, and then. Yeah. Okay, because I think I do an in P 4 format. Yeah, I mean, whatever. It works. Yeah, yeah. Okay, we. Good to get into this? Everyone is on. We've got Craig here. Um. So more or less we just got back to the hall, didn't we? Yeah, the dining hall, yeah. I think you're with Ezzy or like is he not far away at least? Um.. Okay, I'm just texting a place in this one out there. I roll a 17 for no particular reason. Okay, change that Okay, cool. So. I think with the podcast stuff, we're planning on doing like a pre-recorded intro, right? So I'm not doing my normal big intro. We're still cool with that app. Approach? Sure. I think it probably will save time in a long run, once we're used to it, once we know what it is and stuff. And then like we can sort of, I don't know, I'm not a limp in with low energy, but I can like sort of just ease into it a little bit more at like a lower gear or a high gear sort of depend in what I want to do. Like I don't anyone have any thoughts on that? Looks, for me, I think just to make sure that at the start of the episode, you clearly, I mean, it's going to happen because we're starting new each time anyway, but just to make sort of that they sufficient context of where we're starting each time. Yeah, it is. So it might just be, okay, so you're in this place. Yeah, yeah, yeah. Yeah, I'm still going to do an introduction. Like, I've got like a few lines I wrote, like a paragraph, and I think that's good to do as normal. But like you guys won't be introduced as normal Yeah, yeah, yeah. It's like, that's the main difference. And I won't do my big hello and welcome to this. It's basically just like, this is what we did. This is where we are. Yeah, yeah. If I was in your shoes, I would write the start of the intro, basically at the end of the session so that you can remember it a summarise, like where we we ended up. But that's up to you. It is better if I was to do it that way. I've done it long enough that I know that it is better. It's harder when I have to remember it, but it is sometimes better as well, because that puts me in the mindset of what happened. But then, I don't know. But you're right. I should I should get into the habit of doing it straight after. Yeah, yeah, yeah. Well, I just might say it at the end and then like we can you can either retake it or just leave it like that. And we can put it on the next thing. That's true. Maybe we just record it as a special thing at the end and just put post that somewhere. We could we could all jump in on that too. These are all good thoughts. Anyone else have thoughts of a technical or nature or otherwise? No thoughts had empty. That's good. All right, cool. Well, in our first episode, we were introduced to the party as they began their journey as initiates at the Mambia, which is the oldest and arguably greatest magic school and Gallarian. They met their first teacher, Taku O, who asked them several questions and put themselves through a series of simple tests to see how they performed as a group. At the end of this, they selected a magical symbol, which granted them a small glimmer of magical power, a cantrip, and asked a final question about what defines them, which was would help guide their journey initiates at the school. After this, they were told to head to the dormitory, where they met a couple of students and settled into their new rooms. Esi Jana, one of their fellow students, gave them a quick tool with extended stops at two locations, the dining hall and the supply store, with the dining hall, they met head cook Li Yao and told about meal schedules and some work opportunities and at this fly store, they made met at Zohan and given their initial supplies. Throughout this day, they had been given several beads, which they would collect as part of their journey at the Megambia. And currently, they're just out to dinner on the first day and they are about to learn more about their duties over the next few days. So I think we said that you were with Essie. She was taking you out to dinner, even though it is just you were very close to the dining hall. It's just a short walk away. And so and so Essie was would say, ah, good to see you, well. Should we go to dinner then? Yes, let's. I have no idea whether I'm doing the right voice. I'm probably going to mess up a lot of my voices, but such is life. Okay, we might see a couple of the students. People have different schedules. Sometimes they take dinner at home. Well, the dormitory? So we might see some people tonight. We might not. But I told the people that you will be there, so hopefully we see a couple of people. As long as it's food, sounds good to me. Yeah, and it'll be nice to meet the other students around here. Hmm. Yeah. Yeah. So you guys head over. It is raining. It's not raining heavily right now, but like the rain comes and goes in this place. When you get there, you smell the delicious aroma of roasted chicken, vegetable soup. You also, there are some also like a couple of salads on Offa and some breads and some roasted vegetables as well. So there's quite a decent spread on offer. That's straight for the lion. I'm assuming it's kind of like dorm style where there's lots to trade set out and Ly says, don't worry. We'll make sure you eat. Give you lots of chicken. Perfect. All right, and I'll line up find them. Yeah, I presume we're old. Getting the same feet. Is that right? Yeah, whatever you want. You can basically get it served with whatever you want and load up your plate with whatever you desire out of what I just mentioned. I'd probably grab a soup bowl and stuff putting in all their things inside the soup bowl. Yeah. I'll give you like heat. We'll say that you got like a train with like the different things on it. It's probably a train. I just want a bowl. All right, yeah, you can just. They give you the biggest bowl they can spare and you can just start loading it up. It was one of the mixing bowls for their salads, but. Perfect. I'll just grab one of the sand trays and fill it up with some chicken and some salad and maybe a couple of other things. Yeah, you all load up your plates as he does as well. As you're sitting down, a couple of other students come up that Ezy points out and says,, ah, that's Hebra and Mariama. Then she points out to a handsome, mustard looking dwarf, clean shaven. And a young woman, dark skinned, sort of with like somewhat darting eyes, looking a little bit erratic, maybe, but she is somewhat focussed on the group and she says, ah, Heyrahm, Mariama, come meet the new students. The dwarf is Hebrahm, and the human is Mariama. Why don't you introduce yourselves? Oh, hi there. Abram and Mariam. I'm F Frisol. Lovely to see you here. So we'll have a lot of fun this year. Is Abram a dwarf? Yes. Yeah. Okay, and then how do you spell Mariama? M- A-RI-A- M-A. M-A-RI. A-MA.. I'm guessing that's an H at the start of paper or I was here an eight? Yeah, H-A-I-B-R-A-M. Abram. High? Hi brand? I can go either way. I'd probably just nice to meet you with a mouth full of everything. Well, well met. So you'll be getting to know the ways of the school then. I think I I'm giving you the trial tomorrow. Didn't we go through the troll rate? The trial? Well, the trial, not so much a trial, trial. Service work, service projects for the school to get to know what it's like to be students in the Gambia. Oh, what's involved? Uh, well, um, basically, uh, it's one for every of the each of the standard bearers, the cascade birds, the five branches of the Gambia, the cascade bearers, the rain grabes, the tempest sun mages, the emerald bows and the Uzoi. Emer bs. What I mean, if you're not allowed to say, don't spoil it, but what do you have installed for the emerald Bs? Oh, I think that one will be... That one, who's running that one? Oh, no, no. Let't be a surprise. I don't want to be spoiled. I think Ganasi and Seni Senway were running that one, time. I have no idea. Gasi anyway. All right. I think tomorrow we'll be doing something for the rain scribes, but I've got to keep it a secret. It as part of a just getting to know you. A simple test. Anyway, I'll go get some food. I'll be back in a second. All right, see you around there. They come back in a second with food and sit down and you guys can talk a little bit more about the trial. But so have you all thought about what branch you want to represent already or are you looking to learn more about them? Well, I introduce myself as Leanna and everything. And I say, well, I want to learn a bit about each of the branches before I make a final decision. Well, I suppose that's all what part of these tests are about. Well, I think. I'm going to be in the emerald bouse, but maybe not. Who knows? I've heard good things about the Cascade bearers, but I am open to everything. All right. Mariama speaks up. I think it's good to be open to new things. Try them out, see what they like. Maybe you think one thing is good and you find something else works better for you. Maybe. What about you, big guy? Looking at you, bo. May want to learn more. I'm kind of new to all of this, and I'm only a simple apple farmer. Plenty of farmers come through this place. Really? Uh, yeah, lots of people with an interest in nature. Yeah, I certainly have an interest in nature. I'm wondering, you might get along well with Anchor route. And who is he, or she? She. I think you'll meet her pretty soon. She can be a bit flat flaty. She's She's a. She's our resident. Rain scribe, I's what you would say. I work with her. A lot.. She's very interested in nature. Has a collection of caterpillars and insects. Oh,'s. Although caterpillars aren't usually great for trees. Oh, but it's a whole circle of life, isn't it? Yes, I guess. But she can be a bit shy, so you might not see her as much as the rest of us. Interesting. A be interested in meeting her. Maybe I can give her an apple. And as he says this, he creates two apples and hands them to Abraham and Marim Arma. Mariama, yeah. Oh, thank you. Happy to see new life blooming. Yes, me too. So what do you guys do for fun around here? I ask. Study, learn, spa, hang out in the gardens. Sometimes I like to go into the city, go find things to do, earn some extra coin. That's a lot of options. Why should I start? I guess I should be getting off to a good start with the studying. So try and keep my head in the books for now. Dirt. There's nothing wrong with books. Yeah, we're all here here because we want to learn, so, you know. I kid, I kid. No worries. Padette, you're ever up for a spa. I'm happy to meet you in the sparring field. We can I'll get my axe in my arm already. We can have a a bit of a go back and forth. I was thinking of a different type of spa. Oh, you Well, we have the baths, so we are in our dos. Oh, yes. Oh, yes, true. I just immediately, I thought of like, like a sweat room, that type of thing. I wasn't thinking about combat sparring. My bad. Would be awfully forward if that's what we were talking about. And we are also expected to find things to do for the good of the people as we can. That's essentially what you'll be doing this week, just as part of your next part of your initiation, your orientation to the school. Fair enough. Yeah, so you guys keep on talking for a little bit, keep on chatting. And then eventually, guys can retire back to the dormitory. Do you guys do anything like before you go to bed? It was just raining, so I don't need a shower. That's that's entirely how that works. Yeah. You don't know how rutb work. It's fine. Well, I'm not going to do anything too exciting, but I will take a a bath and do a little loop practice before I go to bed. Cool. Leave the door open again and kind of finish? No, no. We'll leave it close tonight. We's getting in time relatively late. Which side which room did you take on the. I'm on the. The right side, near the common room, but toward the bottom right corner of the common room. Okay. So as you go into the baths, I'm assuming you go into the nearby one, Yeah, as you're going to the bars, role initiative. Am I going to slip? Let me. One second. I got. I'll I'll just use theice. I'll just use the Roll 20 this time. No, I rolled 20. Initiative is wisdom, right? I think it kind of depends on a few things. It can be a few things. Yeah, I'm just letting P Builder tell me that it's a plus zero and running with it. You guys can all be in this. You may not be you may not get to do too much, but. So typically clear, this is on the way, so I'm not yet the bath. Is that correct? No, you get into the bath and then something happens. I will be descriptive. But I sort of wanted to roll some stuff first. Sure. Well, I rolled an out talking. Oh, that's very good. So it's a 20 and then at 20. I'm still in that stage. I've got to get to know all your names as well. Ukku is my name. It's been man. We't changed that long. Ku screened. Leanna. I' changed a mad display name on roll 2 to my name. My character name. Yeah, that does help. Or at least if you change the role as. Okay, so what was initiatives? Fick? 20. Tal? Yeah. Lori? 12. Ku? Nine. I mean, I thought it was a plus, but it says plus zero on my path builder. Yeah, I think most people have crappy perception because it's not really based on anything. Because I'm You can argue a case to roll a few other skills for initiative, but generally it's just turn off perception. Oh, good. It's perception, I've got it plus seven to perception, but it may. Initate a sand. It's plus zero And this? What's yours? Then add the plus seven because you should have 7. My roll, 27. I rolled a one, but I got a plus five to my perception. So total six. Cool. Cool., cool, cool. Six. Paul got 27, I got three. So. Okay, so as you're going into the bathroom, as you're in this changing room, Give me a perception check. Let's do the role. You're not going to believe that I got 27 again. Well, no. No. I did. We take the other system. Okay, so as, well, in that case, I think I have this right, but I'm not an expert at Pathfinder T. I think you hear something rustling in like a pile of towels. Oh, I don't think I was alert. Okay, so I guess I will I hear something rustling. I guess I'll like sneak up to the towels and try and pull them out, pull up, see what's going on. Yeah, as you pull up the spell, like the thing, you see a lizard like looking up at you, like it's got a frill and it frills like a, but it's not made of like skin. It seems to be made out of like paper. All right. Well, it seems not made out of like, yeah, paper. Okay. Well, I will mention I have animal elocusinist. I suspect that it wouldn't work here because most animals aren't made of paper. So, um so it just kisses at me the paper. Well, since that you've unveiled it, right? Looking. I'm looking at it and it's it. It's reactive to you finding it, that's all. All right. I mean, it's definitely picture. There's definitely like drawing and writing on these paper as well. It's not like blank paper. All. So if I like. It's not clear to me that it's trying to fight me, so I'm just going to try and pick it up. You're going to pick it up. It's like fighting against you, I suppose. Roll me and I athletics check. Okay. They said that I have one. I got a four. It beats you. Unless it gets in that one, it's going to do better than you. I've got in that one. You grab it then. It fails. It has a It has a plus five acrobatics, but that's a six, but one less less success, so you grab it, yeah. All right. Well, okay. I've got this paper lizard in my grass, but I presume it's still trying to wriggle around, but if I try and unfold it, does that work? We call that two actions. Okay. Yeah, like we're initiative, but I'm not sure if. So you haven't really talked about purpose right now. No, yeah, yeah, if you have a third, like moving to it was one action. Yeah. Grabbing it was a second action. So you have one action left and you're going to try to like rip it apart, I suppose. Just make an unarmed attack. All right. I don't hope we do this. It's definitely a way to do that. It's do. Apologies. Just a moment. No, you're right. This is our first combat. I feel like it's going to be very underwhelming, but that's okay. This is happening in a bathroom. Let's this. I thought it was gonna be comeback with like a bar of soap or something. He slipped. He fell it out of his grasp. Oh, that's the next monster. That's the next. Oh, I can't wait. True, what is this doing? I have lies of doing this? And just roll it. I see what I see you. Yeah, yeah. What is it doing? All right? Google Drive do it with roll it this. We'll just be. Plus 17. 17 hits. Yay, and on, on. Does some damage that I know. D 4? Let's say it's a D 4. I'll run with it it later. It's the three. Plus strength, I'm guessing, is zero. All right, right. Yeah, yeah, yeah. So three damage. Hip. Cool. Do you like yell for help or anything? Ah, it's a piece of paper. What am I? Why would I yelling for help? Okay. I will let people do perception checks on their turn then. So after your turn, it's its turn. So it officially does do a thing. It is in action. So it does this on its turn. It does that, and then it's going to try to attack you and it gets a 15? Is it 15 hit? I'm 18 is 15, so So you take four damage and you need to make a will save. Will save. What did you get for your horseave? It sounds hardy., I got a 15. Okay, you are not frightened of this lizard to say. As I said, why would I be frightened of a piece of paper? But then it will try to attack you a second time. It'll take its penalty. But that will be a 20 minus five, so I think that still hits. 20 minus minus 5 is 15, so it's the same as before and the. That is seven damage.. M sure you're not yelling out too much? That's probably like half your health, isn't it? I mean, like, I will this time, now that it's attacked me. I'll let you use your reaction to yell at if you. So, so, so, so, so. In that case, I will be allowed. And then another piece of paper. This one is a frog, jumps from somewhere and tries tries to bite you. And gets a 19. So you take another five damage.. He's still up? Still up. I am on five. Okay, but one of these things isn't that you hit is also hurt. So like, okay, that's their turn, though. Next up, we have Skrin. Laurie. So I guess first I'll start with a perception because I'm kind of pretty far away, like around a corner and kind of shit. I'll give it to you for free. I won't take an accident away for it, but yeah. Yeah, yeah. Yeah, you're fine. 19's probably fine. So I started running. I would have been laying on a bed, so. I'll probably get to just about I barely halfway there. Yeah, you'll get that. You'll be able to do something next time. It'll probably take you two more actions to get in there, but you'll better to do something next time. Okay. And now next up is Oku. Okay. I don't know what to add to an attack, to be honest. It's part of it, depending on what you've done, feel your character sheet. Your proficiency is just like your level, right? So your strength. Level con, because my thing is con. Is that the only stuff that you add? To like to hit something? Yeah, to hit something. I think it would be like your con plus your level, probably. Okay. Yeah, it's definitely my con. I just don't know if I what the proficienc is. So what Uku is going to do is he is going to first use channel elements, which basically taps my elemental gate and then like you start seeing vine start floating into the air, sort of like growing from the ground. And it's part of channel elements, I can use a one action elemental thing, which I will use elemental blast, which basically, it's like a blast of wood. But I also have weapon infusion, which allows me to, as a free action, to turn it into a weapon and apply a property. So I guess I need to first know how far away this enemy is from me. Well, they're over here. Where are you? I don't know. They're like they're like way over in the east bar. Dormory. So I don't even know that this is happening. You would have heard, from your room, you would have heard someone yell, but you've got to run there from your room. Okay, so I'll run there. So where is it again? I can't remember which room you took. I think you took this bottom one, maybe. Because I think you wanted to look over the guns. Yes, correct. So maybe you're in this one. So you could probably get to about where Laurie is. Do you want to just simplify that and say that you can basically get up to, like, right by Laurie's character. Where is Laurie's character? Basically running down the hole. You'll get there next round and be able to do something. Okay, I don't even know where I am on this map. You might not be. Oh, okay. Obviously, we're podcasting, so we don't want to be like talking about the map too much, but basically you your room and you're running down the hall. Trying to get to the bathroom. Okay, so I'm here. Is that is that where Laurie is? Yeah, you basically be right beside them, running to. So I can useer move action to move into the the room, right? Into. That's next round. You would spend all this round running to get to where Laurie is running from your room. Yeah. Yeah. Okay, that's fine. Yeah, because like, just because you weren't together, it's because it just happened in the dormitory. Okay. And then Liz, where did you.. What room did you pick? I took the room opposite the block that Sk is reciting in, like on the opposite side of the hall, but still right next to Paul's character, who's. Yeah, I kind of pick one off to the side. The other three stayed together. So I think with your way you run, you'd actually be able to get to get in there. I've only got 25 feet. How big are these squares? Are they five feet? I think you can basically just get in there. With full sprints, you can just get into the bath and see what's going down, but you can't do anything else. All right, well, I will. Okay, thank you. And I'll do that perception check as well that you mentioned. You are close enough that you would have just heard it, be fair. Okay. So, yeah, well, I rolled a 14. And I see.. My roomie being attacked by a paper. You have your own room.. No, I said I said my roomie. I see my roomie. Yeah, it's not your. It's not your roomie. How dare she? Call me her roomy. I'm marrying separate dorm rooms. No one's ever done that before. Crazy. Oh, that's always the first. But yeah, I can't do anything much more this turn. So I'm done. Yeah, that would.. Be murdered. But you guys will all be able to help fully next time. And we go straight back up to Paul. You have a slightly injured paper lizard and a not injured paper frog attacking. All right.. Let me repeat this file. It works in terms of.. Yeah, recall knowledge is a thing that I have to do that takes an action, right? So we're not going to take that action. We're not going to think about what's attacking me. Can I cast a telekinetic projectile at the one that's above me. The one that you already heard? Yeah, yeah, yeah, yeah, yeah. And use it to basically throw the the towel that I picked up back at it. I think you are technically still grabbing onto to this thing. But yeah, you can basically attack it with a telphony projectile, yeah. Do you take a penalty because it's ranged? We'll say say anything about that. Mark, that'll be a Pathfinder thing. I should know this. Well, I got many fix to hit, which I assume hits, but maybe it doesn't. 26 to hit. Presuming that five damage. Five. That hits. Five damage. It's not looking good. And I will use my last action to go away. So I believe I can go on, two, three. Yes, they do not have an opportunity attack. Opportunity attack attacks are relatively... I wouldn't say rare in Pathfinder, but it's a boring. They're not ubiquitous. I think I'm the only one that might get one. Maybe Mba's character? No. Yeah.. There'd be ways to spec into it for 100%, if you really wanted to get it, but it's not anoneget it thing. Yeah, I was under that impression. That's why I wouldn't have done that in the end day. Yeah, generally speaking, if it's not a trained warrior or something along that nature, you can generally get awake and it's not going to be too bad. Yeah, Ukku is just a farmer, so he does not have that. You're just level one. I change my. I'm there. Because the's already open, presumably, because you've gone through it. Yeah, yeah, yeah. Cool. So, that was your turn on their turn. The lizard is going to scamper over and hiss at Liz and then make a bite and get a 16 to hit. Let me give it a sec. It misseses. Okay. And it's going to try to attack again and that will definitely miss because I rolled only a seven and the penalty. Yep. The frog is going to hustle over towards you and also make two attacks. That is going to miss with an 11 total, and this one is a six total. So they both miss. Fair enough. Uh, yeah, that is the end of their turn. Next up, we have Lori. Yes. And I did realise just then I'd probably move further than I should have because I am slower than 30. I forgot about that. But I do have something that lets me dash a bit. So I cast Warp step, which pops my speed by five and lets me dash twice. So that would put me up to them. And then I'll get in the middle of them and just say, run back if you need to. And does my last action I cast shield. Okay. Sounds good. Next up we have. Ukku. Okay. So. So the moment the fight is basically happening in the doorway, with Finnick running out with a bunch of scratches bleeding, like not functionally bleeding, but you see a lot of blood. And and Leanna is not to hold them off in the doorway. You can sort of just see who are moving around. I'm assuming I can get to the doorway without with one move, right?. Which your speed? Probably only 25. Yeah. Normal, 25. So I think it would take two movements to get to them. Well, what if I just moved there? Um. Yeah, you can move to within, like, yeah, you can move to within, to see them with only one movement. Okay. Just remember that we are podcasting, so like, you think, what do I move there isn't good for a podcast. Right. Okay. It'd be a bit more descriptive. Sure.. I moved to the edge of the door. Yeah. And that only requires one movement. So I will do what I was going to do last round, but couldn't because I was moving. Channel elements, vines start to grow from the ground. I use that same action to do an elemental blast. And I am going to, is the creature behind, what's her name? What's the. Leanna. Yeah, we' give them a little bit of a booster AC. Liana that is behind her. That's in within 20 feet, right? Yeah, absolutely. I's only 15 feet away. Okay, so.. Range Enqument at 20 feet, so it becomes a dagger. So a wooden dagger gets thrown at the person at the creature at the same time as I channel my powers. That's the enginejured lizard? That's the injured lizard, correct? And because it is the throne, I believe I get my full strength modifier for that. Um Well, 16 plus my level, which is one, plus. Okay, cool. And then I believe it will be piercing damage. And what is the blast? It's 1 d 6, I believe, for wood. Yeah, no., 1 d 8, sorry. 1 d 8. 18? That seems like a lot of damage, but okay. It is. There'sger. Plus one, which is three. So I do three piercing damage to the creature. Yeah. So is that one action or two? That's one action. Okay, so you have one action left left. Yeah. I don't think.. I'm going to armour up. So you see hardwood armour, like basically consume my body. Yeah, cool. It's just funny. No one, like, no one's done a knowledge check to see what these things are. Okay, you. It's not always important. I haven't have enough running. Okay, so that was Uu, and then it is Liano.. I'm going to pull my dagger out of my pocket, and I'm going to try and attack the frog that tried to have a go at me before. Yep. And... Let's see if I'm successful. Let's see if you are. Okay, I'm sorry. There's a 24 hit. Yes. It's level one combat. One would hope there are 24 hits. Oh, I can always hope. I will not indicate once you're in later levels, because Pathfinder gets wacky, but. Yeah. And that will be... Damage isn't turning up on here, so I'll just try it again. 1 d 4. And I get one damage on the frog on the paper frog. One damage. Yeah, no, there's no modifier. It's just a 1 D full damage for a dagger. Okay. I think Mimbo's the only one that will get modifiers. Yeah, You have two more. M I'm a ranged combatant, not a normally a melee one. You have two more actions if you would like to use them. I'm going to try and hit it again. Okay, so you take a minus five penalty every time you try to attack a second time. Okay. And remember, recall actions or recall knowledge is always a good thing to do, especially if you've got an in-based character. Actually, I think I'll give that a go. When it hurt. But then I won't be able to tell the others. Knowledge of Arkana would probably be the best. Do you have knowledge of Arkana? I have academia law. Yeah, I will give it to you for academia laws. Okay. So that's a 1 D 20 plus 7. So 6 plus 713. You know exactly? You think this is a spell spell scheme. Basically just like scraps of fabric and paper that become magical little constructs. You don't really know much other than that because you didn't roll very well. It's better than I expected. No, but fair enough. At least I've got a bit of an understanding on what I'm dealing with here. And.. I think that's my turn done. Yeah, two attacks and the thing, yeah. Or did you make a second attack? No, I decided to do the the academia law check to see what these. So you still have one action left, then, if that's the case? Oh, okay. One more action. So let's try and hit this little bugger again. 9 plus five is 16.. Do you take the minus 5 penalty? So, yeah, minus that five, that is nine hit. No, is exactly 9 is not hit. Multi-att attacking path binder to where, you take a minus five penalty every time. Yeah, no, that's cool. Yeah, I just didn't realise, oh, yeah, this is a plus five for the hit and then you're minus the five, so it's all good. Sweet. What I I' understood from it nine times out of 10, it's usually not worth doing a multi-attack. Most of the time, unless it's something really easy to hit. Yeah. Like a paper construct. Or sometimes there are benefits. Some classes are better at multi-attack than others. Get less of a penalty. But we're back the top, we're Finnic. Yep. Okay. These things don't seem like they're super tanky, so I feel like they're most most of the way gone already. So I'm not going to do something for the long term. So what I'm going to do is cost electric arc targeting most of the paper things, which is a reflex save. Yeah. What is your DC? What is my DC. It's a great question. A plus four, what we' doing. Wait, let's this go? Probably, 17. It's the number. First one, passes. The first one fails. Second one passes. The way I did that was, the second one is the most centred one. So roll your damage. Six damage. Six damage. One, the lizard is very badly hurt. And the frog doesn't look good.. Okay, so that was your turn. It is now there. That's my whole turn. That's one action. I mean, it's two act. The whole time. Okay. One more action. What would I to do? Run away. See, there's the thing I want to do for the story is the thing that that is maybe helpful to make us not die. But we're we're going to. I'm going to recall knowledge about this right now. Akana would be best, I would say. In a sense, hope that I fail, but we will run how it works. Let me see. Let's rolling. Go. Plus zero for that. Oh, you have to be trained. What are you trained in? Deception, diplomacy, intimidation? Oh, I have law on here. That's a thing. What law? Nambu. Probably not. Anyway, I rolled a four, so.. No, but you don't know what they are. So, with that in mind, I have the dubious knowledge feat, which means that I should get the correct answer and an incorrect answer that I don't know what's what. So I know something, but it is like I felt either the right or the wrong idea. That That's an awesome and shit feed at the same time. So.. Okay.. I told you about this beforehand. Yeah. Yeah, yeah, I'm just I have to think. I can't pre-plan this stuff. Yeah, yeah, yeah, yeah, yeah. So you think that you think that it's actually alive and and it's like but it's a shape shifter. Or? No, just like, you think it's a alive. You think it's an alive thing. You don't think it's a construct. No, no, but I've got, I learned two things. So the basic idea is I've got deepvious knowledge is like, I've been gossiping with people, but I've got multiple ideas about what it is. So I get the true answer and an erroneous answer. So one of those is right. One is it's an alive creature, like it's an animal or some sort of beast or monstrosity or something. And it's a shapeshifter. Or it's a shapeshift. Or it's a shapeshifter. So one of those is false and one of them is true. Okay. So it's either, so I've heard, let me, let me do this for recording. So what I've heard is that it's I've heard that it's it's a living creature, but maybe it's also a shapesifter. I'm not so it's. Thank you. It is there. This is what I think. Nice. Hey, it is their turn. The lizard.. It will again do do its lizard frill and try to bite Liz. I guess in that one, at which point it will tie to run away. Do you have an opportunity attack yet, Laurie? No, no. That's levels away. It doesn't get away fully, though. It's just started to runaway. The lizard see that's Bud right run away, I mean the frog and is going to still try to bite Liz and after 12. And then it will hop away towards the water. And that is their turn. And then we move to Skrin. Yes, that make sense, but you've ruined my turn. God, I's going to use all my shit. No, I'm going to just go after the frog., I mean, why not? And then I'm going to. I know we could probably let them go, but I really want to try to attack something. So I'm going to try to. Oh, I'm going to use. Oh, what's it called? Spell strike. So I'll do an attack roll. 14. Sorry, I should probably announce which spell I'm doing it with before I do anything. So I'm doing a spell strike with Gouging Claw. Okay. And so... 14 doesn't hit, unfortunately. Okay. Then that's a miss. Then that's me, because that's two actions. Okay. Kuku. Next up is Uku. Ah, yes. Uku will... So each of these squares is 10 feet, right? No, it's five. It's five, I hope. Oh, okay. And so diagonals are five as well or not? It's part five under rule, so every second one is 10. Oh, every second one's 10. So the first one is five. Yeah. One, two, three, four. So you run up to the frog that Lrie's going for? Yep. And then. I am going to attempt to whack it. That hits, I think. You've got 17 on the dice. Okay. So I will roll 28. Oh, crap, I' also bad one. So two. Two damage. Yeah. Adjal makes my second attack a little less likely to hit, right? I'm not sure about that. Adile prey, you mean? Yes, the correct. Yeah, yeah. It's minus four instead of five. Okay, so my weapon created from my elemental energies is agile. Well, I can apply traits to it, so it's agile. I'm going to take another whack at it. So 4 plus. So 16, 17, 17 minus 4 is 13. Not going to hit. Okay. Not too far off, but it will not hit. Unfortunately. That's why. Okay, then we move to Liana. I'm going to try and get the rack construct. I'm going to throw my dagger at it. There's no rat. There's a lizard and a frog. Lizard, sorry. I don't know why I'ag a rat. Attack H. Oh, no, sorry. The paper.. Oh, yeah. Leanna's having a moment. It's the first day and she's a little stressed. So, they're at the dagger at the people construct that isn't the frog and as it's 17 hit. Yeah, that hits. Fantastic. And then. I will see if I can cause some damage for it. Oh, that did not work. I don't need to because it's got one hit point left. It dies. Fantastic. Give me a perception check, though. Oh, perception check. That's plus five. So 12 plus five, 17. You see a tiny little scrap of paper that got torn off by your strike runaway from the from it. Interesting. Okay. And that was your first action? My next thing I'm going to do is I'm going to go into the room and collect my dagger. Okay, that's two actions. Move and pick up. Yep. That's my tun. Cynic. Okay. This turn probably pretty similar to the last one. But I will finally, at the exact right moment to do it, and not a terrible moment to do it, I will cast create this anthem, which, going forward, will give everyone a plus one status bonus it attack rolls, damage rolls, and safes against Spear. So I'll just infuse with my magic, the hear the words. Hey, we're halfway down. There's just one of these dudes left. We've got this, guys. And then I will cost Electric Arc again. So. Rlex save for me. Reflex save again. DC now or let me check what that did. I succeed, but I still take half damage. Because I didn'trit succeed. Cool. Because it's a basic reflex save. I think I've got this right. I rolled eight, which means you take a four. Yes. Or it takes four, but. So I see the electric arc out at the remaining frog for four damage. Yeah. Cool. So on its turn, after you, it moves, runs away, runs away, and attemptss to hide and getting a pretty good role. So you're get sort of dancing into a crack and like dis disappears, you'll have to try to see if you can find it. Okay. Next up is Skrin. So, has this commotion brought anyone else over or are we like the only ones who get on? I's said at this point there are probably a few people looking around like, what's going on. It running in there, I don't think it's much of a dangerous to us at the moment. So I would probably approach the door and just poke my head out and go, oh, there's some weird ass people animals in here. Should we care about these? Who's. Let's say the Essie is there and she says, uh Probably probably not. That's weird. I wonder what's that theo. Huh. Probably not a big deal. Then, like pointed. Yeah. They did big deal. It felt like a pretty big deal to me. Where did you find them? In the. In the bathroom. They were on the the towels. Well, that piles of abandoned laundry. Yeah, someone needed to tidy up. Yeah. I don't know. I didn't know they were there. Maybe.. Maybe if they they probably just didn't recognise you or if they were there, they weren't put threat for us unless they just got the here. So. Oh, God knows how long that laundry's been left there. It's been piling up a little bit. Yeah. Do you need some healing? I would appreciate it. Let me see whether SE can heal. We've got to check a different section of the numbers. I from an apple. Are they like an unlimited Apple resource? Yeah, pretty much. Uku can make as many apples as he wants. I accept the apple I did, and I. Thank you, thank you for the apple. One D 4 like this HP. One d 4 plus one Here we go. Let's roll the d 4. Let's do it on here. I can give you one every 10 minutes because it doesn't use it's not useful after 10 minutes. It's not useful within the 10 minutes to give me. Cool. Well, I'm back up on nine healths then. Is that for help for you? Yeah, yeah, yeah. Oh, okay. Well, cool. I think it's probably best if Everyone just gets a good rest tonight and make sure you well prepared for your trials tomorrow. I hope they don't mind the smell. When I go. Because I'm not going to be showering to be bathing tonight. When I go to pick up my dagger, I see the dirty clothes and I see a pair of dirty dundies and I say to everyone, I'm going to be using the other bathroom to freshen up for now on.'s going to be bathinging in his wooden plate mail. Wooden plate. This is just going to get into the bath, but he's like a fully armed armoured person. I mean, look, I don't want to deal with the laundry either, but if any of you wants to deal with that laundry, it would be doing us all a favour. What's a favour? Well, I earn anything from it? I don't have anything to give you. Just. Yeah, I don't know. That laundry almost dealt with me, so I'm happy to let it lie. Okay. Well, I go to use the other washroom, wash my face and patty up and go back to my dorm room and get to bed, eager to stand on on the childhood tomorrow. Yeah, and I just retire back to my room and go to bed immediately. Okay. You all retire? Well, I actually haven't heard from Laurie. What does screen do? Oh, yeah, he would have just been walking back to his room already. That's over. I'm not going to go wash up. I'm fine. You're a r rat. Rats? Oh, wait. I'm not going to say that. That's being sexist about rats. Or racist about rats. Sorry. Okay, so you guys all go to bed and you wake up the next morning and you're basically have been told to meet at the front or you meet something like meet at someone outside. And in the morning, you see Abram, who calls that, ah, the green shoots blossom in the rain. The well-muscled and clean-shaven dwarf man calls out with a smile. If you gives a friendly wave as coming out, SE is coming out and says, it was meant to be me and Root, meaning you, but I guess not. As he says, I swapped with anchor Root, brushing to the point aside. Before addressing the new students. Over the next five days, you'll be helping, as we said, you'll be helping each of the schools' five branches. Abraham and Ankor root seek to join the rain scribes, which is the branch that explores the world and helps other travellers make their way through uncertain territories. That means rain scribes have to work well with both nature and people. Abraham continues. We can use your help. The cafesi market won't deal with anyone they know is part of the Mambia. So since you're new, you should be able to get in without a problem. You'll be looking for chickens. Did you know there's such a thing as endangered chickens? Of course, any chicken that comes too close to me is endangered. Abraham grins. A farmer outside of Nantambu, Basola, said her family used to keep Ojafuri chickens, Said they could actually anything, even a dragon's egg. I don't know about that, but she wants to rage Ojafuri again, so we're going to get us some. Ojo eggs aren't very hardy, and the birds aren't very good layers, and they mostly got put in soup, and now there's hardly any left. What we caught wind that some at Ci Market has a few chicks. Go and bring back some. All right, and bring bring back these of Fury chicken eggs? Yeah, chicks or eggs. Chicks or eggs, chicks. Okay. Yeah. Yeah, hard to find. Can be a bit fragile sometimes. How's the soup? I wouldn't know, personally. Essie says, uh, yeah, uh, the soup is irrelevant. We'll need four four to get. I We'll hopefully ensure that we have at least one male and one female. The more the better, though, as many as you can get. I've got 20 gold that I can give you to go. That should be more than enough. But you'll have to go find the Kaisi, which is a wandering bazaar. You'll have to find where it is. We're not 100% sure where it is today. And And then you'll have to find the seller. Right. And how do we identifying, how do we know we're not just getting a normal chick? That is a good question. Hey, Brham. Yes. The Ojafri chickens, they're small fowl with white faces, dark blue feathers, and lavender combs. The chicks should have dark blue feathers with a white underbelly. Dark blue feathers, white. Got it. Be careful at the market. Some of those sellers will sell you your mom if they could. So don't trust don't trust everyone. I mean, if my mom was for sale, I'd want to buy her back. That's true. Again, it's ir relevant. It's irrelevant. Hey, Brham, don't put weird ideas into their minds. Just go get the chicks. Has something happened to my mom? Your mum is fine as far as I know, no one has told us anything. If we hear of anything, we'll let you know. Like if she's for a cent, I'll pay any price. Hey, bro, it's all right. I won't let him buy anyone's mothers. All right. So, any more questions? No? Fine, market, fine, Bender, get chickens, come back. Let's See you to my mom. We'll see you at dinner no questions. We'll see you at dinner then. Yes, we' we'll see you at dinner or before if you can get back back earlier. Okay, see you then. All right, so trial one has begun. What would you do you would you want to do? How do you want to go about it? Anyone know what town is? Town is just off to the side. Yeah, you know what town is. You just don't know where the market is specifically. Marketing. I guess, I mean, the first thing for us to do is it's not particularly interesting, but we should probably all recall whether we know these things. So I will.. It's from moving. The market moves from different market. You've got to figure out where it is today. What the heck? Okay. It's a wandering bizarre. Could I do a recall knowledge to see if I would know anything about the routine of the travelling farm farmyard? Are you from Dantamboo? I mean, I can recall Zantambbe well. Yeah, I would give you a bonus. There are locations you could check. Okay. So I'll just do a typical law check. I don't think he was talking to you. Oh, sorry I was appalled to do that. So I'm saying you're not from Nowntampoo, so like you're you don't really have you're really sure. Well, in that case, my Nintambu law has given me a role of 18. 18. You know, like the sort of dozen locations that it's likely to be. If you were to just start walking to one, you might get lucky. Like there's's one not too far away, like half an hour away. It might be there, but if you would have walked to all of them, it would take you four, five, six hours. Right, right. That't Is this market quite large? It's a large-ish. I could get a vantage point, could we spot it? Be a bit trick tricky. Maybe. Yeah, laugh. Well, do you think any of the other students might know where this is today? What this market is? I mean, we can start walking, ask anyone we see on the way. Yeah. Yeah, okay. So if you're just going to start walking around heading out of the Magambia campus into San Antambu. And you're just going to ask someone? What do you, you just see someone on the street? Yeah, I'll be, yeah, I' first person I say, I'll just be like, hey, you know who the markets are? Yeah, all right. Give me a diponacy check. Four. Uh, no. Sorry. I'm home for work and they camamper off. You were lucky to get that, actually. Would anyone else like to try? I'll give give it a go. It is, anyone else just looking around? Let's see. Where would we Is there somewhere where people would be gathering aside from maybe the dining hall?. Not necessarily. Like.. There's not like full classes in session right now that you're aware of. Doesn't happen to be a newspaper that the town puts out, is there? You don't think so. I haven't heard of one. Hey, would anyone else like to try a diplomacy check? I mean, I'd like to head over to the dining hall, perhaps to find someone who's around. And have a look at the dining hall and read the air to see if I can figure out someone who looks like they would have experience with this sort of thing. Okay, give me a perception check. Read the air with a spell. Really? Yeah. Okay. I will read it to you. You take a deep breath as you survey a social situation. Throwing kind of see all it is around you. Intuition swiftly picks up up clues about social context on the spoken assumptions of behaviour. Blah, blah, blah, blah. As part of passing this action, you can recall knowledge using society to gain information about the immediate social situation. You also gain a plus one status bonus on your next diplomacy check to make an impression on those creatures when you cast the spell so long as the check occurs within the next minute. Blah, blah, blah, blah, blah. Okay. So you need to do a society check. Yes, yeah, I will recall a society. Recall knowledge society. Here we go. I got a 17 for that society check. Okay. Yeah, you see, there's a couple of people doing deliveries into the dining hall, like at the back. All right. Well, I will walk over to them and let's one sec. I will start talking right now so that I can say something coherent when I figure out the exact phrasing that it's supposed to go with. Oh, you got any of them chickens? All right. So I'll go over to them, and I'm gonna say hey, you guys look really busy. Do you know what would be great? I think what would make your day is if I was to give you a bit of a soundtrack while you're working. And that's why I'm going to use performance to make an impression on them, because that's what bards do. Okay. So.. I bring out my lute and give them a little soundtrack, and that gives a performance of 20, which I can use to make an impression on them. And then after I do that. Based on however they feel it, how do you? Yeah. Right on little do. That's a good dreamoove. What was your name again, little guy? My name is Finnick. Phinnick Bristle. Oh, yeah. Right on, right on. I love the groove. Oh, thanks. You know, I love it right here, but I was thinking, I was really looking for some suppliies myself for the school year. And I heard that there was like a market going on around here. Do you know anything about where I would find? I think it's called it at the Kafi markets? The markets, the markets. Where is the market today? It's west, somewhere west. I know that much. I can't remember how far up west all would go exactly it is, but it's definitely go headwest and you'll find it out there somewhere. All right. Headwest. I know it's close enough that we would see it within the day, right? Yeah., yeah, yeah. You'll get there. I just, I'm not exactly. I can't remember where west.. But it's in one of the western spots. Well, thank you. Thank you so much for your assistance. You're doing a great job there. And with that, I will head back to where other people are.. So you know what would take you about half an hour to get to like far west of the city, like and then like an hour to get like to basically the full the very edge western edge of the N Nantambu. Yep. So that gives you a direction to go out there. It is raining pretty bad today. How dare it be? It's just water. Yeah, so I'll gather up with the other people and let them know what just occurred there, if we want to go west or if we want to try and figure out some more information beforehand. What do you guys think? Well, from the other spot do you remembered, like, are they kind of setting out like almost like a clock, I suppose you could save the 12? Sometimes it's a bit more inside, you know, but normally it is more more of the outskirts. So like there are like three or four spots. You could you're sure it's one of those three or four? Yeah, so I guess I tell them that, like, he I don't know exactly where it is, but it's one of these few. It shouldn't take too long to check each of them. And maybe we get lucky. I'm pretty keen to check out the city no matter, so I'm happy to just go for one and see how we go. All right, then. If there's no objections, then let's go west. It's peaceful there. Great, you start heading west at a decent little pace. And yeah, so give me a perception check unless you're going to ask more people stuff. I saw how awesomely social I am before. I'm just going to keep looking around for shit. I'll do our perception right now. Not too great. I'll have a another ask around as we walk with the inquiry in mind. So. Plus five to that. Okay. So with your tem perception, like your sort of, you head to one of the locations of the markets and like, it's not this one. Liz, you find someone and you start talking to them. What do you say? We're looking for some chickens. We' a blue chicken.. Chickens? What kind of chickens do you look at? I've got chickens. Just normal chickens? I can find you chickens. What do you need? More of a bluebreasted chicken. A A blue breasted chicken. They sound a bit rare. What kind of chicken are you talking about? I don't know much about these chickens. I haven't had many encounters with them, but we need to get 20 of them. 20? You need 20 chickens. That's a lot of chickens. They like if they're ready, 20. Well, do you know someone who could get us a number of chickens? Look, the best person I know for rare chickens is someone called Mina. They find them in the market. The markets, they're just over there. They're about just another half hour walk that way, a bit north. Thank you, thank you so kindly. I had him an apple. Just asking for another time type of chicken. You wouldn't know any good crispy varieties. Oh, you find, I mean, crispy, I've got some good fried chicken, if that's what you're looking for. I mostly deal with like the dead chicken. Oh, yeah, that's exactly what I'm looking for. Best going around. Three silver a piece. But it's it's like big pieces. Oh, you drive a tough bargain, but that looks bloody delicious. I hand over three silver. It's like it's a big bit of it's like a big, it's like a Maryland. Oh, I got lunch. Let's go find the other chickens. Yes, let's go. Okay, so you guys head over. You spent about 15 minutes faffing about around the dining hall, half an hour getting to this location, another half hour. So you spent about an hour and 15 minutes. Maybe an hour and a half by the time that you find McDonald McKena. Point once you have a name, because you found someone who happened to know about this particular chicken salesperson? Yes. Okay. So we found the McCainer? McKain. MAK ENA. Oh, McK McKen. And you see a stern faced looking woman, shaved, bald head, huge hoop earrings through her ears. She says, what's you looking for? You looking for chickens? Ah, well, I Up here. Oh, youugo. I think you're more charming than me. All right. Well, then I say, well, yeah, we are looking for some chickens, and I've heard that you've got some of the best in the lance. So I think I'm speaking to the right person. I reckon, sir. You were talking the right right person. Just one second, let's got to go deal with this customer. They walk over around the customer, you want chickens? OG Fury? Okay, yeah, My hands, to a customer. Okay. Okay. I mean, at that point, I'm like, do I see that they're the urge of fury chickens, right? You look around and she seems to have six chickens that look like the match of the description you were given. Okay. Well, noticing that, I guess I just say.. Yeah, and I'm looking for those Ojja F. Are those the Ojja Fury chickens back there? Ah, good eye, my friend. Good day. Yes, I am the only one in town that you'll find selling them today. I have six left. Ah, six left. Well, what would it take for you to part with those? Four gold each friend. Four gold each. Well, we have 20 gold. They'll get you five. And I'll have one more yourself. I forget the exact way to do this in this mechanism, but I will try to persuade. It's this dipomacy, not persuading, but I will ask I will make a request or rebulk discount. I will ask, hey, like if I if we take them all off your hands, you're going to have the whole rest of your day to be focussing on, you, seeing the sights, all of those things. So maybe maybe if we give you the 20 gold, you could give a six. What do you think? Yeah, give me a diplomacy check. Yeah, yeah, yeah. Well, I may have rolled a that too, but that becomes a nine. I rolled a nine. I can't really I can't really move from the four, sorry. No. Going to be four gold each, I think. Um But look, you've only got 20 gold. I see another customer over here, and he usually likes to take an urger fury when I have them. So there'll only be five left in a second anyway. Can I assist in trying to obtain all of these chickens that we need? Well, does anyone have mercantile law? Yeah, sure. I'll just whip that out of my arse. Well, it's easier to distin with mercantile. What about farming law? I feel like bargaining for chickens would be a thing a farmer does. Does one look like a rt? All right, I'll let you, because I'm encouraged. It says several times throughout this book to like encourage you guys to come up with alternative solutions. So give me a farming law roll. Can you do the role? I'm just away from my computer right now. Sure. What do I get on the dice? I get a 13. What's your plus? Do you know? I feel like intelligence plus proficiency. I think it's a plus three or plus four, basically. Okay, like 17. Okay, so that's I will say that that's a success. What do you say? That one is a runt. I suppose it's a bit of a runt. Twenty gold, you say. Twenty gold. All right. All right. 20 gold. I'll give you. I'll give you all six. To be honest, I was going to. Yeah, I can spare that. I think my customer can can deal with that for a day. And next time I get a batch of Ver F is old, give him a good price. Okay. Okay, I'm sure you are. 20 gold, five chicks.. 6, six, six, sixs. Nice try. Will there be anything else? What's the best way to carry six chickens? Is anyone here trained in nature? Yes. Good. Potent. You are trained in nature. I am trained in mat. I am trained in nature. Okay, so you look them up and look at these baby chicks and you notice with that, but the question goes to us, like, you notice, they need to be kept warm on the long and there's you had a long, wet walk here. And I hear that there sounds this conversation, so. Can I do a recall knowledge under nature to command the chicks to stay close to my chest so they can keep warm so they don't get wet?. It's not really how nature works. Well, command is animal, is it rather than refall knowledge. Yeah. Okay. Sure, give me a nature check. Okay. Hopefully I roll decent. Is anyone, like, assisting on this? Well, I was going to ask, like, since I can hear animals talking, are they saying anything of interest to this? Keep warm. This is warm with a 19 with a 24 an ag check. He's like, yeah, okay. And you like snuggle them up like into your jacket and they sort of quiet down. It's a bit precarious with six chicks in your coat, but you can manage it. Oh. Go for the team.. Yeah. So you have the six chicks. It's taken you about two hours to achieve this. Anything else you want to do? The market is there are quite a few shops here. There's a lot of items available.. Does anyone go shopping or do you guys just.. I'd like to go shopping, but I'm carrying six chicks. I don't know if I can carry anything else. I think it would probably be best if we head back, but I mean, if we've got free time in the rest of the day, it might be fun to come back here. Yeah. It wasn't too virably. Yeah, McKanna says, yeah, I would get them somewhere warm as quick as you can, to be honest. And then we'll be here for the next least six hours. Yeah. I think. If they start complaining about the cold, let me know. I can make a flame. Yeah. Was that I guess I say, well, thank you, McCain. Hopefully, we can do this again sometime. Bye. Of course, I'll be here. Or one of the other 12 locations of this markus. It keeps things interesting. It's like a. Sorry, You just reminded me. Is there like a pattern to that or are we just supposed to be like. Berries? How So you guys just turn up? Kind of. It kind of varies based on like sporting events and other big events, tax days, various things. Is it a down steady well? Sometimes. Sometimes it's not. How do you know where it is every day? I get up really early in the morning. I don't leave her at all. Anyway, best get them chickens home. We're just not cool enough to know where the markets go. Definitely not. Maybe we should make our own markets. Yeah. Yeah, we'll call it the better markets or something. Yeah. Hey, McKan, do you want to own the better markets?, I like it here. It keeps things interesting, I said. Yeah, maybe tomorrow we'll have the better markets here. But it's just. It's just an idea.. We'll regroup on this. Thank you, thank you, thank you. I thank Manna for the in regards to transaction and I encourage our farmer friend to leave an apple. I do. I give her an apple. Oh, yeah, sure. Thanks. But let's get get back to meat chickens and we eat geese. It's very delicious. The apple. I'm sure it is. Apple a day, as they say. Indeed. Well, let's head east then. Yeah, it takes you just like now that you know where to go, it's only a half hour walk to get back. And all in all, it's taking you a bit under three hours since getting the taskus and you arrive back to the Megambia campus with six healthy Ojafuri chickens and you eventually you would find Abham says, oh, you're back early. Do you had a successful day there? Or you need some directions? We've achieved the task. It'd be good if you gave us directions of where to put the chickens. Yeah, I think we'll take them over to we'll put them over here for now, give them somewhere warm, and just somewhereormaging. We've got anchor Root to come have a look and make sure they are the real deal. Otherwise, you'll have to go go back, get the real proper ones. Anchor Root, where are you? And you see a a small dog, like, they are why don't you give me a nature check? What's a sign? I think we said mine was among the better? 21 is very wrong. You recognise this person They are an ant knoll. They are three feet tall. They resemble an odd wolf. Remember like sort of like a friendly looking wolf kind of thing? Yeah. And they says, oh, hello there. You're the new student. Hi, I'm Anchorut. Did you get the chickens? Oh, thank. Yes, we did. Well, we hope so. There's a view that that look a little bit like Ojafuri, but I'm I'm sure you got the right thing. Can I see them? I open up my cloak and then you see all six chickens. Oh, you did well. You did very well keeping them warm. That's I see one, two, three, four, five, six. You did a very good job. I'll, I'll make sure that I keep them warm until we get them delivered when she bundles them up and scampers off with all six chicks. Oh, I guess that's task is complete. Yeah. Yeah. He just hop around, do whatever today? Yeah, we don't have anything else for the rest of the day. Feel free to take this spare time as you like. You don't need us to pick you up anything from the markets? I'm fine. You'd be welcome to ask the other students around if you want to see if anyone needs anything or maybe someone else wants to go with you. But. For right now, I'm good. Well, then, let's head back to the markets. If there's anyone I recognise from like our introductions and stuff, I'll ask them, but probably not anyone new. Yeah. Look, I think we'll call it there. We'll call the episode there. Yeah, I feel like that was a pretty one-one in theground scheme. So we got a bit covered. Yeah. Yeah. Cool. And I think we'll just do the one for tonight. We're still well progressed. I think if we're going to record a second one, we're going to be here pretty late. And I don't want to do that to people. Yeah, my heart drive is in the middle of dying, so I've kind of unbooked and not using it. So it should be fine. Like, it still boots up, but it just stops working after about a few hours. So I've not using it until I get another hard drive to copy the shit off because that's got all the backups and shit of the other stuff. Yeah, yeah. Fair enough. So that does include the last episode because I didn't upload that, I realised. Cool. I ended up uploading that one. Yeah. Yeah, hopefully you enjoyed all that. I'm glad we did get to a little combat. That combat could have happened last session, that I was trying to think of a sheep like, which bath do you go to? Yeah, I had a dealing that was probably what you mentioned. Because you said that there was a chance we could have had a combat. Yeah. I wish I had done my recall knowledge beforehand either to know what it is or to justify why I didn't care. Beforehand as opposed to retroactively. But Got to remember what you can do in this game. Yeah. Just a note, I think it'd be a good idea if people make sure that they read out what they roll. Yes. I did notice a few people forgot to do that. And I mean, it's. I think Phil ended up realising that and saying what they rolled. But yeah, just make sure you say what number. I think, and I think I, yeah, we also just have to be careful that when we're. Battle maps, great. I'm happy to use the battle maps, but we can't refer to the battle map, but we've got to describe what we're doing. Yeah. Because otherwise, it's a tough one. I think I'll probably try to avoid battle maps most of the time because I don't think they enhance what we're doing. It does simplify. I don't know. I honestly think it does enhance what we're doing, but we've just got to be.. Yeah, just because of how picky positioning can be in these kind of games. Yeah. I think that we just have to be on top of saying, like, look, instead of just going, I move here, it's like, oh, I' move past the door and go next to the chair in the middle of the room and do this. Yeah. Yeah, I think the cool thing, regardless of whether there's a map or not is to give a clear description of what your turn is after you've decided what it is. I think we can work together and we're learning. Right? Like, I think we can help cover each other. And if like if you want to be like, oh, like, if you think there's a cool thing, you can help enhance what they're doing, do it. I think that's cool. We can support each other. Yeah. I'm just sad that I still haven't hit something this f track. I made the first kill in the game. You could have done a link and killed those chickens, but you chose not to. And a link doesn't kill chickens. He just throws them around. Who kills chickens? Is that the? I was like, there was no paper chicken, but then I realised, what you're talking about. Already. I'm happy because I got to eat some crispy chicken. I've got to play a song. Well done. Yeah, that's an interesting spell. I was looking that up when you after you mentioned it, the Read the Air kind of thing. Yeah, yeah, yeah. I'm guessing there's a lot more social spells in Pfinder. I believe so, yeah. And like not even spells, but like actions as well. Oh, yeah. And there's sociable things you can do in combat. Like you can are you going to get stuff like Von M and stuff like that? Yes. Oh, Bonon M. It's fun. That stuff is good. Like, you basically you're doing diplomacy checks to insult people, to weaken themselves for like will saves. Yeah. For the commanded animal, I think it's fine what we use it for there, but I don't think that's what it's intended for. Commanding an animal, I think that's more to do with like riding a horse or. No, but it's kind of like, she rolled really good on that nature. Yeah, yeah. You can understand it. And then it was a combination of, well, literally, Finnick is talking to them with his leg. And that's the thing ns do, right? They just talk to small animals. Not all of them, but a lot of them. They have a small animal of them. Are you going to get a familiar at some point? Paul? I don't think so. Maybe. I haven't..'t thought about it that far ahead. Not a classic bar thing to do. I am actually tempted to get a rapat familiar. Well, I was at the start, but I ended up going something different. You could get a turtle. Turtle. But I' you enjoyed that. Like, I feel like there's I feel like there's moments where we could roleplay a bit more. I'm still figuring out who these characters are are a little bit. Like, and there's a lot of NPCs and, like, probably already fucked up a little bit of them, but like, whatever. They'll be our versions of them. Yeah, yeah. Like if I'm not. Sorry? I mean, I'm going back to what was said before, but yeah, this commanded animal life, like, as written, it feels very easy to command an animal. Like, it says most animals know drop their own leaks, leap, seek, stand, straight, and strike. I'm like, why would you be able to do that with most animals? Yeah, well, that's why I was kind of thinking it's probably more to do with trained animals. Yeah, and chicks and not. It almost explicitly says no to that, though. Like, it also says, like, different animal nose and activity, such as a horses gallop, you can come on the animal. Anyway. But that was specifically a thing where it just said, like, you just, these things are going to, like, if you don't do the nature check, one or two of these things are going to die. Yeah, yeah, yeah, yeah, yeah. But then you got a 24 and the E check. So it wasn't necessarily, you knew that they needed to be, you just, you knew they needed to be capable and you were able to do that. Yeah. I think no matter what, people would have been fine between us all, because I was almost just going to dump out whatever I had in my bag and just put them in there. Yeah. I was going to do basically the same thing Liz he was doing, but I was going to be like, I have animal elocutionist, so I can speak to them. But it doesn't matter. You asked the right questions, right? Like that was like that was sort of the second part of the test. It was sort of like three parts of that test. Find the market, find the seller, get them at a good price, get them home safe. You did the find the market, you did in a different way. Basically, they were like, diplomacy tech or perception check and you were like, it. You can't do that. Dlomacy check? Well, I lowered the DC a little bit because you got creative with it and you because it was supposed to be in DC 19 and you got 17 society and I was like, actually, I'm going to allow this, but like they're not going to give you exactly where it is. They're going to give you a general direction. You're going to have to go continue this. There's going to be another check, which then Liz did really well on the next prisma check. Was it this? Yeah. Which got you the McCainina name. Which may have been like, I've probably could have made that take longer, but like, either way, like, you blitzed that challenge. Like, you kind of had that you were on a timer and basically, she was selling one chick hour. That's why when you got there, I was like, oh yeah, she sells her second chick at that point. She's got six left. So you know that there is the man for these things. Yeah, yeah, yeah. Anyone else thinking like McCain chicken? Yeah, yeah, yeah, yeah, yeah. I went near the side of trying to make that a joke, but it didn't quite work. And there is like basically at this market, there is common items of level five and below. So you guys could actually buy a bunch of shit, but you don't have a lot of money. Yeah, I mean, all we've got is, well, we've got like 40 gold? 45 gold each there. Yeah. Yeah. I wasted three silver and chickens. I do like the idea. No one even considered using their own money. No, of course not. I mean, if you can haggle first. I mean, there was always going to be, okay, each put in a goal, the last one kind of thing. There was a way to get them down to two gold per chick, but you needed to roll very well. And there was also a way for them to come become five gold per chick. I'm guessing there's only one person that could have done that. Yeah, I rolled. I think I rolled a two won the relevant check. Like, I mean, I rolled more than two, just a dice rolled too. I think you need to do that check. Is there a 25 or a 27 diplomacy? It's 25 diplomacy, intimidation or deception check? Or 23 mercantile check.. Literally impossible for me to do. What laws do people have? So we've got a farming. And that's why I gave, I was like, okay, well, members out a farming law. That's not mercantile law, but that's like, I'm going like, I'm going to fudge something a little bit here. And I gave you an extra chick, basically. I was okay with that. Again, like, like with chicks at least. Yeah, it makes sense in that context and you're getting creative with your law, which I'm the book encourages and I want to encourage, right? So it's like, okay, yeah, I'm not going to give you as much as you would get with mercantile and you kind of just didn't make that last check. So I'm going to give you something, but not quite, I'm not going to give you as much as I could. Fair. But you did very well. Like, and I think so far, you were all you doing very well on all these challenges. But, like, we've made a very balanced group. Yeah. I've got a local terrain, which I'm I'm guessing it's jungle. I haven't actually written that in properly. And Ratfolk. So I've got pretty general kind of crap, not too much. I have? I have. Nambu law. Which is going to like they recommend having someone having that and it makes sense in the context. Yeah, I think I might have mispoken and said I had Mambia law then. At one point. And instead of. Anyway, it didn't changed too much. And then Liz just has general academia law, which is something like kind of interesting. Like you were you've been to other magic schools. And you just havebo? Sorry? You just had farming or do you have other ones? No, just farming right now. Most people just have one law. Having more than one law is not common in Pathfinder to eat. You can't do it, but soon. Soon, I will have the mess of having everything, sort of, but failing all the time. I'll have all the specific flaws, fail them all the time, and force Phil to give me two answers. That's the build. Sometimes it's going to, well, like I'm happy to improv that, right? Like sometimes it's going to be good and worthwhile, and sometimes it's going to be like, fuck, I've just got to come up with two things and get through this. And so be it. Like. But like today, and that was kind of a today one, I was like, okay, well, you know, you, someone else knows that they're a construct, but you don't. So I'm saying, you think these are actually an actual creature that's not a construct and they're shapeshifters? And now you probably as a player knew that, okay, well, they're shapeshifters. I mean, I'll say that from my perspective, if I was given that exact thing, I would have done the false one being like a reason why I was not caring about, like, like that there was something good that I should be opening up because I don't like committed to that. I was like, oh, they're like, I don't know. They're like raffle tickets. If you collect them, you get a prize from Te art or Is that like a fail thing?? Yes. Yeah. I reckon this is a bit hard, but if you fail only just, give like one fairly useful bit and one fairly detrimental thing, like they're vulnerable to fire and lightning, only one of them. Oh, if you're critical fail, you don't get the other one. You just get. Wrong. I think that will be an evolving thing, like, that' sometimes be very good, and sometimes it's a good plot plot device, though, in general, I think. Yeah. Yeah. So you got to got to remember that um doing the the, what's it called? The recall knowledge? It's a good idea. It's really good. You can recall. Someone should be recalling knowledge in the first round of every fight, pretty much. Yeah. I got to go. I'll see you guys around. Yep. Can rememberbo. All right. Also stop recording.
+Oh, that's why they don't sync up.
+I understand what happens now.
+What's you doing? When you start recording with Craig, people don't join until they make a sound.
+So that's why there's an offset.
+Like, not everyone sinks off because...
+It should sync up.
+I mean, I found them to be like like they do.
+Like, you just have to offset the thing slightly, but I found them essentially offset by a facist and that would explain it.
+Oh.
+Because like, remember, like, it's got Bill joining at zero, me joining at three was 16 hbo.
+17, correct.
+24.
+Yeah, that makes sense.
+Yeah, but I mean, generally the ones that download have that amount of light space at the start.
+At least that's how it was for me.
+I saw, like, another file that sort of mentioned the same thing, but it hasn't been the case for me.
+It's not a big dealer.
+Which one ones do you download? Like the..
+Now I forget what the human is.
+It's like the zip file, the flak, and then.
+Yeah.
+Okay, because I think I do an in P 4 format.
+Yeah, I mean, whatever.
+It works.
+Yeah, yeah.
+Okay, we.
+Good to get into this? Everyone is on.
+We've got Craig here.
+Um.
+So more or less we just got back to the hall, didn't we? Yeah, the dining hall, yeah.
+I think you're with Ezzy or like is he not far away at least? Um..
+Okay, I'm just texting a place in this one out there.
+I roll a 17 for no particular reason.
+Okay, change that Okay, cool.
+So.
+I think with the podcast stuff, we're planning on doing like a pre-recorded intro, right? So I'm not doing my normal big intro.
+We're still cool with that app.
+Approach? Sure.
+I think it probably will save time in a long run, once we're used to it, once we know what it is and stuff.
+And then like we can sort of, I don't know, I'm not a limp in with low energy, but I can like sort of just ease into it a little bit more at like a lower gear or a high gear sort of depend in what I want to do.
+Like I don't anyone have any thoughts on that? Looks, for me, I think just to make sure that at the start of the episode, you clearly, I mean, it's going to happen because we're starting new each time anyway, but just to make sort of that they sufficient context of where we're starting each time.
+Yeah, it is.
+So it might just be, okay, so you're in this place.
+Yeah, yeah, yeah.
+Yeah, I'm still going to do an introduction.
+Like, I've got like a few lines I wrote, like a paragraph, and I think that's good to do as normal.
+But like you guys won't be introduced as normal Yeah, yeah, yeah.
+It's like, that's the main difference.
+And I won't do my big hello and welcome to this.
+It's basically just like, this is what we did.
+This is where we are.
+Yeah, yeah.
+If I was in your shoes, I would write the start of the intro, basically at the end of the session so that you can remember it a summarise, like where we we ended up.
+But that's up to you.
+It is better if I was to do it that way.
+I've done it long enough that I know that it is better.
+It's harder when I have to remember it, but it is sometimes better as well, because that puts me in the mindset of what happened.
+But then, I don't know.
+But you're right.
+I should I should get into the habit of doing it straight after.
+Yeah, yeah, yeah.
+Well, I just might say it at the end and then like we can you can either retake it or just leave it like that.
+And we can put it on the next thing.
+That's true.
+Maybe we just record it as a special thing at the end and just put post that somewhere.
+We could we could all jump in on that too.
+These are all good thoughts.
+Anyone else have thoughts of a technical or nature or otherwise? No thoughts had empty.
+That's good.
+All right, cool.
+Well, in our first episode, we were introduced to the party as they began their journey as initiates at the Mambia, which is the oldest and arguably greatest magic school and Gallarian.
+They met their first teacher, Taku O, who asked them several questions and put themselves through a series of simple tests to see how they performed as a group.
+At the end of this, they selected a magical symbol, which granted them a small glimmer of magical power, a cantrip, and asked a final question about what defines them, which was would help guide their journey initiates at the school.
+After this, they were told to head to the dormitory, where they met a couple of students and settled into their new rooms.
+Esi Jana, one of their fellow students, gave them a quick tool with extended stops at two locations, the dining hall and the supply store, with the dining hall, they met head cook Li Yao and told about meal schedules and some work opportunities and at this fly store, they made met at Zohan and given their initial supplies.
+Throughout this day, they had been given several beads, which they would collect as part of their journey at the Megambia.
+And currently, they're just out to dinner on the first day and they are about to learn more about their duties over the next few days.
+So I think we said that you were with Essie.
+She was taking you out to dinner, even though it is just you were very close to the dining hall.
+It's just a short walk away.
+And so and so Essie was would say, ah, good to see you, well.
+Should we go to dinner then? Yes, let's.
+I have no idea whether I'm doing the right voice.
+I'm probably going to mess up a lot of my voices, but such is life.
+Okay, we might see a couple of the students.
+People have different schedules.
+Sometimes they take dinner at home.
+Well, the dormitory? So we might see some people tonight.
+We might not.
+But I told the people that you will be there, so hopefully we see a couple of people.
+As long as it's food, sounds good to me.
+Yeah, and it'll be nice to meet the other students around here.
+Hmm.
+Yeah.
+Yeah.
+So you guys head over.
+It is raining.
+It's not raining heavily right now, but like the rain comes and goes in this place.
+When you get there, you smell the delicious aroma of roasted chicken, vegetable soup.
+You also, there are some also like a couple of salads on Offa and some breads and some roasted vegetables as well.
+So there's quite a decent spread on offer.
+That's straight for the lion.
+I'm assuming it's kind of like dorm style where there's lots to trade set out and Ly says, don't worry.
+We'll make sure you eat.
+Give you lots of chicken.
+Perfect.
+All right, and I'll line up find them.
+Yeah, I presume we're old.
+Getting the same feet.
+Is that right? Yeah, whatever you want.
+You can basically get it served with whatever you want and load up your plate with whatever you desire out of what I just mentioned.
+I'd probably grab a soup bowl and stuff putting in all their things inside the soup bowl.
+Yeah.
+I'll give you like heat.
+We'll say that you got like a train with like the different things on it.
+It's probably a train.
+I just want a bowl.
+All right, yeah, you can just.
+They give you the biggest bowl they can spare and you can just start loading it up.
+It was one of the mixing bowls for their salads, but.
+Perfect.
+I'll just grab one of the sand trays and fill it up with some chicken and some salad and maybe a couple of other things.
+Yeah, you all load up your plates as he does as well.
+As you're sitting down, a couple of other students come up that Ezy points out and says,, ah, that's Hebra and Mariama.
+Then she points out to a handsome, mustard looking dwarf, clean shaven.
+And a young woman, dark skinned, sort of with like somewhat darting eyes, looking a little bit erratic, maybe, but she is somewhat focussed on the group and she says, ah, Heyrahm, Mariama, come meet the new students.
+The dwarf is Hebrahm, and the human is Mariama.
+Why don't you introduce yourselves? Oh, hi there.
+Abram and Mariam.
+I'm F Frisol.
+Lovely to see you here.
+So we'll have a lot of fun this year.
+Is Abram a dwarf? Yes.
+Yeah.
+Okay, and then how do you spell Mariama? M- A-RI-A- M-A.
+M-A-RI.
+A-MA..
+I'm guessing that's an H at the start of paper or I was here an eight? Yeah, H-A-I-B-R-A-M.
+Abram.
+High? Hi brand? I can go either way.
+I'd probably just nice to meet you with a mouth full of everything.
+Well, well met.
+So you'll be getting to know the ways of the school then.
+I think I I'm giving you the trial tomorrow.
+Didn't we go through the troll rate? The trial? Well, the trial, not so much a trial, trial.
+Service work, service projects for the school to get to know what it's like to be students in the Gambia.
+Oh, what's involved? Uh, well, um, basically, uh, it's one for every of the each of the standard bearers, the cascade birds, the five branches of the Gambia, the cascade bearers, the rain grabes, the tempest sun mages, the emerald bows and the Uzoi.
+Emer bs.
+What I mean, if you're not allowed to say, don't spoil it, but what do you have installed for the emerald Bs? Oh, I think that one will be...
+That one, who's running that one? Oh, no, no.
+Let't be a surprise.
+I don't want to be spoiled.
+I think Ganasi and Seni Senway were running that one, time.
+I have no idea.
+Gasi anyway.
+All right.
+I think tomorrow we'll be doing something for the rain scribes, but I've got to keep it a secret.
+It as part of a just getting to know you.
+A simple test.
+Anyway, I'll go get some food.
+I'll be back in a second.
+All right, see you around there.
+They come back in a second with food and sit down and you guys can talk a little bit more about the trial.
+But so have you all thought about what branch you want to represent already or are you looking to learn more about them? Well, I introduce myself as Leanna and everything.
+And I say, well, I want to learn a bit about each of the branches before I make a final decision.
+Well, I suppose that's all what part of these tests are about.
+Well, I think.
+I'm going to be in the emerald bouse, but maybe not.
+Who knows? I've heard good things about the Cascade bearers, but I am open to everything.
+All right.
+Mariama speaks up.
+I think it's good to be open to new things.
+Try them out, see what they like.
+Maybe you think one thing is good and you find something else works better for you.
+Maybe.
+What about you, big guy? Looking at you, bo.
+May want to learn more.
+I'm kind of new to all of this, and I'm only a simple apple farmer.
+Plenty of farmers come through this place.
+Really? Uh, yeah, lots of people with an interest in nature.
+Yeah, I certainly have an interest in nature.
+I'm wondering, you might get along well with Anchor route.
+And who is he, or she? She.
+I think you'll meet her pretty soon.
+She can be a bit flat flaty.
+She's She's a.
+She's our resident.
+Rain scribe, I's what you would say.
+I work with her.
+A lot..
+She's very interested in nature.
+Has a collection of caterpillars and insects.
+Oh,'s.
+Although caterpillars aren't usually great for trees.
+Oh, but it's a whole circle of life, isn't it? Yes, I guess.
+But she can be a bit shy, so you might not see her as much as the rest of us.
+Interesting.
+A be interested in meeting her.
+Maybe I can give her an apple.
+And as he says this, he creates two apples and hands them to Abraham and Marim Arma.
+Mariama, yeah.
+Oh, thank you.
+Happy to see new life blooming.
+Yes, me too.
+So what do you guys do for fun around here? I ask.
+Study, learn, spa, hang out in the gardens.
+Sometimes I like to go into the city, go find things to do, earn some extra coin.
+That's a lot of options.
+Why should I start? I guess I should be getting off to a good start with the studying.
+So try and keep my head in the books for now.
+Dirt.
+There's nothing wrong with books.
+Yeah, we're all here here because we want to learn, so, you know.
+I kid, I kid.
+No worries.
+Padette, you're ever up for a spa.
+I'm happy to meet you in the sparring field.
+We can I'll get my axe in my arm already.
+We can have a a bit of a go back and forth.
+I was thinking of a different type of spa.
+Oh, you Well, we have the baths, so we are in our dos.
+Oh, yes.
+Oh, yes, true.
+I just immediately, I thought of like, like a sweat room, that type of thing.
+I wasn't thinking about combat sparring.
+My bad.
+Would be awfully forward if that's what we were talking about.
+And we are also expected to find things to do for the good of the people as we can.
+That's essentially what you'll be doing this week, just as part of your next part of your initiation, your orientation to the school.
+Fair enough.
+Yeah, so you guys keep on talking for a little bit, keep on chatting.
+And then eventually, guys can retire back to the dormitory.
+Do you guys do anything like before you go to bed? It was just raining, so I don't need a shower.
+That's that's entirely how that works.
+Yeah.
+You don't know how rutb work.
+It's fine.
+Well, I'm not going to do anything too exciting, but I will take a a bath and do a little loop practice before I go to bed.
+Cool.
+Leave the door open again and kind of finish? No, no.
+We'll leave it close tonight.
+We's getting in time relatively late.
+Which side which room did you take on the.
+I'm on the.
+The right side, near the common room, but toward the bottom right corner of the common room.
+Okay.
+So as you go into the baths, I'm assuming you go into the nearby one, Yeah, as you're going to the bars, role initiative.
+Am I going to slip? Let me.
+One second.
+I got.
+I'll I'll just use theice.
+I'll just use the Roll 20 this time.
+No, I rolled 20.
+Initiative is wisdom, right? I think it kind of depends on a few things.
+It can be a few things.
+Yeah, I'm just letting P Builder tell me that it's a plus zero and running with it.
+You guys can all be in this.
+You may not be you may not get to do too much, but.
+So typically clear, this is on the way, so I'm not yet the bath.
+Is that correct? No, you get into the bath and then something happens.
+I will be descriptive.
+But I sort of wanted to roll some stuff first.
+Sure.
+Well, I rolled an out talking.
+Oh, that's very good.
+So it's a 20 and then at 20.
+I'm still in that stage.
+I've got to get to know all your names as well.
+Ukku is my name.
+It's been man.
+We't changed that long.
+Ku screened.
+Leanna.
+I' changed a mad display name on roll 2 to my name.
+My character name.
+Yeah, that does help.
+Or at least if you change the role as.
+Okay, so what was initiatives? Fick? 20.
+Tal? Yeah.
+Lori? 12.
+Ku? Nine.
+I mean, I thought it was a plus, but it says plus zero on my path builder.
+Yeah, I think most people have crappy perception because it's not really based on anything.
+Because I'm You can argue a case to roll a few other skills for initiative, but generally it's just turn off perception.
+Oh, good.
+It's perception, I've got it plus seven to perception, but it may.
+Initate a sand.
+It's plus zero And this? What's yours? Then add the plus seven because you should have 7.
+My roll, 27.
+I rolled a one, but I got a plus five to my perception.
+So total six.
+Cool.
+Cool., cool, cool.
+Six.
+Paul got 27, I got three.
+So.
+Okay, so as you're going into the bathroom, as you're in this changing room, Give me a perception check.
+Let's do the role.
+You're not going to believe that I got 27 again.
+Well, no.
+No.
+I did.
+We take the other system.
+Okay, so as, well, in that case, I think I have this right, but I'm not an expert at Pathfinder T.
+I think you hear something rustling in like a pile of towels.
+Oh, I don't think I was alert.
+Okay, so I guess I will I hear something rustling.
+I guess I'll like sneak up to the towels and try and pull them out, pull up, see what's going on.
+Yeah, as you pull up the spell, like the thing, you see a lizard like looking up at you, like it's got a frill and it frills like a, but it's not made of like skin.
+It seems to be made out of like paper.
+All right.
+Well, it seems not made out of like, yeah, paper.
+Okay.
+Well, I will mention I have animal elocusinist.
+I suspect that it wouldn't work here because most animals aren't made of paper.
+So, um so it just kisses at me the paper.
+Well, since that you've unveiled it, right? Looking.
+I'm looking at it and it's it.
+It's reactive to you finding it, that's all.
+All right.
+I mean, it's definitely picture.
+There's definitely like drawing and writing on these paper as well.
+It's not like blank paper.
+All.
+So if I like.
+It's not clear to me that it's trying to fight me, so I'm just going to try and pick it up.
+You're going to pick it up.
+It's like fighting against you, I suppose.
+Roll me and I athletics check.
+Okay.
+They said that I have one.
+I got a four.
+It beats you.
+Unless it gets in that one, it's going to do better than you.
+I've got in that one.
+You grab it then.
+It fails.
+It has a It has a plus five acrobatics, but that's a six, but one less less success, so you grab it, yeah.
+All right.
+Well, okay.
+I've got this paper lizard in my grass, but I presume it's still trying to wriggle around, but if I try and unfold it, does that work? We call that two actions.
+Okay.
+Yeah, like we're initiative, but I'm not sure if.
+So you haven't really talked about purpose right now.
+No, yeah, yeah, if you have a third, like moving to it was one action.
+Yeah.
+Grabbing it was a second action.
+So you have one action left and you're going to try to like rip it apart, I suppose.
+Just make an unarmed attack.
+All right.
+I don't hope we do this.
+It's definitely a way to do that.
+It's do.
+Apologies.
+Just a moment.
+No, you're right.
+This is our first combat.
+I feel like it's going to be very underwhelming, but that's okay.
+This is happening in a bathroom.
+Let's this.
+I thought it was gonna be comeback with like a bar of soap or something.
+He slipped.
+He fell it out of his grasp.
+Oh, that's the next monster.
+That's the next.
+Oh, I can't wait.
+True, what is this doing? I have lies of doing this? And just roll it.
+I see what I see you.
+Yeah, yeah.
+What is it doing? All right? Google Drive do it with roll it this.
+We'll just be.
+Plus 17.
+17 hits.
+Yay, and on, on.
+Does some damage that I know.
+D 4? Let's say it's a D 4.
+I'll run with it it later.
+It's the three.
+Plus strength, I'm guessing, is zero.
+All right, right.
+Yeah, yeah, yeah.
+So three damage.
+Hip.
+Cool.
+Do you like yell for help or anything? Ah, it's a piece of paper.
+What am I? Why would I yelling for help? Okay.
+I will let people do perception checks on their turn then.
+So after your turn, it's its turn.
+So it officially does do a thing.
+It is in action.
+So it does this on its turn.
+It does that, and then it's going to try to attack you and it gets a 15? Is it 15 hit? I'm 18 is 15, so So you take four damage and you need to make a will save.
+Will save.
+What did you get for your horseave? It sounds hardy., I got a 15.
+Okay, you are not frightened of this lizard to say.
+As I said, why would I be frightened of a piece of paper? But then it will try to attack you a second time.
+It'll take its penalty.
+But that will be a 20 minus five, so I think that still hits.
+20 minus minus 5 is 15, so it's the same as before and the.
+That is seven damage..
+M sure you're not yelling out too much? That's probably like half your health, isn't it? I mean, like, I will this time, now that it's attacked me.
+I'll let you use your reaction to yell at if you.
+So, so, so, so, so.
+In that case, I will be allowed.
+And then another piece of paper.
+This one is a frog, jumps from somewhere and tries tries to bite you.
+And gets a 19.
+So you take another five damage..
+He's still up? Still up.
+I am on five.
+Okay, but one of these things isn't that you hit is also hurt.
+So like, okay, that's their turn, though.
+Next up, we have Skrin.
+Laurie.
+So I guess first I'll start with a perception because I'm kind of pretty far away, like around a corner and kind of shit.
+I'll give it to you for free.
+I won't take an accident away for it, but yeah.
+Yeah, yeah.
+Yeah, you're fine.
+19's probably fine.
+So I started running.
+I would have been laying on a bed, so.
+I'll probably get to just about I barely halfway there.
+Yeah, you'll get that.
+You'll be able to do something next time.
+It'll probably take you two more actions to get in there, but you'll better to do something next time.
+Okay.
+And now next up is Oku.
+Okay.
+I don't know what to add to an attack, to be honest.
+It's part of it, depending on what you've done, feel your character sheet.
+Your proficiency is just like your level, right? So your strength.
+Level con, because my thing is con.
+Is that the only stuff that you add? To like to hit something? Yeah, to hit something.
+I think it would be like your con plus your level, probably.
+Okay.
+Yeah, it's definitely my con.
+I just don't know if I what the proficienc is.
+So what Uku is going to do is he is going to first use channel elements, which basically taps my elemental gate and then like you start seeing vine start floating into the air, sort of like growing from the ground.
+And it's part of channel elements, I can use a one action elemental thing, which I will use elemental blast, which basically, it's like a blast of wood.
+But I also have weapon infusion, which allows me to, as a free action, to turn it into a weapon and apply a property.
+So I guess I need to first know how far away this enemy is from me.
+Well, they're over here.
+Where are you? I don't know.
+They're like they're like way over in the east bar.
+Dormory.
+So I don't even know that this is happening.
+You would have heard, from your room, you would have heard someone yell, but you've got to run there from your room.
+Okay, so I'll run there.
+So where is it again? I can't remember which room you took.
+I think you took this bottom one, maybe.
+Because I think you wanted to look over the guns.
+Yes, correct.
+So maybe you're in this one.
+So you could probably get to about where Laurie is.
+Do you want to just simplify that and say that you can basically get up to, like, right by Laurie's character.
+Where is Laurie's character? Basically running down the hole.
+You'll get there next round and be able to do something.
+Okay, I don't even know where I am on this map.
+You might not be.
+Oh, okay.
+Obviously, we're podcasting, so we don't want to be like talking about the map too much, but basically you your room and you're running down the hall.
+Trying to get to the bathroom.
+Okay, so I'm here.
+Is that is that where Laurie is? Yeah, you basically be right beside them, running to.
+So I can useer move action to move into the the room, right? Into.
+That's next round.
+You would spend all this round running to get to where Laurie is running from your room.
+Yeah.
+Yeah.
+Okay, that's fine.
+Yeah, because like, just because you weren't together, it's because it just happened in the dormitory.
+Okay.
+And then Liz, where did you..
+What room did you pick? I took the room opposite the block that Sk is reciting in, like on the opposite side of the hall, but still right next to Paul's character, who's.
+Yeah, I kind of pick one off to the side.
+The other three stayed together.
+So I think with your way you run, you'd actually be able to get to get in there.
+I've only got 25 feet.
+How big are these squares? Are they five feet? I think you can basically just get in there.
+With full sprints, you can just get into the bath and see what's going down, but you can't do anything else.
+All right, well, I will.
+Okay, thank you.
+And I'll do that perception check as well that you mentioned.
+You are close enough that you would have just heard it, be fair.
+Okay.
+So, yeah, well, I rolled a 14.
+And I see..
+My roomie being attacked by a paper.
+You have your own room..
+No, I said I said my roomie.
+I see my roomie.
+Yeah, it's not your.
+It's not your roomie.
+How dare she? Call me her roomy.
+I'm marrying separate dorm rooms.
+No one's ever done that before.
+Crazy.
+Oh, that's always the first.
+But yeah, I can't do anything much more this turn.
+So I'm done.
+Yeah, that would..
+Be murdered.
+But you guys will all be able to help fully next time.
+And we go straight back up to Paul.
+You have a slightly injured paper lizard and a not injured paper frog attacking.
+All right..
+Let me repeat this file.
+It works in terms of..
+Yeah, recall knowledge is a thing that I have to do that takes an action, right? So we're not going to take that action.
+We're not going to think about what's attacking me.
+Can I cast a telekinetic projectile at the one that's above me.
+The one that you already heard? Yeah, yeah, yeah, yeah, yeah.
+And use it to basically throw the the towel that I picked up back at it.
+I think you are technically still grabbing onto to this thing.
+But yeah, you can basically attack it with a telphony projectile, yeah.
+Do you take a penalty because it's ranged? We'll say say anything about that.
+Mark, that'll be a Pathfinder thing.
+I should know this.
+Well, I got many fix to hit, which I assume hits, but maybe it doesn't.
+26 to hit.
+Presuming that five damage.
+Five.
+That hits.
+Five damage.
+It's not looking good.
+And I will use my last action to go away.
+So I believe I can go on, two, three.
+Yes, they do not have an opportunity attack.
+Opportunity attack attacks are relatively...
+I wouldn't say rare in Pathfinder, but it's a boring.
+They're not ubiquitous.
+I think I'm the only one that might get one.
+Maybe Mba's character? No.
+Yeah..
+There'd be ways to spec into it for 100%, if you really wanted to get it, but it's not anoneget it thing.
+Yeah, I was under that impression.
+That's why I wouldn't have done that in the end day.
+Yeah, generally speaking, if it's not a trained warrior or something along that nature, you can generally get awake and it's not going to be too bad.
+Yeah, Ukku is just a farmer, so he does not have that.
+You're just level one.
+I change my.
+I'm there.
+Because the's already open, presumably, because you've gone through it.
+Yeah, yeah, yeah.
+Cool.
+So, that was your turn on their turn.
+The lizard is going to scamper over and hiss at Liz and then make a bite and get a 16 to hit.
+Let me give it a sec.
+It misseses.
+Okay.
+And it's going to try to attack again and that will definitely miss because I rolled only a seven and the penalty.
+Yep.
+The frog is going to hustle over towards you and also make two attacks.
+That is going to miss with an 11 total, and this one is a six total.
+So they both miss.
+Fair enough.
+Uh, yeah, that is the end of their turn.
+Next up, we have Lori.
+Yes.
+And I did realise just then I'd probably move further than I should have because I am slower than 30.
+I forgot about that.
+But I do have something that lets me dash a bit.
+So I cast Warp step, which pops my speed by five and lets me dash twice.
+So that would put me up to them.
+And then I'll get in the middle of them and just say, run back if you need to.
+And does my last action I cast shield.
+Okay.
+Sounds good.
+Next up we have.
+Ukku.
+Okay.
+So.
+So the moment the fight is basically happening in the doorway, with Finnick running out with a bunch of scratches bleeding, like not functionally bleeding, but you see a lot of blood.
+And and Leanna is not to hold them off in the doorway.
+You can sort of just see who are moving around.
+I'm assuming I can get to the doorway without with one move, right?.
+Which your speed? Probably only 25.
+Yeah.
+Normal, 25.
+So I think it would take two movements to get to them.
+Well, what if I just moved there? Um.
+Yeah, you can move to within, like, yeah, you can move to within, to see them with only one movement.
+Okay.
+Just remember that we are podcasting, so like, you think, what do I move there isn't good for a podcast.
+Right.
+Okay.
+It'd be a bit more descriptive.
+Sure..
+I moved to the edge of the door.
+Yeah.
+And that only requires one movement.
+So I will do what I was going to do last round, but couldn't because I was moving.
+Channel elements, vines start to grow from the ground.
+I use that same action to do an elemental blast.
+And I am going to, is the creature behind, what's her name? What's the.
+Leanna.
+Yeah, we' give them a little bit of a booster AC.
+Liana that is behind her.
+That's in within 20 feet, right? Yeah, absolutely.
+I's only 15 feet away.
+Okay, so..
+Range Enqument at 20 feet, so it becomes a dagger.
+So a wooden dagger gets thrown at the person at the creature at the same time as I channel my powers.
+That's the enginejured lizard? That's the injured lizard, correct? And because it is the throne, I believe I get my full strength modifier for that.
+Um Well, 16 plus my level, which is one, plus.
+Okay, cool.
+And then I believe it will be piercing damage.
+And what is the blast? It's 1 d 6, I believe, for wood.
+Yeah, no., 1 d 8, sorry.
+1 d 8.
+18? That seems like a lot of damage, but okay.
+It is.
+There'sger.
+Plus one, which is three.
+So I do three piercing damage to the creature.
+Yeah.
+So is that one action or two? That's one action.
+Okay, so you have one action left left.
+Yeah.
+I don't think..
+I'm going to armour up.
+So you see hardwood armour, like basically consume my body.
+Yeah, cool.
+It's just funny.
+No one, like, no one's done a knowledge check to see what these things are.
+Okay, you.
+It's not always important.
+I haven't have enough running.
+Okay, so that was Uu, and then it is Liano..
+I'm going to pull my dagger out of my pocket, and I'm going to try and attack the frog that tried to have a go at me before.
+Yep.
+And...
+Let's see if I'm successful.
+Let's see if you are.
+Okay, I'm sorry.
+There's a 24 hit.
+Yes.
+It's level one combat.
+One would hope there are 24 hits.
+Oh, I can always hope.
+I will not indicate once you're in later levels, because Pathfinder gets wacky, but.
+Yeah.
+And that will be...
+Damage isn't turning up on here, so I'll just try it again.
+1 d 4.
+And I get one damage on the frog on the paper frog.
+One damage.
+Yeah, no, there's no modifier.
+It's just a 1 D full damage for a dagger.
+Okay.
+I think Mimbo's the only one that will get modifiers.
+Yeah, You have two more.
+M I'm a ranged combatant, not a normally a melee one.
+You have two more actions if you would like to use them.
+I'm going to try and hit it again.
+Okay, so you take a minus five penalty every time you try to attack a second time.
+Okay.
+And remember, recall actions or recall knowledge is always a good thing to do, especially if you've got an in-based character.
+Actually, I think I'll give that a go.
+When it hurt.
+But then I won't be able to tell the others.
+Knowledge of Arkana would probably be the best.
+Do you have knowledge of Arkana? I have academia law.
+Yeah, I will give it to you for academia laws.
+Okay.
+So that's a 1 D 20 plus 7.
+So 6 plus 713.
+You know exactly? You think this is a spell spell scheme.
+Basically just like scraps of fabric and paper that become magical little constructs.
+You don't really know much other than that because you didn't roll very well.
+It's better than I expected.
+No, but fair enough.
+At least I've got a bit of an understanding on what I'm dealing with here.
+And..
+I think that's my turn done.
+Yeah, two attacks and the thing, yeah.
+Or did you make a second attack? No, I decided to do the the academia law check to see what these.
+So you still have one action left, then, if that's the case? Oh, okay.
+One more action.
+So let's try and hit this little bugger again.
+9 plus five is 16..
+Do you take the minus 5 penalty? So, yeah, minus that five, that is nine hit.
+No, is exactly 9 is not hit.
+Multi-att attacking path binder to where, you take a minus five penalty every time.
+Yeah, no, that's cool.
+Yeah, I just didn't realise, oh, yeah, this is a plus five for the hit and then you're minus the five, so it's all good.
+Sweet.
+What I I' understood from it nine times out of 10, it's usually not worth doing a multi-attack.
+Most of the time, unless it's something really easy to hit.
+Yeah.
+Like a paper construct.
+Or sometimes there are benefits.
+Some classes are better at multi-attack than others.
+Get less of a penalty.
+But we're back the top, we're Finnic.
+Yep.
+Okay.
+These things don't seem like they're super tanky, so I feel like they're most most of the way gone already.
+So I'm not going to do something for the long term.
+So what I'm going to do is cost electric arc targeting most of the paper things, which is a reflex save.
+Yeah.
+What is your DC? What is my DC.
+It's a great question.
+A plus four, what we' doing.
+Wait, let's this go? Probably, 17.
+It's the number.
+First one, passes.
+The first one fails.
+Second one passes.
+The way I did that was, the second one is the most centred one.
+So roll your damage.
+Six damage.
+Six damage.
+One, the lizard is very badly hurt.
+And the frog doesn't look good..
+Okay, so that was your turn.
+It is now there.
+That's my whole turn.
+That's one action.
+I mean, it's two act.
+The whole time.
+Okay.
+One more action.
+What would I to do? Run away.
+See, there's the thing I want to do for the story is the thing that that is maybe helpful to make us not die.
+But we're we're going to.
+I'm going to recall knowledge about this right now.
+Akana would be best, I would say.
+In a sense, hope that I fail, but we will run how it works.
+Let me see.
+Let's rolling.
+Go.
+Plus zero for that.
+Oh, you have to be trained.
+What are you trained in? Deception, diplomacy, intimidation? Oh, I have law on here.
+That's a thing.
+What law? Nambu.
+Probably not.
+Anyway, I rolled a four, so..
+No, but you don't know what they are.
+So, with that in mind, I have the dubious knowledge feat, which means that I should get the correct answer and an incorrect answer that I don't know what's what.
+So I know something, but it is like I felt either the right or the wrong idea.
+That That's an awesome and shit feed at the same time.
+So..
+Okay..
+I told you about this beforehand.
+Yeah.
+Yeah, yeah, I'm just I have to think.
+I can't pre-plan this stuff.
+Yeah, yeah, yeah, yeah, yeah.
+So you think that you think that it's actually alive and and it's like but it's a shape shifter.
+Or? No, just like, you think it's a alive.
+You think it's an alive thing.
+You don't think it's a construct.
+No, no, but I've got, I learned two things.
+So the basic idea is I've got deepvious knowledge is like, I've been gossiping with people, but I've got multiple ideas about what it is.
+So I get the true answer and an erroneous answer.
+So one of those is right.
+One is it's an alive creature, like it's an animal or some sort of beast or monstrosity or something.
+And it's a shapeshifter.
+Or it's a shapeshift.
+Or it's a shapeshifter.
+So one of those is false and one of them is true.
+Okay.
+So it's either, so I've heard, let me, let me do this for recording.
+So what I've heard is that it's I've heard that it's it's a living creature, but maybe it's also a shapesifter.
+I'm not so it's.
+Thank you.
+It is there.
+This is what I think.
+Nice.
+Hey, it is their turn.
+The lizard..
+It will again do do its lizard frill and try to bite Liz.
+I guess in that one, at which point it will tie to run away.
+Do you have an opportunity attack yet, Laurie? No, no.
+That's levels away.
+It doesn't get away fully, though.
+It's just started to runaway.
+The lizard see that's Bud right run away, I mean the frog and is going to still try to bite Liz and after 12.
+And then it will hop away towards the water.
+And that is their turn.
+And then we move to Skrin.
+Yes, that make sense, but you've ruined my turn.
+God, I's going to use all my shit.
+No, I'm going to just go after the frog., I mean, why not? And then I'm going to.
+I know we could probably let them go, but I really want to try to attack something.
+So I'm going to try to.
+Oh, I'm going to use.
+Oh, what's it called? Spell strike.
+So I'll do an attack roll.
+14.
+Sorry, I should probably announce which spell I'm doing it with before I do anything.
+So I'm doing a spell strike with Gouging Claw.
+Okay.
+And so...
+14 doesn't hit, unfortunately.
+Okay.
+Then that's a miss.
+Then that's me, because that's two actions.
+Okay.
+Kuku.
+Next up is Uku.
+Ah, yes.
+Uku will...
+So each of these squares is 10 feet, right? No, it's five.
+It's five, I hope.
+Oh, okay.
+And so diagonals are five as well or not? It's part five under rule, so every second one is 10.
+Oh, every second one's 10.
+So the first one is five.
+Yeah.
+One, two, three, four.
+So you run up to the frog that Lrie's going for? Yep.
+And then.
+I am going to attempt to whack it.
+That hits, I think.
+You've got 17 on the dice.
+Okay.
+So I will roll 28.
+Oh, crap, I' also bad one.
+So two.
+Two damage.
+Yeah.
+Adjal makes my second attack a little less likely to hit, right? I'm not sure about that.
+Adile prey, you mean? Yes, the correct.
+Yeah, yeah.
+It's minus four instead of five.
+Okay, so my weapon created from my elemental energies is agile.
+Well, I can apply traits to it, so it's agile.
+I'm going to take another whack at it.
+So 4 plus.
+So 16, 17, 17 minus 4 is 13.
+Not going to hit.
+Okay.
+Not too far off, but it will not hit.
+Unfortunately.
+That's why.
+Okay, then we move to Liana.
+I'm going to try and get the rack construct.
+I'm going to throw my dagger at it.
+There's no rat.
+There's a lizard and a frog.
+Lizard, sorry.
+I don't know why I'ag a rat.
+Attack H.
+Oh, no, sorry.
+The paper..
+Oh, yeah.
+Leanna's having a moment.
+It's the first day and she's a little stressed.
+So, they're at the dagger at the people construct that isn't the frog and as it's 17 hit.
+Yeah, that hits.
+Fantastic.
+And then.
+I will see if I can cause some damage for it.
+Oh, that did not work.
+I don't need to because it's got one hit point left.
+It dies.
+Fantastic.
+Give me a perception check, though.
+Oh, perception check.
+That's plus five.
+So 12 plus five, 17.
+You see a tiny little scrap of paper that got torn off by your strike runaway from the from it.
+Interesting.
+Okay.
+And that was your first action? My next thing I'm going to do is I'm going to go into the room and collect my dagger.
+Okay, that's two actions.
+Move and pick up.
+Yep.
+That's my tun.
+Cynic.
+Okay.
+This turn probably pretty similar to the last one.
+But I will finally, at the exact right moment to do it, and not a terrible moment to do it, I will cast create this anthem, which, going forward, will give everyone a plus one status bonus it attack rolls, damage rolls, and safes against Spear.
+So I'll just infuse with my magic, the hear the words.
+Hey, we're halfway down.
+There's just one of these dudes left.
+We've got this, guys.
+And then I will cost Electric Arc again.
+So.
+Rlex save for me.
+Reflex save again.
+DC now or let me check what that did.
+I succeed, but I still take half damage.
+Because I didn'trit succeed.
+Cool.
+Because it's a basic reflex save.
+I think I've got this right.
+I rolled eight, which means you take a four.
+Yes.
+Or it takes four, but.
+So I see the electric arc out at the remaining frog for four damage.
+Yeah.
+Cool.
+So on its turn, after you, it moves, runs away, runs away, and attemptss to hide and getting a pretty good role.
+So you're get sort of dancing into a crack and like dis disappears, you'll have to try to see if you can find it.
+Okay.
+Next up is Skrin.
+So, has this commotion brought anyone else over or are we like the only ones who get on? I's said at this point there are probably a few people looking around like, what's going on.
+It running in there, I don't think it's much of a dangerous to us at the moment.
+So I would probably approach the door and just poke my head out and go, oh, there's some weird ass people animals in here.
+Should we care about these? Who's.
+Let's say the Essie is there and she says, uh Probably probably not.
+That's weird.
+I wonder what's that theo.
+Huh.
+Probably not a big deal.
+Then, like pointed.
+Yeah.
+They did big deal.
+It felt like a pretty big deal to me.
+Where did you find them? In the.
+In the bathroom.
+They were on the the towels.
+Well, that piles of abandoned laundry.
+Yeah, someone needed to tidy up.
+Yeah.
+I don't know.
+I didn't know they were there.
+Maybe..
+Maybe if they they probably just didn't recognise you or if they were there, they weren't put threat for us unless they just got the here.
+So.
+Oh, God knows how long that laundry's been left there.
+It's been piling up a little bit.
+Yeah.
+Do you need some healing? I would appreciate it.
+Let me see whether SE can heal.
+We've got to check a different section of the numbers.
+I from an apple.
+Are they like an unlimited Apple resource? Yeah, pretty much.
+Uku can make as many apples as he wants.
+I accept the apple I did, and I.
+Thank you, thank you for the apple.
+One D 4 like this HP.
+One d 4 plus one Here we go.
+Let's roll the d 4.
+Let's do it on here.
+I can give you one every 10 minutes because it doesn't use it's not useful after 10 minutes.
+It's not useful within the 10 minutes to give me.
+Cool.
+Well, I'm back up on nine healths then.
+Is that for help for you? Yeah, yeah, yeah.
+Oh, okay.
+Well, cool.
+I think it's probably best if Everyone just gets a good rest tonight and make sure you well prepared for your trials tomorrow.
+I hope they don't mind the smell.
+When I go.
+Because I'm not going to be showering to be bathing tonight.
+When I go to pick up my dagger, I see the dirty clothes and I see a pair of dirty dundies and I say to everyone, I'm going to be using the other bathroom to freshen up for now on.'s going to be bathinging in his wooden plate mail.
+Wooden plate.
+This is just going to get into the bath, but he's like a fully armed armoured person.
+I mean, look, I don't want to deal with the laundry either, but if any of you wants to deal with that laundry, it would be doing us all a favour.
+What's a favour? Well, I earn anything from it? I don't have anything to give you.
+Just.
+Yeah, I don't know.
+That laundry almost dealt with me, so I'm happy to let it lie.
+Okay.
+Well, I go to use the other washroom, wash my face and patty up and go back to my dorm room and get to bed, eager to stand on on the childhood tomorrow.
+Yeah, and I just retire back to my room and go to bed immediately.
+Okay.
+You all retire? Well, I actually haven't heard from Laurie.
+What does screen do? Oh, yeah, he would have just been walking back to his room already.
+That's over.
+I'm not going to go wash up.
+I'm fine.
+You're a r rat.
+Rats? Oh, wait.
+I'm not going to say that.
+That's being sexist about rats.
+Or racist about rats.
+Sorry.
+Okay, so you guys all go to bed and you wake up the next morning and you're basically have been told to meet at the front or you meet something like meet at someone outside.
+And in the morning, you see Abram, who calls that, ah, the green shoots blossom in the rain.
+The well-muscled and clean-shaven dwarf man calls out with a smile.
+If you gives a friendly wave as coming out, SE is coming out and says, it was meant to be me and Root, meaning you, but I guess not.
+As he says, I swapped with anchor Root, brushing to the point aside.
+Before addressing the new students.
+Over the next five days, you'll be helping, as we said, you'll be helping each of the schools' five branches.
+Abraham and Ankor root seek to join the rain scribes, which is the branch that explores the world and helps other travellers make their way through uncertain territories.
+That means rain scribes have to work well with both nature and people.
+Abraham continues.
+We can use your help.
+The cafesi market won't deal with anyone they know is part of the Mambia.
+So since you're new, you should be able to get in without a problem.
+You'll be looking for chickens.
+Did you know there's such a thing as endangered chickens? Of course, any chicken that comes too close to me is endangered.
+Abraham grins.
+A farmer outside of Nantambu, Basola, said her family used to keep Ojafuri chickens, Said they could actually anything, even a dragon's egg.
+I don't know about that, but she wants to rage Ojafuri again, so we're going to get us some.
+Ojo eggs aren't very hardy, and the birds aren't very good layers, and they mostly got put in soup, and now there's hardly any left.
+What we caught wind that some at Ci Market has a few chicks.
+Go and bring back some.
+All right, and bring bring back these of Fury chicken eggs? Yeah, chicks or eggs.
+Chicks or eggs, chicks.
+Okay.
+Yeah.
+Yeah, hard to find.
+Can be a bit fragile sometimes.
+How's the soup? I wouldn't know, personally.
+Essie says, uh, yeah, uh, the soup is irrelevant.
+We'll need four four to get.
+I We'll hopefully ensure that we have at least one male and one female.
+The more the better, though, as many as you can get.
+I've got 20 gold that I can give you to go.
+That should be more than enough.
+But you'll have to go find the Kaisi, which is a wandering bazaar.
+You'll have to find where it is.
+We're not 100% sure where it is today.
+And And then you'll have to find the seller.
+Right.
+And how do we identifying, how do we know we're not just getting a normal chick? That is a good question.
+Hey, Brham.
+Yes.
+The Ojafri chickens, they're small fowl with white faces, dark blue feathers, and lavender combs.
+The chicks should have dark blue feathers with a white underbelly.
+Dark blue feathers, white.
+Got it.
+Be careful at the market.
+Some of those sellers will sell you your mom if they could.
+So don't trust don't trust everyone.
+I mean, if my mom was for sale, I'd want to buy her back.
+That's true.
+Again, it's ir relevant.
+It's irrelevant.
+Hey, Brham, don't put weird ideas into their minds.
+Just go get the chicks.
+Has something happened to my mom? Your mum is fine as far as I know, no one has told us anything.
+If we hear of anything, we'll let you know.
+Like if she's for a cent, I'll pay any price.
+Hey, bro, it's all right.
+I won't let him buy anyone's mothers.
+All right.
+So, any more questions? No? Fine, market, fine, Bender, get chickens, come back.
+Let's See you to my mom.
+We'll see you at dinner no questions.
+We'll see you at dinner then.
+Yes, we' we'll see you at dinner or before if you can get back back earlier.
+Okay, see you then.
+All right, so trial one has begun.
+What would you do you would you want to do? How do you want to go about it? Anyone know what town is? Town is just off to the side.
+Yeah, you know what town is.
+You just don't know where the market is specifically.
+Marketing.
+I guess, I mean, the first thing for us to do is it's not particularly interesting, but we should probably all recall whether we know these things.
+So I will..
+It's from moving.
+The market moves from different market.
+You've got to figure out where it is today.
+What the heck? Okay.
+It's a wandering bizarre.
+Could I do a recall knowledge to see if I would know anything about the routine of the travelling farm farmyard? Are you from Dantamboo? I mean, I can recall Zantambbe well.
+Yeah, I would give you a bonus.
+There are locations you could check.
+Okay.
+So I'll just do a typical law check.
+I don't think he was talking to you.
+Oh, sorry I was appalled to do that.
+So I'm saying you're not from Nowntampoo, so like you're you don't really have you're really sure.
+Well, in that case, my Nintambu law has given me a role of 18.
+18.
+You know, like the sort of dozen locations that it's likely to be.
+If you were to just start walking to one, you might get lucky.
+Like there's's one not too far away, like half an hour away.
+It might be there, but if you would have walked to all of them, it would take you four, five, six hours.
+Right, right.
+That't Is this market quite large? It's a large-ish.
+I could get a vantage point, could we spot it? Be a bit trick tricky.
+Maybe.
+Yeah, laugh.
+Well, do you think any of the other students might know where this is today? What this market is? I mean, we can start walking, ask anyone we see on the way.
+Yeah.
+Yeah, okay.
+So if you're just going to start walking around heading out of the Magambia campus into San Antambu.
+And you're just going to ask someone? What do you, you just see someone on the street? Yeah, I'll be, yeah, I' first person I say, I'll just be like, hey, you know who the markets are? Yeah, all right.
+Give me a diponacy check.
+Four.
+Uh, no.
+Sorry.
+I'm home for work and they camamper off.
+You were lucky to get that, actually.
+Would anyone else like to try? I'll give give it a go.
+It is, anyone else just looking around? Let's see.
+Where would we Is there somewhere where people would be gathering aside from maybe the dining hall?.
+Not necessarily.
+Like..
+There's not like full classes in session right now that you're aware of.
+Doesn't happen to be a newspaper that the town puts out, is there? You don't think so.
+I haven't heard of one.
+Hey, would anyone else like to try a diplomacy check? I mean, I'd like to head over to the dining hall, perhaps to find someone who's around.
+And have a look at the dining hall and read the air to see if I can figure out someone who looks like they would have experience with this sort of thing.
+Okay, give me a perception check.
+Read the air with a spell.
+Really? Yeah.
+Okay.
+I will read it to you.
+You take a deep breath as you survey a social situation.
+Throwing kind of see all it is around you.
+Intuition swiftly picks up up clues about social context on the spoken assumptions of behaviour.
+Blah, blah, blah, blah.
+As part of passing this action, you can recall knowledge using society to gain information about the immediate social situation.
+You also gain a plus one status bonus on your next diplomacy check to make an impression on those creatures when you cast the spell so long as the check occurs within the next minute.
+Blah, blah, blah, blah, blah.
+Okay.
+So you need to do a society check.
+Yes, yeah, I will recall a society.
+Recall knowledge society.
+Here we go.
+I got a 17 for that society check.
+Okay.
+Yeah, you see, there's a couple of people doing deliveries into the dining hall, like at the back.
+All right.
+Well, I will walk over to them and let's one sec.
+I will start talking right now so that I can say something coherent when I figure out the exact phrasing that it's supposed to go with.
+Oh, you got any of them chickens? All right.
+So I'll go over to them, and I'm gonna say hey, you guys look really busy.
+Do you know what would be great? I think what would make your day is if I was to give you a bit of a soundtrack while you're working.
+And that's why I'm going to use performance to make an impression on them, because that's what bards do.
+Okay.
+So..
+I bring out my lute and give them a little soundtrack, and that gives a performance of 20, which I can use to make an impression on them.
+And then after I do that.
+Based on however they feel it, how do you? Yeah.
+Right on little do.
+That's a good dreamoove.
+What was your name again, little guy? My name is Finnick.
+Phinnick Bristle.
+Oh, yeah.
+Right on, right on.
+I love the groove.
+Oh, thanks.
+You know, I love it right here, but I was thinking, I was really looking for some suppliies myself for the school year.
+And I heard that there was like a market going on around here.
+Do you know anything about where I would find? I think it's called it at the Kafi markets? The markets, the markets.
+Where is the market today? It's west, somewhere west.
+I know that much.
+I can't remember how far up west all would go exactly it is, but it's definitely go headwest and you'll find it out there somewhere.
+All right.
+Headwest.
+I know it's close enough that we would see it within the day, right? Yeah., yeah, yeah.
+You'll get there.
+I just, I'm not exactly.
+I can't remember where west..
+But it's in one of the western spots.
+Well, thank you.
+Thank you so much for your assistance.
+You're doing a great job there.
+And with that, I will head back to where other people are..
+So you know what would take you about half an hour to get to like far west of the city, like and then like an hour to get like to basically the full the very edge western edge of the N Nantambu.
+Yep.
+So that gives you a direction to go out there.
+It is raining pretty bad today.
+How dare it be? It's just water.
+Yeah, so I'll gather up with the other people and let them know what just occurred there, if we want to go west or if we want to try and figure out some more information beforehand.
+What do you guys think? Well, from the other spot do you remembered, like, are they kind of setting out like almost like a clock, I suppose you could save the 12? Sometimes it's a bit more inside, you know, but normally it is more more of the outskirts.
+So like there are like three or four spots.
+You could you're sure it's one of those three or four? Yeah, so I guess I tell them that, like, he I don't know exactly where it is, but it's one of these few.
+It shouldn't take too long to check each of them.
+And maybe we get lucky.
+I'm pretty keen to check out the city no matter, so I'm happy to just go for one and see how we go.
+All right, then.
+If there's no objections, then let's go west.
+It's peaceful there.
+Great, you start heading west at a decent little pace.
+And yeah, so give me a perception check unless you're going to ask more people stuff.
+I saw how awesomely social I am before.
+I'm just going to keep looking around for shit.
+I'll do our perception right now.
+Not too great.
+I'll have a another ask around as we walk with the inquiry in mind.
+So.
+Plus five to that.
+Okay.
+So with your tem perception, like your sort of, you head to one of the locations of the markets and like, it's not this one.
+Liz, you find someone and you start talking to them.
+What do you say? We're looking for some chickens.
+We' a blue chicken..
+Chickens? What kind of chickens do you look at? I've got chickens.
+Just normal chickens? I can find you chickens.
+What do you need? More of a bluebreasted chicken.
+A A blue breasted chicken.
+They sound a bit rare.
+What kind of chicken are you talking about? I don't know much about these chickens.
+I haven't had many encounters with them, but we need to get 20 of them.
+20? You need 20 chickens.
+That's a lot of chickens.
+They like if they're ready, 20.
+Well, do you know someone who could get us a number of chickens? Look, the best person I know for rare chickens is someone called Mina.
+They find them in the market.
+The markets, they're just over there.
+They're about just another half hour walk that way, a bit north.
+Thank you, thank you so kindly.
+I had him an apple.
+Just asking for another time type of chicken.
+You wouldn't know any good crispy varieties.
+Oh, you find, I mean, crispy, I've got some good fried chicken, if that's what you're looking for.
+I mostly deal with like the dead chicken.
+Oh, yeah, that's exactly what I'm looking for.
+Best going around.
+Three silver a piece.
+But it's it's like big pieces.
+Oh, you drive a tough bargain, but that looks bloody delicious.
+I hand over three silver.
+It's like it's a big bit of it's like a big, it's like a Maryland.
+Oh, I got lunch.
+Let's go find the other chickens.
+Yes, let's go.
+Okay, so you guys head over.
+You spent about 15 minutes faffing about around the dining hall, half an hour getting to this location, another half hour.
+So you spent about an hour and 15 minutes.
+Maybe an hour and a half by the time that you find McDonald McKena.
+Point once you have a name, because you found someone who happened to know about this particular chicken salesperson? Yes.
+Okay.
+So we found the McCainer? McKain.
+MAK ENA.
+Oh, McK McKen.
+And you see a stern faced looking woman, shaved, bald head, huge hoop earrings through her ears.
+She says, what's you looking for? You looking for chickens? Ah, well, I Up here.
+Oh, youugo.
+I think you're more charming than me.
+All right.
+Well, then I say, well, yeah, we are looking for some chickens, and I've heard that you've got some of the best in the lance.
+So I think I'm speaking to the right person.
+I reckon, sir.
+You were talking the right right person.
+Just one second, let's got to go deal with this customer.
+They walk over around the customer, you want chickens? OG Fury? Okay, yeah, My hands, to a customer.
+Okay.
+Okay.
+I mean, at that point, I'm like, do I see that they're the urge of fury chickens, right? You look around and she seems to have six chickens that look like the match of the description you were given.
+Okay.
+Well, noticing that, I guess I just say..
+Yeah, and I'm looking for those Ojja F.
+Are those the Ojja Fury chickens back there? Ah, good eye, my friend.
+Good day.
+Yes, I am the only one in town that you'll find selling them today.
+I have six left.
+Ah, six left.
+Well, what would it take for you to part with those? Four gold each friend.
+Four gold each.
+Well, we have 20 gold.
+They'll get you five.
+And I'll have one more yourself.
+I forget the exact way to do this in this mechanism, but I will try to persuade.
+It's this dipomacy, not persuading, but I will ask I will make a request or rebulk discount.
+I will ask, hey, like if I if we take them all off your hands, you're going to have the whole rest of your day to be focussing on, you, seeing the sights, all of those things.
+So maybe maybe if we give you the 20 gold, you could give a six.
+What do you think? Yeah, give me a diplomacy check.
+Yeah, yeah, yeah.
+Well, I may have rolled a that too, but that becomes a nine.
+I rolled a nine.
+I can't really I can't really move from the four, sorry.
+No.
+Going to be four gold each, I think.
+Um But look, you've only got 20 gold.
+I see another customer over here, and he usually likes to take an urger fury when I have them.
+So there'll only be five left in a second anyway.
+Can I assist in trying to obtain all of these chickens that we need? Well, does anyone have mercantile law? Yeah, sure.
+I'll just whip that out of my arse.
+Well, it's easier to distin with mercantile.
+What about farming law? I feel like bargaining for chickens would be a thing a farmer does.
+Does one look like a rt? All right, I'll let you, because I'm encouraged.
+It says several times throughout this book to like encourage you guys to come up with alternative solutions.
+So give me a farming law roll.
+Can you do the role? I'm just away from my computer right now.
+Sure.
+What do I get on the dice? I get a 13.
+What's your plus? Do you know? I feel like intelligence plus proficiency.
+I think it's a plus three or plus four, basically.
+Okay, like 17.
+Okay, so that's I will say that that's a success.
+What do you say? That one is a runt.
+I suppose it's a bit of a runt.
+Twenty gold, you say.
+Twenty gold.
+All right.
+All right.
+20 gold.
+I'll give you.
+I'll give you all six.
+To be honest, I was going to.
+Yeah, I can spare that.
+I think my customer can can deal with that for a day.
+And next time I get a batch of Ver F is old, give him a good price.
+Okay.
+Okay, I'm sure you are.
+20 gold, five chicks..
+6, six, six, sixs.
+Nice try.
+Will there be anything else? What's the best way to carry six chickens? Is anyone here trained in nature? Yes.
+Good.
+Potent.
+You are trained in nature.
+I am trained in mat.
+I am trained in nature.
+Okay, so you look them up and look at these baby chicks and you notice with that, but the question goes to us, like, you notice, they need to be kept warm on the long and there's you had a long, wet walk here.
+And I hear that there sounds this conversation, so.
+Can I do a recall knowledge under nature to command the chicks to stay close to my chest so they can keep warm so they don't get wet?.
+It's not really how nature works.
+Well, command is animal, is it rather than refall knowledge.
+Yeah.
+Okay.
+Sure, give me a nature check.
+Okay.
+Hopefully I roll decent.
+Is anyone, like, assisting on this? Well, I was going to ask, like, since I can hear animals talking, are they saying anything of interest to this? Keep warm.
+This is warm with a 19 with a 24 an ag check.
+He's like, yeah, okay.
+And you like snuggle them up like into your jacket and they sort of quiet down.
+It's a bit precarious with six chicks in your coat, but you can manage it.
+Oh.
+Go for the team..
+Yeah.
+So you have the six chicks.
+It's taken you about two hours to achieve this.
+Anything else you want to do? The market is there are quite a few shops here.
+There's a lot of items available..
+Does anyone go shopping or do you guys just..
+I'd like to go shopping, but I'm carrying six chicks.
+I don't know if I can carry anything else.
+I think it would probably be best if we head back, but I mean, if we've got free time in the rest of the day, it might be fun to come back here.
+Yeah.
+It wasn't too virably.
+Yeah, McKanna says, yeah, I would get them somewhere warm as quick as you can, to be honest.
+And then we'll be here for the next least six hours.
+Yeah.
+I think.
+If they start complaining about the cold, let me know.
+I can make a flame.
+Yeah.
+Was that I guess I say, well, thank you, McCain.
+Hopefully, we can do this again sometime.
+Bye.
+Of course, I'll be here.
+Or one of the other 12 locations of this markus.
+It keeps things interesting.
+It's like a.
+Sorry, You just reminded me.
+Is there like a pattern to that or are we just supposed to be like.
+Berries? How So you guys just turn up? Kind of.
+It kind of varies based on like sporting events and other big events, tax days, various things.
+Is it a down steady well? Sometimes.
+Sometimes it's not.
+How do you know where it is every day? I get up really early in the morning.
+I don't leave her at all.
+Anyway, best get them chickens home.
+We're just not cool enough to know where the markets go.
+Definitely not.
+Maybe we should make our own markets.
+Yeah.
+Yeah, we'll call it the better markets or something.
+Yeah.
+Hey, McKan, do you want to own the better markets?, I like it here.
+It keeps things interesting, I said.
+Yeah, maybe tomorrow we'll have the better markets here.
+But it's just.
+It's just an idea..
+We'll regroup on this.
+Thank you, thank you, thank you.
+I thank Manna for the in regards to transaction and I encourage our farmer friend to leave an apple.
+I do.
+I give her an apple.
+Oh, yeah, sure.
+Thanks.
+But let's get get back to meat chickens and we eat geese.
+It's very delicious.
+The apple.
+I'm sure it is.
+Apple a day, as they say.
+Indeed.
+Well, let's head east then.
+Yeah, it takes you just like now that you know where to go, it's only a half hour walk to get back.
+And all in all, it's taking you a bit under three hours since getting the taskus and you arrive back to the Megambia campus with six healthy Ojafuri chickens and you eventually you would find Abham says, oh, you're back early.
+Do you had a successful day there? Or you need some directions? We've achieved the task.
+It'd be good if you gave us directions of where to put the chickens.
+Yeah, I think we'll take them over to we'll put them over here for now, give them somewhere warm, and just somewhereormaging.
+We've got anchor Root to come have a look and make sure they are the real deal.
+Otherwise, you'll have to go go back, get the real proper ones.
+Anchor Root, where are you? And you see a a small dog, like, they are why don't you give me a nature check? What's a sign? I think we said mine was among the better? 21 is very wrong.
+You recognise this person They are an ant knoll.
+They are three feet tall.
+They resemble an odd wolf.
+Remember like sort of like a friendly looking wolf kind of thing? Yeah.
+And they says, oh, hello there.
+You're the new student.
+Hi, I'm Anchorut.
+Did you get the chickens? Oh, thank.
+Yes, we did.
+Well, we hope so.
+There's a view that that look a little bit like Ojafuri, but I'm I'm sure you got the right thing.
+Can I see them? I open up my cloak and then you see all six chickens.
+Oh, you did well.
+You did very well keeping them warm.
+That's I see one, two, three, four, five, six.
+You did a very good job.
+I'll, I'll make sure that I keep them warm until we get them delivered when she bundles them up and scampers off with all six chicks.
+Oh, I guess that's task is complete.
+Yeah.
+Yeah.
+He just hop around, do whatever today? Yeah, we don't have anything else for the rest of the day.
+Feel free to take this spare time as you like.
+You don't need us to pick you up anything from the markets? I'm fine.
+You'd be welcome to ask the other students around if you want to see if anyone needs anything or maybe someone else wants to go with you.
+But.
+For right now, I'm good.
+Well, then, let's head back to the markets.
+If there's anyone I recognise from like our introductions and stuff, I'll ask them, but probably not anyone new.
+Yeah.
+Look, I think we'll call it there.
+We'll call the episode there.
+Yeah, I feel like that was a pretty one-one in theground scheme.
+So we got a bit covered.
+Yeah.
+Yeah.
+Cool.
+And I think we'll just do the one for tonight.
+We're still well progressed.
+I think if we're going to record a second one, we're going to be here pretty late.
+And I don't want to do that to people.
+Yeah, my heart drive is in the middle of dying, so I've kind of unbooked and not using it.
+So it should be fine.
+Like, it still boots up, but it just stops working after about a few hours.
+So I've not using it until I get another hard drive to copy the shit off because that's got all the backups and shit of the other stuff.
+Yeah, yeah.
+Fair enough.
+So that does include the last episode because I didn't upload that, I realised.
+Cool.
+I ended up uploading that one.
+Yeah.
+Yeah, hopefully you enjoyed all that.
+I'm glad we did get to a little combat.
+That combat could have happened last session, that I was trying to think of a sheep like, which bath do you go to? Yeah, I had a dealing that was probably what you mentioned.
+Because you said that there was a chance we could have had a combat.
+Yeah.
+I wish I had done my recall knowledge beforehand either to know what it is or to justify why I didn't care.
+Beforehand as opposed to retroactively.
+But Got to remember what you can do in this game.
+Yeah.
+Just a note, I think it'd be a good idea if people make sure that they read out what they roll.
+Yes.
+I did notice a few people forgot to do that.
+And I mean, it's.
+I think Phil ended up realising that and saying what they rolled.
+But yeah, just make sure you say what number.
+I think, and I think I, yeah, we also just have to be careful that when we're.
+Battle maps, great.
+I'm happy to use the battle maps, but we can't refer to the battle map, but we've got to describe what we're doing.
+Yeah.
+Because otherwise, it's a tough one.
+I think I'll probably try to avoid battle maps most of the time because I don't think they enhance what we're doing.
+It does simplify.
+I don't know.
+I honestly think it does enhance what we're doing, but we've just got to be..
+Yeah, just because of how picky positioning can be in these kind of games.
+Yeah.
+I think that we just have to be on top of saying, like, look, instead of just going, I move here, it's like, oh, I' move past the door and go next to the chair in the middle of the room and do this.
+Yeah.
+Yeah, I think the cool thing, regardless of whether there's a map or not is to give a clear description of what your turn is after you've decided what it is.
+I think we can work together and we're learning.
+Right? Like, I think we can help cover each other.
+And if like if you want to be like, oh, like, if you think there's a cool thing, you can help enhance what they're doing, do it.
+I think that's cool.
+We can support each other.
+Yeah.
+I'm just sad that I still haven't hit something this f track.
+I made the first kill in the game.
+You could have done a link and killed those chickens, but you chose not to.
+And a link doesn't kill chickens.
+He just throws them around.
+Who kills chickens? Is that the? I was like, there was no paper chicken, but then I realised, what you're talking about.
+Already.
+I'm happy because I got to eat some crispy chicken.
+I've got to play a song.
+Well done.
+Yeah, that's an interesting spell.
+I was looking that up when you after you mentioned it, the Read the Air kind of thing.
+Yeah, yeah, yeah.
+I'm guessing there's a lot more social spells in Pfinder.
+I believe so, yeah.
+And like not even spells, but like actions as well.
+Oh, yeah.
+And there's sociable things you can do in combat.
+Like you can are you going to get stuff like Von M and stuff like that? Yes.
+Oh, Bonon M.
+It's fun.
+That stuff is good.
+Like, you basically you're doing diplomacy checks to insult people, to weaken themselves for like will saves.
+Yeah.
+For the commanded animal, I think it's fine what we use it for there, but I don't think that's what it's intended for.
+Commanding an animal, I think that's more to do with like riding a horse or.
+No, but it's kind of like, she rolled really good on that nature.
+Yeah, yeah.
+You can understand it.
+And then it was a combination of, well, literally, Finnick is talking to them with his leg.
+And that's the thing ns do, right? They just talk to small animals.
+Not all of them, but a lot of them.
+They have a small animal of them.
+Are you going to get a familiar at some point? Paul? I don't think so.
+Maybe.
+I haven't..'t thought about it that far ahead.
+Not a classic bar thing to do.
+I am actually tempted to get a rapat familiar.
+Well, I was at the start, but I ended up going something different.
+You could get a turtle.
+Turtle.
+But I' you enjoyed that.
+Like, I feel like there's I feel like there's moments where we could roleplay a bit more.
+I'm still figuring out who these characters are are a little bit.
+Like, and there's a lot of NPCs and, like, probably already fucked up a little bit of them, but like, whatever.
+They'll be our versions of them.
+Yeah, yeah.
+Like if I'm not.
+Sorry? I mean, I'm going back to what was said before, but yeah, this commanded animal life, like, as written, it feels very easy to command an animal.
+Like, it says most animals know drop their own leaks, leap, seek, stand, straight, and strike.
+I'm like, why would you be able to do that with most animals? Yeah, well, that's why I was kind of thinking it's probably more to do with trained animals.
+Yeah, and chicks and not.
+It almost explicitly says no to that, though.
+Like, it also says, like, different animal nose and activity, such as a horses gallop, you can come on the animal.
+Anyway.
+But that was specifically a thing where it just said, like, you just, these things are going to, like, if you don't do the nature check, one or two of these things are going to die.
+Yeah, yeah, yeah, yeah, yeah.
+But then you got a 24 and the E check.
+So it wasn't necessarily, you knew that they needed to be, you just, you knew they needed to be capable and you were able to do that.
+Yeah.
+I think no matter what, people would have been fine between us all, because I was almost just going to dump out whatever I had in my bag and just put them in there.
+Yeah.
+I was going to do basically the same thing Liz he was doing, but I was going to be like, I have animal elocutionist, so I can speak to them.
+But it doesn't matter.
+You asked the right questions, right? Like that was like that was sort of the second part of the test.
+It was sort of like three parts of that test.
+Find the market, find the seller, get them at a good price, get them home safe.
+You did the find the market, you did in a different way.
+Basically, they were like, diplomacy tech or perception check and you were like, it.
+You can't do that.
+Dlomacy check? Well, I lowered the DC a little bit because you got creative with it and you because it was supposed to be in DC 19 and you got 17 society and I was like, actually, I'm going to allow this, but like they're not going to give you exactly where it is.
+They're going to give you a general direction.
+You're going to have to go continue this.
+There's going to be another check, which then Liz did really well on the next prisma check.
+Was it this? Yeah.
+Which got you the McCainina name.
+Which may have been like, I've probably could have made that take longer, but like, either way, like, you blitzed that challenge.
+Like, you kind of had that you were on a timer and basically, she was selling one chick hour.
+That's why when you got there, I was like, oh yeah, she sells her second chick at that point.
+She's got six left.
+So you know that there is the man for these things.
+Yeah, yeah, yeah.
+Anyone else thinking like McCain chicken? Yeah, yeah, yeah, yeah, yeah.
+I went near the side of trying to make that a joke, but it didn't quite work.
+And there is like basically at this market, there is common items of level five and below.
+So you guys could actually buy a bunch of shit, but you don't have a lot of money.
+Yeah, I mean, all we've got is, well, we've got like 40 gold? 45 gold each there.
+Yeah.
+Yeah.
+I wasted three silver and chickens.
+I do like the idea.
+No one even considered using their own money.
+No, of course not.
+I mean, if you can haggle first.
+I mean, there was always going to be, okay, each put in a goal, the last one kind of thing.
+There was a way to get them down to two gold per chick, but you needed to roll very well.
+And there was also a way for them to come become five gold per chick.
+I'm guessing there's only one person that could have done that.
+Yeah, I rolled.
+I think I rolled a two won the relevant check.
+Like, I mean, I rolled more than two, just a dice rolled too.
+I think you need to do that check.
+Is there a 25 or a 27 diplomacy? It's 25 diplomacy, intimidation or deception check? Or 23 mercantile check..
+Literally impossible for me to do.
+What laws do people have? So we've got a farming.
+And that's why I gave, I was like, okay, well, members out a farming law.
+That's not mercantile law, but that's like, I'm going like, I'm going to fudge something a little bit here.
+And I gave you an extra chick, basically.
+I was okay with that.
+Again, like, like with chicks at least.
+Yeah, it makes sense in that context and you're getting creative with your law, which I'm the book encourages and I want to encourage, right? So it's like, okay, yeah, I'm not going to give you as much as you would get with mercantile and you kind of just didn't make that last check.
+So I'm going to give you something, but not quite, I'm not going to give you as much as I could.
+Fair.
+But you did very well.
+Like, and I think so far, you were all you doing very well on all these challenges.
+But, like, we've made a very balanced group.
+Yeah.
+I've got a local terrain, which I'm I'm guessing it's jungle.
+I haven't actually written that in properly.
+And Ratfolk.
+So I've got pretty general kind of crap, not too much.
+I have? I have.
+Nambu law.
+Which is going to like they recommend having someone having that and it makes sense in the context.
+Yeah, I think I might have mispoken and said I had Mambia law then.
+At one point.
+And instead of.
+Anyway, it didn't changed too much.
+And then Liz just has general academia law, which is something like kind of interesting.
+Like you were you've been to other magic schools.
+And you just havebo? Sorry? You just had farming or do you have other ones? No, just farming right now.
+Most people just have one law.
+Having more than one law is not common in Pathfinder to eat.
+You can't do it, but soon.
+Soon, I will have the mess of having everything, sort of, but failing all the time.
+I'll have all the specific flaws, fail them all the time, and force Phil to give me two answers.
+That's the build.
+Sometimes it's going to, well, like I'm happy to improv that, right? Like sometimes it's going to be good and worthwhile, and sometimes it's going to be like, fuck, I've just got to come up with two things and get through this.
+And so be it.
+Like.
+But like today, and that was kind of a today one, I was like, okay, well, you know, you, someone else knows that they're a construct, but you don't.
+So I'm saying, you think these are actually an actual creature that's not a construct and they're shapeshifters? And now you probably as a player knew that, okay, well, they're shapeshifters.
+I mean, I'll say that from my perspective, if I was given that exact thing, I would have done the false one being like a reason why I was not caring about, like, like that there was something good that I should be opening up because I don't like committed to that.
+I was like, oh, they're like, I don't know.
+They're like raffle tickets.
+If you collect them, you get a prize from Te art or Is that like a fail thing?? Yes.
+Yeah.
+I reckon this is a bit hard, but if you fail only just, give like one fairly useful bit and one fairly detrimental thing, like they're vulnerable to fire and lightning, only one of them.
+Oh, if you're critical fail, you don't get the other one.
+You just get.
+Wrong.
+I think that will be an evolving thing, like, that' sometimes be very good, and sometimes it's a good plot plot device, though, in general, I think.
+Yeah.
+Yeah.
+So you got to got to remember that um doing the the, what's it called? The recall knowledge? It's a good idea.
+It's really good.
+You can recall.
+Someone should be recalling knowledge in the first round of every fight, pretty much.
+Yeah.
+I got to go.
+I'll see you guys around.
+Yep.
+Can rememberbo.
+All right.
+Also stop recording.

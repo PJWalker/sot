@@ -10,6 +10,7 @@ tags:
 ![[Liana Salazar-1744160515142.png]]
 
 - Said her greatest strength was her brain
+	- “Probably more intelligent than you \[Teacher Ot\]”
 - Wants to aid village and improve her community’s health.
 - Has [Matilda], a pet cat.
 - Has a 'lab' in her dorm

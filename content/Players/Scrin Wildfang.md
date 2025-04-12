@@ -10,6 +10,7 @@ tags:
 
 
 # Notes
+- “Here to represent my family & learn the ways of magic”
 - Says his greatest strength is quickness & magic
 - He aims to defend his village from threats, including those from the nearby jungle.
 

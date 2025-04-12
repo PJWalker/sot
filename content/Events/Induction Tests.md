@@ -6,7 +6,11 @@ Liana used a cantrip to light a candle. Ot encouraged the team to use teamwork i
 [[Finnick Bristle|Finnick]] negotiates with a blue quail to get their feather
 
 ## Secrets of the Snake
-They encounter a small, harmless snake with a distinctive scale pattern. They attempt to extract secrets from the snake, with one individual discovering a hidden spike and another uncovering the existence of a shadow twin.
+* We‘re given a small snake
+* [[Liana Salazar|Liana]] knows it‘s a harmless [[Gurundi shovel-snout]]
+* [[Finnick Bristle|I]] talk to it and learns it is blind in one eye
+* [[Scrin Wildfang|Scrin]] exclaims that it has a shadow-twin
+* They attempt to extract secrets from the snake, with one individual discovering a hidden spike and another uncovering the existence of a shadow twin.
 
 ## Soothe the Soul of the Bone
 Ot presents the group with a with a humanoid bone and must decide how ‘soothe its soul’. One person suggests burying it, while another attempts to extract the soul from the bone. The group ultimately decides to bury the bone and Finnick performs a funeral ritual.

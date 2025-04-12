@@ -11,4 +11,4 @@ tags:
 # Events
 * Sponsored [[Finnick Bristle|me]] in the school
 * Inducted us into the school
-* Described [[Old-Mage Jatembe and the Ten Magic Warriors]]
+* Described [[Old-Mage Jatembe]]

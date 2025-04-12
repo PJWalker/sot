@@ -12,5 +12,5 @@ Only a handful of [[Lore-speaker|lore-speakers]] around at a time. (5 rn?)
 ## Ranks
 - Academic Hierarchy: [[initiate]] → [[attendant]] → [[conversant]] → [[lore-speakers]]
 ## History
-- Founded by [[Old-Mage Jatembe and the Ten Magic Warriors]].
+- Founded by [[Old-Mage Jatembe]].
 - Mission is to continue their legacy, spreading knowledge and hope.

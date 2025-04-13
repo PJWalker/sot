@@ -1,6 +1,10 @@
+import { QuartzComponent } from "../types";
+
 const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
 const currentTheme = localStorage.getItem("theme") ?? userPref
-document.documentElement.setAttribute("saved-theme", currentTheme)
+document.documentElement.setAttribute("saved-theme", currentTheme);
+
+document.startViewTransition ??= (callback) => callback!();
 
 const emitThemeChangeEvent = (theme: "light" | "dark") => {
   const event: CustomEventMap["themechange"] = new CustomEvent("themechange", {

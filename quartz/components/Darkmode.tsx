@@ -5,7 +5,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang";
 
-document.startViewTransition ??= (callback) => callback!();
+
 
 const Darkmode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
   return (

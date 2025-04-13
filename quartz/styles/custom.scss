@@ -20,3 +20,43 @@ p {
 .search-button.hidden {
   visibility: hidden;
 }
+
+.darkmode {
+  view-transition-name: darkButton;
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 0.5s;
+}
+
+::view-transition-old(darkButton),
+::view-transitition-new(darkButton) {
+  animation: none
+}
+
+::view-transition-old(darkButton) {
+  transition: transform 0.5s;
+  transform-origin: center 200%;
+
+  @starting-style {
+    transform: rotate(0)
+  }
+
+  transform: rotate(-90deg);
+}
+
+::view-transition-new(darkButton) {
+  transition: transform 0.5s;
+  transform-origin: center 200%;
+
+  @starting-style {
+    transform: rotate(90deg)
+  }
+
+  transform: rotate(0);
+}
+
+html[saved-theme="dark"] .darkmode svg {
+  fill: #fdf6e3;
+}

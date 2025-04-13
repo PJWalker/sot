@@ -1,10 +1,16 @@
-import { QuartzComponent } from "../types";
-
 const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
 const currentTheme = localStorage.getItem("theme") ?? userPref
-document.documentElement.setAttribute("saved-theme", currentTheme);
+document.documentElement.setAttribute("saved-theme", currentTheme)
 
-document.startViewTransition ??= (callback) => callback!();
+document.startViewTransition ??= (callback) => callback!()
+
+const transitionTheme = (theme: "light" | "dark") => {
+  document.startViewTransition(() => {
+    document.documentElement.setAttribute("saved-theme", theme)
+    localStorage.setItem("theme", theme)
+    emitThemeChangeEvent(theme)
+  })
+}
 
 const emitThemeChangeEvent = (theme: "light" | "dark") => {
   const event: CustomEventMap["themechange"] = new CustomEvent("themechange", {
@@ -15,18 +21,14 @@ const emitThemeChangeEvent = (theme: "light" | "dark") => {
 
 document.addEventListener("nav", () => {
   const switchTheme = () => {
-    const newTheme =
-      document.documentElement.getAttribute("saved-theme") === "dark" ? "light" : "dark"
-    document.documentElement.setAttribute("saved-theme", newTheme)
-    localStorage.setItem("theme", newTheme)
-    emitThemeChangeEvent(newTheme)
+    transitionTheme(
+      document.documentElement.getAttribute("saved-theme") === "dark" ? "light" : "dark",
+    )
   }
 
   const themeChange = (e: MediaQueryListEvent) => {
     const newTheme = e.matches ? "dark" : "light"
-    document.documentElement.setAttribute("saved-theme", newTheme)
-    localStorage.setItem("theme", newTheme)
-    emitThemeChangeEvent(newTheme)
+    transitionTheme(newTheme)
   }
 
   for (const darkmodeButton of document.getElementsByClassName("darkmode")) {

@@ -3,11 +3,6 @@ source: "https://2e.aonprd.com/Rules.aspx?ID=2372&Redirected=1"
 ---
 When you're behind an obstacle that could block weapons, guard you against explosions, and make you harder to detect, you're behind cover. Standard cover gives you a +2 circumstance bonus to AC, to Reflex saves against area effects, and to Stealth checks to Hide, Sneak, or otherwise avoid detection. You can increase this to greater cover using the [Take Cover](https://2e.aonprd.com/Actions.aspx?ID=2307) basic action, increasing the circumstance bonus to +4. If cover is especially light, typically when it's provided by a creature, you have lesser cover, which grants a +1 circumstance bonus to AC. A creature with standard cover or greater cover can attempt to use [Stealth](https://2e.aonprd.com/Skills.aspx?ID=48) to [[Hide]], but lesser cover isn't sufficient.
 
-1.
-2.
-4.
-
-
 ## Cover
 
 | **Type of Cover** | **Bonus** | **Can Hide** |

@@ -1,0 +1,6 @@
+---
+source: "https://2e.aonprd.com/Conditions.aspx?ID=88&Redirected=1"
+---
+You're lying on the ground. You are [[off-guard]] and take a –2 circumstance penalty to attack rolls. The only [move](https://2e.aonprd.com/Traits.aspx?ID=114) actions you can use while you're prone are [Crawl](https://2e.aonprd.com/Actions.aspx?ID=76) and [Stand](https://2e.aonprd.com/Actions.aspx?ID=86). Standing up ends the prone condition. You can [Take Cover](https://2e.aonprd.com/Actions.aspx?ID=90) while prone to hunker down and gain [greater cover](https://2e.aonprd.com/Rules.aspx?ID=459) against ranged attacks, even if you don't have an object to get behind, which grants you a +4 circumstance bonus to AC against ranged attacks (but you remain off-guard).  
+  
+If you would be knocked prone while you're [Climbing](https://2e.aonprd.com/Actions.aspx?ID=33) or [Flying](https://2e.aonprd.com/Actions.aspx?ID=94), you [fall](https://2e.aonprd.com/Rules.aspx?ID=2352). You can't be knocked prone when [Swimming](https://2e.aonprd.com/Actions.aspx?ID=39).

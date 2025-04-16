@@ -1,0 +1,4 @@
+---
+source: https://2e.aonprd.com/Conditions.aspx?ID=84
+---
+Anything in plain view is observed by you. If a creature takes measures to avoid detection, such as by using [Stealth](https://2e.aonprd.com/Skills.aspx?ID=15) to [[Hide]], it can become [[hidden]] or [[undetected]] instead of observed. If you have another [precise sense](https://2e.aonprd.com/Rules.aspx?ID=411) besides sight, you might be able to observe a creature or object using that sense instead. You can observe a creature with only your precise senses. When [Seeking](https://2e.aonprd.com/Actions.aspx?ID=84) a creature using only imprecise senses, it remains hidden, rather than observed.

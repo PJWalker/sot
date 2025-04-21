@@ -25,7 +25,7 @@
 * [[Ukku Kehehd|Ukku]] finds it in on the roof
 * [[Okori]] scares it off.
 ## Secret Passage
-* [[Scrin Wildfang|Scrin]]  finds a secret entrance
+* [[Scrin Wildfang|Scrin]]  finds a secret entrance in the dorm
 * everyone else already knew about it. 
 ## Study
 * We all [[Study|studied]] throughout the term.

@@ -1,8 +1,6 @@
 ---
 tags: []
 ---
-A leaf [[Leshy]] that told us about the [[Leshy Construct|Leshy Constructs]], when we were entering the [[Sparring Tournament]]
-
-We expect to face him in round 2 #Followup
+A leaf [[Leshy]] that told us about the [[Leshy Construct|Leshy Constructs]], when before we faced him in the [[Sparring Tournament]].
 
 Ukku is interested in learning about nature crafting from them.

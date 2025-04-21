@@ -1,0 +1,1 @@
+Our [[Guard Dog]], spawnable from a [[Wondrous Figurine]]

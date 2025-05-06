@@ -313,10 +313,10 @@ Oh, excellent.
 Oh, you should know.
 You have a new member of your group, your student group.
 They're just in their dorm.
-Their name is Ori.
+Their name is Okori.
 You should go say hello.
 They were unfortunately, a couple of days late, they've gone through orientation.
-If you hadn't finished with the gremins, I would have said to get them to help you.
+If you hadn't finished with the gremlins, I would have said to get them to help you.
 But I thought you might be done with that one already.
 Okay.
 All right.
@@ -345,7 +345,7 @@ I'm like, Hey, yes.
 It's me.
 I'm finished.
 You're Okori? A.
-Is that right? Corey? Okori? Okori.
+Is that right? Okori? Okori? Okori.
 And I go in for a hug, but I'm probably mostly hugging the leg if this works.
 She kind of takes sort of a half step back, is this normal costume for your species? Oh, oh, sorry, it's just really nice to meet new people, you know.
 But we don't have to do anything.

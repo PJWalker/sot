@@ -1140,7 +1140,7 @@ She sends somebody else's temple.
 This is not her goddess's temple.
 She is going to be on her best behaviour and represent the destines very well.
 Very well, hand me a silver.
-Corey pulls out, in fact, two silvers, and hands hands them both over.
+Okori pulls out, in fact, two silvers, and hands hands them both over.
 It's for your trouble, your Grace.
 Here are two eggs.
 And he hands you two quail eggs.

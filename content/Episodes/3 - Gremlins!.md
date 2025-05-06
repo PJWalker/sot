@@ -1438,7 +1438,7 @@ And I will cost courageousanthum, which will inspire everyone, giving them a plu
 Age and saves the NCA.
 Cool.
 Only like period did you pick or anyone in the aura? Myself and allies within 60 feet, so in this case, the team..
-And the Gremins are definitely not allies.
+And the gremlins are definitely not allies.
 Cool.
 I don't know about that.
 They can be friends.
@@ -1622,7 +1622,7 @@ It's gone.
 It just runs screaming.
 Wait, that's second.
 How How fast are these gnomes? I mean, not gomes.
-How fast are these gremins? They are.
+How fast are these gremlins? They are.
 How fast are they? 25? Hmm.
 Not slow.
 I mean, like they're like, yeah, they're not like, you could do something like, you could try to catch them and like, but they are running.

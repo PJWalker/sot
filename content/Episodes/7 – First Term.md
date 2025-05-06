@@ -58,11 +58,11 @@ That is very true.
 And then I've got, after telling the stories, they were told to be ready at dawn tomorrow for their introduction ceremony.
 Were being given the rest of the afternoon off.
 In the morning, they went.
-In the morning, they went to the induction area just before dawn, were attacked by by several gremins, who had prepared an ambush at the ceremony site.
+In the morning, they went to the induction area just before dawn, were attacked by by several gremlins, who had prepared an ambush at the ceremony site.
 The attackers appeared from below the ceremony platform, with two doglike gremlins firing arrows and one insectoid one wielding a large hammer.
 The fight nearly turned deadly for finishinginnick when he was peppered by arrows, we managed to retreat to a safer location.
 The insected gmlin was dealt with first, as it was badly hurt, as it advanced towards the party.
-However, the two other gremins proved difficult is the cover of the platformform, the cover underneath the platform, I'll say, the platform to their advantage, butgun was able to advance upon them with the aid from Ukku's Summonrees, and after a short time, the group were able to flank the endemy and cause them enough damage to force them to retreat.
+However, the two other gremlins proved difficult is the cover of the platformform, the cover underneath the platform, I'll say, the platform to their advantage, butgun was able to advance upon them with the aid from Ukku's Summonrees, and after a short time, the group were able to flank the endemy and cause them enough damage to force them to retreat.
 Stud were able to cut off the gremlins from their retreat except for their leader who was able to escape after commanding their underline to cover them.
 And this is where I would drop in.
 Am I missing any key moments? Does anyone feel like I'm undercutting their heroics? That's hero part, but I definitely almost died, too. Member, I used hero points to get back up.
@@ -153,7 +153,7 @@ Finnick talked about their life and death experience in the washroom, but was ab
 Scrin, which basically recaps the rest of the week with Ukku filling in a few blanks.
 After telling their stories, they were told to be ready at dawn tomorrow if their induction ceremony before being given the rest of the afternoon off.
 In the morning, they went to the induction area just before dawn, but were attacked by several gremlins who had prepared an ambush at the ceremony site.
-The attackers appeared from below the ceremonial platform with two doglike gremins firing arrows.
+The attackers appeared from below the ceremonial platform with two doglike gremlins firing arrows.
 They're called pagwampies, and one insecto which reserving a large hammer.
 It was a large hammer for it.
 It was really just a regular kind of just a big hammer, but large for it.

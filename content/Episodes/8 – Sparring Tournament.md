@@ -7,9 +7,16 @@ Scrin lets [[Haibram Thodja|Haibram]] know about the fire weakness.
 We determine our play order:
 1. [[Scrin Wildfang|Scrin]] & [[Liana Salazar|Liana]] 
 2. [[Finnick]] & [[Ukku Kehehd|Ukku]] 
-3.  [[Okori]] & someone, depending on how the first rounds go.
+3.  [[Okori]] & probably [[Liana Salazar|Liana]] again, depending on how the first rounds go.
+## Tournament Day
+We go to the tournament.
+* [[Esi Djana|Esi]], [[Haibram Thodja|Haibram]] & [[Mariama Keitana|Mariama]] are in our bracket.
+* Round 1 is against a large construct. [[Scrin Wildfang|Scrin]] & [[Liana Salazar|Liana]] defeat it handily.
+* Round 2 is against [[Copper Cloudrunner]] and a shield-bearer. [[Finnick Bristle|Finnick]] & [[Ukku Kehehd|Ukku]] manage to defeat them.
+* Round 3 is against three sicklehands and a big construct. [[Okori]] & [[Liana Salazar|Liana]] go down after a fight.
+We learn that no team successfully took out the third team of leshies.
 
-
+As a prize, we get a [[Wondrous Figurine]] of a [[Guard Dog]], named [[Rufus]].
 # Recording
 https://drive.google.com/open?id=1wLl68Kp9gp9vldko_24rUTzBgP6-H1b9&usp=drive_fs
 # Transcript
@@ -2465,7 +2472,7 @@ I don't know why they did that.
 
 I'm just double checking.
 
-Does her Corey have to fight?
+Does her Okori have to fight?
 
 There's nothing saying she has to .
 
@@ -3129,7 +3136,7 @@ The sickle hand didn't fail.
 
 But because its pilot did fail , they're stunned one and blinded for one round, dazzled for one minute.
 
-So okay, PF 2 E stunn Like, I just kind of want to, like play out this moment that a Corey is just kind of, like, taking a, like a half step backward, smacked her hands together in front of her.
+So okay, PF 2 E stunn Like, I just kind of want to, like play out this moment that a Okori is just kind of, like, taking a, like a half step backward, smacked her hands together in front of her.
 
 Her wings are come forward and crossed in front, and then the wings have flown backwards and like, um explosion of glitter.
 
@@ -3159,7 +3166,7 @@ I don't really wonder if we can do this, but I'm gonna have to.
 
 Okay.
 
-And. Through like the exploding litter, Corey reaches out a hand towards Leanna and like, almost like a ripplingling colour of like, black to gray to blue to white, just kind of passes through her arm . To your feet, my friend.
+And. Through like the exploding litter, Okori reaches out a hand towards Leanna and like, almost like a ripplingling colour of like, black to gray to blue to white, just kind of passes through her arm . To your feet, my friend.
 
 And she almost kind of, for a second unstabilizes on the ground and it looks like her talons are trying to dig into the ground itself to hold her in place and she kind of lifts up a little bit off the ground.
 
@@ -3445,7 +3452,7 @@ Uh, then, sure.
 
 I am going to.
 
-Corey's going to let out the most earspicking screech.
+Okori's going to let out the most earspicking screech.
 
 She just kind of like, beats the air with her wings as she's, like, clawing at the ground to stay on the ground.
 
@@ -3619,7 +3626,7 @@ Okay, so one of them is going to go.
 
 Actually, this one words first.
 
-This one will move, clamber up onto the the junk that O' Corey is standing on and try to sweep you.
+This one will move, clamber up onto the the junk that O' Okori is standing on and try to sweep you.
 
 Although this one is still dazzled, so it needs to do a DC. If I check to target you with an attack , it succeeds, so it is going to try to sweep you and trip you, but 13 won't be enough.
 
@@ -3627,7 +3634,7 @@ It's still dazzled, so DC Flat check that succeeds.
 
 It will try to just sickle you.
 
-And that is a 13 to hit, which will miss you, Corey I'm guessinging.
+And that is a 13 to hit, which will miss you, Okori I'm guessinging.
 
 It will.
 
@@ -3659,7 +3666,7 @@ Ro.
 
 Still up.
 
-And then the bramble champion meanders over to O Corey and.
+And then the bramble champion meanders over to O Okori and.
 
 Flatcheck is able to target you, even though it is dazzled and swings its hammer. 26 hits.
 
@@ -3671,7 +3678,7 @@ Yeah, but you do get stabilised, and it hears that you're down and it sort of me
 
 Yes.
 
-And then it is your turn, Leanna, because a corey is down, but there's no death days because you've been immediately stabilised.
+And then it is your turn, Leanna, because a Okori is down, but there's no death days because you've been immediately stabilised.
 
 I'm going to say the big one.
 
@@ -4093,7 +4100,7 @@ I don't know.
 
 I think once she gets so..
 
-Look, my initial reaction to a Corey post-fight is going to be , like a Thumper where he's like, I almost died.
+Look, my initial reaction to a Okori post-fight is going to be , like a Thumper where he's like, I almost died.
 
 It was so scary.
 

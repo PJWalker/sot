@@ -39,46 +39,6 @@
 # Recording
 https://drive.google.com/open?id=1VzCE4W5AeOuW10bJossmxeAop3MnfffX&usp=drive_fs
 # Transcript
-Ooh, I got knees.
-I just realised.
-Ooh.
-I mean, I caught up with flletch during the wake.
-Oh, I missed that, dude.
-I am here.
-Unfortunately, I think I am the person that this means the least two out of all of the people here.
-Fletch was a friend of the guys before I came in and then he left our Sunday night game in.
-We were doing Tom of Ventilation.
-Oh, we've spoken a couple of times, like over the past couple of years and everything.
-Well, I heard from him last week and it was so good.
-I miss him.
-It was interesting because he would have these companative conversations about politics with Mimbo that it got to a point where, yeah, at at first it was kind of fun, but then at then it's like when he would start up something, it's like, right, loging off.
-Okay.
-Let them talk.
-But who was that? That's the important thing.
-Which he..
-I thought I said, who, who was right? I don't remember.
-I've kind of blanked that part out.
-There's no right or wrong in politics.
-He had an issue with the Communist Party.
-So he was wrong.
-No, I mean, he's entitled to his opinion.
-It's incorrect opinion.
-It was really funny.
-Well, kind of funny to me, like, I don't know if it's considered funny, but one time we, a bunch of us got together to do this Sunday game at members' office.
-So it got members's office got nicknamed the CCP.
-So, yeah, kind of humourous, but in a good way.
-Yeah..
-I just actually, I've just remembered that there are a couple of gaps in my summary.
-We began last episode with a PCs recounting their story of their orientation week to Oora and O Solo for the Uzanjati assignment.
-They all took a different approach with Liana recounting a poem she'd written during the week to bring a tear to the other students.
-Aquari sang a song to tell her story, which brought more tears to some of the students.
-It's.
-Very teary day.
-Emotional.
-Then I' got, what did you do, Fenick? Hello.
-Do you remember what you told your story? It's just directed at me, I just got my headphones on.
-Yeah.
-Oh, yeah, Paul, it is directed to you.
 Do you remember how you told your story last session? I' I just had a couple of gaps in the recap.
 How? I talked about fighting the, what's it called? The origami thing.
 About their life and death experience.

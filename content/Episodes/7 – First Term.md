@@ -1,3 +1,6 @@
+[[6 – Induction Ceremony?]] |  [[8 – Sparring Tournament]] 
+***
+ 
  * Ukku heals Scrin.
 * [[Teacher Ot|Takulu Ot]] calls off the [[Induction Ceremony]]
 * We meet teachers:
@@ -34,7 +37,6 @@
 	* [[Finnick Bristle|Finnick]] +1 [[Emerald Boughs]]
 	* [[Okori]] +2 [[Tempest Sun-Mages]] 
 	* [[Ukku Kehehd|Ukku]] was also there
-
 ***
 # Recording
 https://drive.google.com/open?id=1VzCE4W5AeOuW10bJossmxeAop3MnfffX&usp=drive_fs

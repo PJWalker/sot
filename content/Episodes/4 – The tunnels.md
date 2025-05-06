@@ -1,3 +1,6 @@
+[[3 - Gremlins!]] | [[5 — Mail Run]]
+***
+
 * We noticed a trap door while fighting the [[Gremlin|Gremlins]], and go in
 * We find paths leading to [[Star Dormitory]], and then [[Archhorn Library]], 
 * We go back to our [[Spire Dormitory|dorms]] 

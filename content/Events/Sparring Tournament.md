@@ -1,8 +1,6 @@
 ---
 tags: []
 ---
-![[Sparring Tournament-1744159848217.png]]
-
 > Monthly Sparring Tournament this Starday at the [[Leshy Gardens]]
 > Initiates and Attendants Only—
 > All Skill Levels Welcome
@@ -10,6 +8,10 @@ tags: []
 > Winner Receives Prize
 > Attendance Strongly Encouraged!
 
-Not really single elimination brackets(?); each team faces waves of [[Leshy Construct|Leshy Constructs]]
-
 Learnt about it in [[7 – First Term]], happening in [[8 – Sparring Tournament]]
+## Tournament rules
+Each team faces waves of [[Leshy Construct|Leshy Constructs]]
+Max team 6, 2 people per round.
+5 min between rounds (not enough time to treat wounds or refocus.)
+
+

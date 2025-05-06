@@ -2,6 +2,9 @@
 modified: 
 tags:
 ---
+[[2 – Ojofiri Chicken]] | [[4 – The tunnels]]
+***
+
 ## Return to  [[Kafesi Market]]
 * [[Scrin Wildfang|Scrin]] gets a new rapier
 * [[Ukku Kehehd|Ukku]] gets some apple seeds

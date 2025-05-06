@@ -1,3 +1,5 @@
+[[5 — Mail Run]] | [[8 – Sparring Tournament]]
+***
 ## Story of Our Week
 * [[Okoro Obioyo|Okoro]] & [[Noxolo]] asked us to recount the story of our week, as part of the [[Uzunjati]] task.
 	* [[Liana Salazar|Liana]] recited a poem

@@ -1,3 +1,6 @@
+[[2 – Ojofiri Chicken]]
+***
+
 * [[Teacher Ot]] welcomes us to [[Magaambya|the Magaambya]] 
 * Gave us the  [[Induction Tests]]
 * Had us choose a symbol, which corresponded to a cantrip

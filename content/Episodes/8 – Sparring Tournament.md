@@ -13,7 +13,7 @@ We go to the tournament.
 * [[Esi Djana|Esi]], [[Haibram Thodja|Haibram]] & [[Mariama Keitana|Mariama]] are in our bracket.
 * Round 1 is against a large construct. [[Scrin Wildfang|Scrin]] & [[Liana Salazar|Liana]] defeat it handily.
 * Round 2 is against [[Copper Cloudrunner]] and a shield-bearer. [[Finnick Bristle|Finnick]] & [[Ukku Kehehd|Ukku]] manage to defeat them.
-* Round 3 is against three sicklehands and a big construct. [[Okori]] & [[Liana Salazar|Liana]] go down after a fight.
+* Round 3 is against three sickle-hands and a big construct. [[Okori]] & [[Liana Salazar|Liana]] go down after a fight.
 We learn that no team successfully took out the third team of leshies.
 
 As a prize, we get a [[Wondrous Figurine]] of a [[Guard Dog]], named [[Rufus]].

@@ -17,4 +17,5 @@ The typical guard dog is loyal to and beloved by many communities. Often adored 
 ---
 
 **Speed** 30 feet  
-**Melee** \[one-action\] jaws +6 \[[+1/-4](https://2e.aonprd.com/Rules.aspx?ID=322)\], **Damage** 1d4+1 piercing**Pack Attack** The dog’s Strikes deal 1d4 extra damage to creatures within the [reach](https://2e.aonprd.com/Rules.aspx?ID=445) of at least two of the dog’s allies.
+**Melee** \[one-action\] jaws +6 \[[+1/-4](https://2e.aonprd.com/Rules.aspx?ID=322) \], **Damage** 1d4+1 piercing
+**Pack Attack** The dog’s Strikes deal 1d4 extra damage to creatures within the [reach](https://2e.aonprd.com/Rules.aspx?ID=445) of at least two of the dog’s allies.

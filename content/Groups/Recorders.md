@@ -9,4 +9,4 @@ tags: []
 * [[Okori]] 
 * [[Finnick Bristle|Finnick]]
 
-Group is experimenting with ways to record audio
+Group is experimenting with ways to record audio. 

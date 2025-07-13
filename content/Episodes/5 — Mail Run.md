@@ -4,7 +4,8 @@ tags: []
 [[4 – The tunnels]] | [[6 – Induction Ceremony?]]
 ***
 
-* [[Liana Salazar|Liana]] & [[Ukku Kehehd|Ukku]] are still poisoned
+* [[Emerald Boughs]] 
+* [[Liana Salazar|Liana]] & [[Ukku Kehehd|Ukku]] are still poisonedx
 ## Mail Run
 * [[Ignaci Canterells|Ignaci]] & [[Tzeniwe]] ask for help delivering the mail
 * We deliver letter to [[Nethys]] by casting 5 spells at once

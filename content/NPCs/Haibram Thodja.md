@@ -12,3 +12,4 @@ tags:
 
 # Interactions
 - Took us to the [[Ojofiri Chicken]] chicken quest
+

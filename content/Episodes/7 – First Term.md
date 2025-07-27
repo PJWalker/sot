@@ -38,6 +38,7 @@
 	* [[Okori]] +2 [[Tempest Sun-Mages]] 
 	* [[Ukku Kehehd|Ukku]] was also there
 ***
+
 # Recording
 https://drive.google.com/open?id=1VzCE4W5AeOuW10bJossmxeAop3MnfffX&usp=drive_fs
 # Transcript
